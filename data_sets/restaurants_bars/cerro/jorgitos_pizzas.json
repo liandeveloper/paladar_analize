@@ -1,0 +1,113 @@
+{
+    "establishment": ["restaurante"],
+    "name": "jorgito's pizzas",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "street": "pedroso 5A / infanta y cruz del padre",
+        "coordinates": {
+            "latitude": 23.120843367341358,
+            "longitude": -82.37358561139791
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/jorgitospizza/",
+        "whatsapp": "+5354031349",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1100-2300",
+        "tuesday": "1100-2300",
+        "wednesday": "1100-2300",
+        "thursday": "1100-2300",
+        "friday": "1100-2300",
+        "saturday": "1100-2300",
+        "sunday": "1100-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["pizzeria"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pizza de napolitana", "price": 850.00},
+                {"name": "pizza de chorizo", "price": 1000.00},
+                {"name": "pizza de jamón", "price": 1000.00},
+                {"name": "pizza de hawaiana", "price": 1150.00},
+                {"name": "pizza de cebolla", "price": 1000.00},
+                {"name": "espaguetis", "price": 850.00},
+                {"name": "espaguetis de jamón", "price": 1100.00},
+                {"name": "espaguetis de chorizo", "price": 1000.00},
+                {"name": "hamburguesa", "price": 1200.00},
+                {"name": "hamburguesa jamón y queso", "price": 1650.00},
+                {"name": "hamburguesa onbazar", "price": 2700.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "jamón", "price": 180.00},
+                {"name": "piña", "price": 180.00},
+                {"name": "pimiento", "price": 250.00},
+                {"name": "cebolla", "price": 300.00},
+                {"name": "chorizo", "price": 170.00},
+                {"name": "hawaiana", "price": 250.00},
+                {"name": "queso gouda", "price": 300.00},
+                {"name": "queso nacinal", "price": 180.00},
+                {"name": "queso mozzarella", "price": 240.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "café expreso", "price": 180.00},
+                {"name": "café cortado", "price": 220.00},
+                {"name": "capuchino", "price": 450.00},
+                {"name": "café bombón", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "piña colada", "price": 600.00},
+                {"name": "piña colada (alchol)", "price": 750.00},
+                {"name": "limonada frapé", "price": 400.00},
+                {"name": "malteada", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

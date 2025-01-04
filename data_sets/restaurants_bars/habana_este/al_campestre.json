@@ -1,0 +1,141 @@
+{
+    "establishment": ["restaurante"],
+    "name": "al campestre",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "street": "via blanca km 14. alamar, alamar",
+        "coordinates": {
+            "latitude": 23.155252805662922,
+            "longitude": -82.27085060531954
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.instagram.com/alcampestre/",
+        "instagram": "https://www.facebook.com/alCampestre",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5377657743"
+    },
+    "schedule": {
+        "monday": "0900-2300",
+        "tuesday": "0900-2300",
+        "wednesday": "0900-2300",
+        "thursday": "0900-2300",
+        "friday": "0900-2300",
+        "saturday": "0900-2300",
+        "sunday": "0900-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": true
+    },
+    "specialties": ["comida mixta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "vianda hervida", "price": 180.00},
+                {"name": "vianda frita", "price": 350.00},
+                {"name": "tostones criollos", "price": 350.00},
+                {"name": "croquetas de la casa", "price": 400.00},
+                {"name": "tostones en tapas", "price": 560.00},
+                {"name": "firtura de malanga", "price": 450.00},
+                {"name": "ensalada fria", "price": 650.00},
+                {"name": "papas fritas", "price": 700.00},
+                {"name": "ceviche", "price": 1000.00},
+                {"name": "crema de queso", "price": 400.00},
+                {"name": "crema aurora", "price": 450.00},
+                {"name": "crema virginia", "price": 470.00},
+                {"name": "fajitas de pollo", "price": 1560.00},
+                {"name": "eperlan", "price": 2100.00},
+                {"name": "coctel de camarones", "price": 2200.00},
+                {"name": "brusquetas", "price": 650.00},
+                {"name": "tabla charcutera", "price": 1750.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pizza napolitana", "price": 970.00},
+                {"name": "pizza bambina", "price": 550.00},
+                {"name": "pizza al campestre", "price": 1960.00},
+                {"name": "spaghetti con queso", "price": 820.00},
+                {"name": "ropa vieja de res", "price": 2450.00},
+                {"name": "vaca frita", "price": 2560.00},
+                {"name": "langosta grille", "price": 4860.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "ensalada de estacion", "price": 100.00},
+                {"name": "arroz blanco", "price": 150.00},
+                {"name":"arroz moro", "price":220},
+                {"name":"arroz con vegetales", "price":350.00},
+                {"name":"vegetales salteados", "price":250.00},
+                {"name":"frijoles negros", "price":350.00},
+                {"name":"frijoles colorados", "price":400.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "dulces caseros", "price": 380.00},
+                {"name": "tarta tiramisu", "price": 5000.00},
+                {"name":"torrejas de la casa", "price":500.00},
+                {"name":"cuna de mousse", "price":570.00},
+                {"name":"tarta de mousse", "price":4500.00},
+                {"name":"cuna cheesecake", "price":650.00},
+                {"name":"tarta cheesecake", "price":5000.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name":"alexander", "price":450.00},
+                {"name":"bloddy Marry", "price":450.00},
+                {"name":"cubanito", "price":450.00},
+                {"name":"daiquiri", "price":460.00},
+                {"name":"daiquiri rebelde", "price":500.00},
+                {"name":"martin", "price":450.00},
+                {"name":"mojito", "price":750.00},
+                {"name":"pina Colada", "price":720.00},
+                {"name":"sangria", "price":850.00},
+                {"name":"virgen Colada", "price":450.00},
+                {"name":"caipirina", "price":400.00},
+                {"name":"caipiroska", "price":400.00},
+                {"name":"caipirisima", "price":400.00},
+                {"name":"canchanchara", "price":400.00},
+                {"name":"margarita", "price":650.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name":"tinto verano", "price":1100.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "establishment": ["restaurante", "cafetería"],
+    "name": "martínez club",
+    "address": {
+        "city": "la habana",
+        "town": "cotorro",
+        "street": "calle 20 e/ 69 y 67A, #6726, cotorro",
+        "coordinates": {
+            "latitude": 23.047291701437665,
+            "longitude": -82.2683824783399
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/martinez_club_cafeteria/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-2100",
+        "tuesday": "0900-2100",
+        "wednesday": "0900-2100",
+        "thursday": "0900-2100",
+        "friday": "0900-2100",
+        "saturday": "0900-2100",
+        "sunday": "0900-2100"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla", "rápida"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "fritura de malanga", "price": 300.00},
+                {"name": "ensalada fría", "price": 150.00},
+                {"name": "croquetas", "price": 300.00},
+                {"name": "tostones al ajillo", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pollo chiflado", "price": 700.00},
+                {"name": "masa de cerdo frita", "price": 1100.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "expresso", "price": 20.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "refresco", "price": 20.00},
+                {"name": "jugo", "price": 50.00},
+                {"name": "malteada", "price": 330.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

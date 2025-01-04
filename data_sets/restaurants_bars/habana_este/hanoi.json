@@ -1,0 +1,160 @@
+{
+    "establishment": ["restaurante"],
+    "name": "ranchon hanoi",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "street": "parque hanoi, zona 6, alamar",
+        "coordinates": {
+            "latitude": 23.135660625346972,
+            "longitude": -82.35658596616373
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/RanchonHanoi?mibextid=ZbWKwL",
+        "instagram": "https://www.instagram.com/cooperativa_hanoi/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5377630542"
+    },
+    "schedule": {
+        "monday": null,
+        "tuesday": "1200-2300",
+        "wednesday": "1200-2300",
+        "thursday": "1200-2300",
+        "friday": "1200-2300",
+        "saturday": "1200-2300",
+        "sunday": "1200-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": true
+    },
+    "specialties": ["comida mixta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "dados de jamon", "price": 300.00},
+                {"name": "dados de queso gouda", "price": 450.00},
+                {"name": "entremes de jamon y queso gouda", "price": 700.00},
+                {"name": "entremes de chorizo y queso gouda", "price": 700.00},
+                {"name": "entremes surtido", "price": 1200.00},
+                {"name": "coctel de camaron", "price": 950.00},
+                {"name": "coctel de langosta", "price": 950.00},
+                {"name": "ensalada fria de jamon", "price": 360.00},
+                {"name": "ensalada fria de atun", "price": 400.00},
+                {"name": "vianda frita", "price": 250.00},
+                {"name": "croquetas de la casa", "price": 300.00},
+                {"name": "baston de pollo", "price": 500.00},
+                {"name": "eperlan de pescado", "price": 900.00},
+                {"name": "toston con mojo criollo", "price": 250.00},
+                {"name": "toston estilo ranchon", "price": 580.00},
+                {"name": "toston relleno con jamon y queso gouda", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "espaghettis napolitanos", "price": 650.00},
+                {"name": "pizza napolitana", "price": 700.00},
+                {"name": "bistec de cerdo", "price": 1350.00},
+                {"name": "fajitas de cerdo", "price": 1350.00},
+                {"name": "bistec de cerdo napado con queso", "price": 1700.00},
+                {"name": "bistec de cerdo a la princesa", "price": 1950.00},
+                {"name": "fricase de cerdo", "price": 1500.00},
+                {"name": "masas de cerdo fritas", "price": 1450.00},
+                {"name": "lomo de cerdo ahumado", "price": 1450.00},
+                {"name": "ropa vieja", "price": 1100.00},
+                {"name": "fricase de cordero", "price": 1650.00},
+                {"name": "bistec de pollo al queso", "price": 1690.00},
+                {"name": "pollo san carlos con jamon gratinado con queso", "price": 1850.00},
+                {"name": "pollo al gusto", "price": 1000.00},
+                {"name": "higado de res a la italiana", "price": 900.00},
+                {"name": "filete de pescado", "price": 1700.00},
+                {"name": "ruedas de pescado", "price": 1650.00},
+                {"name": "filete de pescado gratinado al queso", "price": 1950.00},
+                {"name": "filete de pescado john bill", "price": 2400.00},
+                {"name": "eperlan de pescado", "price": 1800.00},
+                {"name": "pescado entero", "price": 1500.00},
+                {"name": "langosta grille", "price": 1800.00},
+                {"name": "enchilado de langosta", "price": 1900.00},
+                {"name": "camaron grille", "price": 1800.00},
+                {"name": "enchilado de camaron", "price": 1900.00},
+                {"name": "todo mar", "price": 2600.00},
+                {"name": "mar y tierra", "price": 2300.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "arroz blanco", "price": 100.00},
+                {"name": "arroz congri", "price": 150.00},
+                {"name": "vianda hervida", "price": 150.00},
+                {"name": "ensalada de estacion", "price": 150.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "flan", "price": 250.00},
+                {"name": "copa lolita de helado", "price": 425.00},
+                {"name": "jimaguas de helado", "price": 200.00},
+                {"name": "3 gracias", "price": 270.00},
+                {"name": "ensalada de helado", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name":"cafe cortadito", "price":250.00},
+                {"name":"cafe expreso", "price":100.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name":"limonada clarete", "price":500.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name":"michelada", "price":500.00},
+                {"name":"chelada", "price":400.00},
+                {"name":"sangria", "price":500.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name":"cuba Libre", "price":380.00},
+                {"name":"cubata", "price":400.00},
+                {"name":"mojito", "price":400.00},
+                {"name":"mary pickfor", "price":400.00},
+                {"name":"habana especial", "price":400.00},
+                {"name":"daiquiri", "price":350.00},
+                {"name":"daiquiri rebelde", "price":380.00},
+                {"name":"pina colada", "price":500.00},
+                {"name":"caipirina", "price":350.00},
+                {"name":"caipiroska", "price":350.00},
+                {"name":"caipirisima", "price":350.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name":"ron coffin", "price":400.00}
+            ]
+        }
+    ]
+}

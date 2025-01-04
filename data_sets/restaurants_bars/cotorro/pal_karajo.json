@@ -1,0 +1,105 @@
+{
+    "establishment": ["bar"],
+    "name": "pal karajo",
+    "address": {
+        "city": "la habana",
+        "town": "cotorro",
+        "street": "avenida 101 esquina 16 centro cotorro",
+        "coordinates": {
+            "latitude": 23.143332253228404,
+            "longitude": -82.35411809182807
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/pal_kar.ajo/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5353237074"
+    },
+    "schedule": {
+        "monday": "1000-2200",
+        "tuesday": "1000-2200",
+        "wednesday": "1000-2200",
+        "thursday": "1000-2200",
+        "friday": "1000-2200",
+        "saturday": "1000-2200",
+        "sunday": "1000-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["comida rapida"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "tacos de cerdo mechados", "price": 890.00},
+                {"name": "tacos de cerdo estofados", "price": 990.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "expresso", "price": 100.00},
+                {"name": "cortado", "price": 150.00},
+                {"name": "capuccino", "price": 300.00},
+                {"name": "frapuccino", "price": 400.00},
+                {"name": "bombón", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "jugo de mango", "price": 200.00},
+                {"name": "jugo de piña", "price": 200.00},
+                {"name": "batido de mango", "price": 380.00},
+                {"name": "batido de mamey", "price": 400.00},
+                {"name": "batido de trigo", "price": 380.00},
+                {"name": "batido de maní", "price": 400.00},
+                {"name": "batido de maní con chocolate", "price": 450.00},
+                {"name": "malteada", "price": 500.00},
+                {"name": "limonada", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "michelada con cristal", "price": 550.00},
+                {"name": "chelada con cristal", "price": 550.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "piña colada", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

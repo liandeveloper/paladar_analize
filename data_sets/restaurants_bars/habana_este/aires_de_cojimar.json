@@ -1,0 +1,127 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "aires de cojimar",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "street": "pezuela #3e05 entre la rua y espartero, cojimar",
+        "coordinates": {
+            "latitude": 23.162074188301464,
+            "longitude": -82.29442813415525
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.instagram.com/airesdecojimar/",
+        "instagram": "https://www.facebook.com/groups/750679669616425/about",
+        "whatsapp": null,
+        "web": "https://airesdecojimar.godaddysites.com/",
+        "telephone": "+5377666890"
+    },
+    "schedule": {
+        "monday": "1200-0000",
+        "tuesday": "1200-0000",
+        "wednesday": "1200-0000",
+        "thursday": "1200-0000",
+        "friday": "1200-0000",
+        "saturday": "1200-0000",
+        "sunday": "1200-0000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["comida mixta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "coctel de pescado", "price": 550.00},
+                {"name": "ensalada mixta", "price": 400.00},
+                {"name": "picadera mixta", "price": 1200.00},
+                {"name": "coctel bella mar", "price": 750.00},
+                {"name": "ceviche aires de cojimar", "price": 850.00},
+                {"name": "lomo de pescado en escabeche", "price": 950.00},
+                {"name": "bolitas de queso", "price": 550.00},
+                {"name": "eperlan", "price": 950.00},
+                {"name": "frituras de malanga", "price": 550.00},
+                {"name": "tapas caprichosas", "price": 425.00},
+                {"name": "surtido de croquetas", "price": 450.00},
+                {"name": "tostones al ajo", "price": 350.00},
+                {"name": "sopon de mariscos", "price": 750.00},
+                {"name": "sopa de pollo y vegetales", "price": 550.00},
+                {"name": "crema de calabaza y queso", "price": 500.00},
+                {"name": "crema de queso", "price": 500.00},
+                {"name": "crema de mariscos", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "costillas de cerdo fritas", "price": 1950.00},
+                {"name": "arroz con camarones", "price": 1450.00},
+                {"name": "milanesa a la napolitana", "price": 1450.00},
+                {"name": "uruguayo de cerdo", "price": 1750.00},
+                {"name": "camaron al ajillo", "price": 1550.00},
+                {"name": "langosta varadero", "price": 1950.00},
+                {"name": "langosta busito", "price": 2000.00},
+                {"name": "langosta aires de cojimar", "price": 5500.00},
+                {"name": "pulpo al vino tinto", "price": 2850.00},
+                {"name": "pulpo al ajillo", "price": 2850.00},
+                {"name": "filete de pescado grille", "price": 1250.00},
+                {"name": "filete de pescado en salsa de romero y limon", "price": 1350.00},
+                {"name": "filete de pescado con camarones al graten", "price": 1650.00},
+                {"name": "filete de pescado canciller", "price": 1650.00},
+                {"name": "camarones tropicales", "price": 1550.00},
+                {"name": "enchilado de camarones", "price": 1450.00},
+                {"name": "camarones al sesamo", "price": 1450.00},
+                {"name": "caldereta dona blanca", "price": 3500.00},
+                {"name": "dados de cerdo a la cojimera", "price": 1400.00},
+                {"name": "bistec de cerdo al mojo criollo", "price": 1400.00},
+                {"name": "pollo con camarones al graten", "price": 1450.00},
+                {"name": "pollo hawaiano", "price": 1150.00},
+                {"name": "sabor del cielo", "price": 1550.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "ensalada mixta", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "dulces finos", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

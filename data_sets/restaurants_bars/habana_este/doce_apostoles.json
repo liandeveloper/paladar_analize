@@ -1,0 +1,113 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "los doce apostoles",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "street": "complejo morro cabana, via monumental",
+        "coordinates": {
+            "latitude": 23.149725177442555,
+            "longitude": -82.35606762398878
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/profile.php?id=100064256432610",
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5377937733"
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": false,
+        "transfer": false,
+        "credit_card": true
+    },
+    "specialties": ["criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "entremes de jamon y queso", "price": 400.00},
+                {"name": "eperlan de pescado", "price": 550.00},
+                {"name": "anillas de calamar", "price": 550.00},
+                {"name": "alitas de pollo", "price": 450.00},
+                {"name": "nuggets de pollo", "price": 250.00},
+                {"name": "picadera especial", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pollo grille", "price": 700.00},
+                {"name": "fajitas de res", "price": 950.00},
+                {"name": "steak de res", "price": 950.00},
+                {"name": "fajitas de cerdo", "price": 800.00},
+                {"name": "masas de cerdo", "price": 900.00},
+                {"name": "filete de pescado", "price": 900.00},
+                {"name": "pescado del chef", "price": 1100.00},
+                {"name": "gambas al grill", "price": 1200.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "maltas", "price": 210.00},
+                {"name": "maltina perla negra", "price": 180.00},
+                {"name": "jugo natural en caja", "price": 300.00},
+                {"name": "refrescos nacionales", "price": 280.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cerveza dispensada", "price": 190.00},
+                {"name": "cerveza importada", "price": 220.00},
+                {"name": "cerveza nacional", "price": 215.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "vino tinto (copa)", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "ron habana club anejo blanco (shot)", "price": 80.00},
+                {"name": "ron habana club profundo (shot)", "price": 160.00},
+                {"name": "ron habana club selección de maestro (shot)", "price": 350.00},
+                {"name": "ron cubay carta blanca (shot)", "price": 100.00}
+            ]
+        }
+    ]
+}

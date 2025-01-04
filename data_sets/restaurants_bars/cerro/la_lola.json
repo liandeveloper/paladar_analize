@@ -1,0 +1,169 @@
+{
+    "establishment": ["bar"],
+    "name": "la lola",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "street": "calle ayestarán entre san pablo y pedro pérez",
+        "coordinates": {
+            "latitude": 23.119973855007796,
+            "longitude": -82.38311786114076
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/la_lola_bar_/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5353654726"
+    },
+    "schedule": {
+        "monday": "1400-0300",
+        "tuesday": "1400-0300",
+        "wednesday": "1400-0300",
+        "thursday": "1400-0300",
+        "friday": "1400-0300",
+        "saturday": "1400-0300",
+        "sunday": "1400-0300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false,
+        "parking": true,
+        "reservations": true,
+        "power_plant": true
+    },
+    "payment": {
+        "cash": false,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["cocteleria"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "brusquetas", "price": 700.00},
+                {"name": "croquetas de jamón", "price": 600.00},
+                {"name": "papas fritas", "price": 550.00},
+                {"name": "papas gratinadas", "price": 800.00},
+                {"name": "tostón relleno de atún", "price": 1100.00},
+                {"name": "tostón relleno de jamón y queso", "price": 800.00},
+                {"name": "bolitas de queso", "price": 730.00},
+                {"name": "frituras de malanga", "price": 500.00},
+                {"name": "picadera lalola", "price": 4000.00},
+                {"name": "picadera sencilla", "price": 1500.00},
+                {"name": "bocadillo de jamón y queso", "price": 500.00},
+                {"name": "sándwich de jamón y queso/papas", "price": 1200.00},
+                {"name": "sándwich cubano", "price": 1100.00},
+                {"name": "sándwich de jamón y queso", "price": 900.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "canelones", "price": 1350.00},
+                {"name": "penne napolitano", "price": 1100.00},
+                {"name": "pizza napolitana", "price": 1200.00},
+                {"name": "espagueti napolitano", "price": 1100.00},
+                {"name": "espagueti a la carbonara", "price": 1970.00},
+                {"name": "tacos de carne", "price": 900.00},
+                {"name": "hamburguesa", "price": 1500.00},
+                {"name": "lonjas de cerdo", "price": 3500.00},
+                {"name": "nuggets de pollo", "price": 2000.00},
+                {"name": "masas de cerdo", "price": 1750.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "ají", "price": 150.00},
+                {"name": "chorizo", "price": 300.00},
+                {"name": "atún", "price": 600.00},
+                {"name": "jamón pierna", "price": 300.00},
+                {"name": "piña", "price": 150.00},
+                {"name": "cebolla", "price": 250.00},
+                {"name": "queso de cabra", "price": 600.00},
+                {"name": "queso gouda", "price": 500.00},
+                {"name": "queso parmesano", "price": 800.00},
+                {"name": "aceituna", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "helado", "price": 900.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "café bombom", "price": 350.00},
+                {"name": "café cortadito", "price": 300.00},
+                {"name": "café express", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "limonada frape", "price": 450.00},
+                {"name": "kermato", "price": 580.00},
+                {"name": "malta optimal", "price": 370.00},
+                {"name": "refresco naranja", "price": 300.00},
+                {"name": "refresco de limón", "price": 300.00},
+                {"name": "refresco cola", "price": 300.00},
+                {"name": "refresco", "price": 300.00},
+                {"name": "refresco pepsi", "price": 350.00},
+                {"name": "café express", "price": 200.00},
+                {"name": "jugo la estancia", "price": 350.00},
+                {"name": "malteada", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cerveza bucanero lata", "price": 350.00},
+                {"name": "cerveza heineken botella", "price": 574.00},
+                {"name": "cerveza cristal lata", "price": 350.00},
+                {"name": "cerveza cristal botella", "price": 420.00},
+                {"name": "cerveza super bock botella", "price": 370.00},
+                {"name": "cerveza sol", "price": 480.00},
+                {"name": "copa lolita ración", "price": 2000.00},
+                {"name": "cubetazo la lola", "price": 4200.00},
+                {"name": "cubetazo picadera", "price": 3300.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "piña colada", "price": 700.00},
+                {"name": "ron collins", "price": 450.00},
+                {"name": "sangría", "price": 600.00},
+                {"name": "screw driver", "price": 475.00},
+                {"name": "daiquiri", "price": 350.00},
+                {"name": "gintonic", "price": 750.00},
+                {"name": "john collins", "price": 450.00},
+                {"name": "mojito", "price": 350.00},
+                {"name": "margarita", "price": 950.00},
+                {"name": "blue hawai", "price": 550.00},
+                {"name": "blue lagoon", "price": 550.00},
+                {"name": "caipirinha", "price": 350.00},
+                {"name": "caipirisima", "price": 350.00},
+                {"name": "caipiroska", "price": 600.00},
+                {"name": "cuba libre", "price": 350.00},
+                {"name": "cubanito", "price": 450.00},
+                {"name": "cubata", "price": 400.00},
+                {"name": "chelada", "price": 150.00},
+                {"name": "michelada", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

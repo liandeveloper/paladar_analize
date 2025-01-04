@@ -1,0 +1,98 @@
+{
+    "establishment": ["restaurante"],
+    "name": "el rápido",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "street": "cruz del padre entre pedrosa y amenidares",
+        "coordinates": {
+            "latitude": 23.06812714030338,
+            "longitude": -82.34110956484723
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0730-1930",
+        "tuesday": "0730-1930",
+        "wednesday": "0730-1930",
+        "thursday": "0730-1930",
+        "friday": "0730-1930",
+        "saturday": "0730-1930",
+        "sunday": "0730-1930"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["comida rápida"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquetas", "price": 300.00},
+                {"name": "papas fritas", "price": 360.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pan con tortilla", "price": 300.00},
+                {"name": "pan con tortilla , jamón", "price": 360.00},
+                {"name": "pan con tortilla, chorizo", "price": 360.00},
+                {"name": "pan con tortilla, cebolla", "price": 360.00},
+                {"name": "pan con tortilla , queso gouda", "price": 400.00},
+                {"name": "espaguetis", "price": 850.00},
+                {"name": "espaguetis napolitano", "price": 380.00},
+                {"name": "espaguetis de chorizo", "price": 1000.00},
+                {"name": "hamburguesa de cerdo", "price": 620.00},
+                {"name": "hamburguesa de res", "price": 720.00},
+                {"name": "pollo chiflado", "price": 750.00},
+                {"name": "sandwich cubano", "price": 860.00},
+                {"name": "pan con bitec de cerdo", "price": 750.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

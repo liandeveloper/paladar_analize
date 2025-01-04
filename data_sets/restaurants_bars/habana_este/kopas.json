@@ -1,0 +1,141 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "kopas",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "street": "calle 482. 5ta avenida esquina 482, guanabo",
+        "coordinates": {
+            "latitude": 23.169620849051842,
+            "longitude": -82.1371263746307
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/kopas.kopas.961/",
+        "instagram": "https://www.instagram.com/kopas_bar_restaurant/",
+        "whatsapp": null,
+        "web": "https://tienda.tecopos.com/kopas",
+        "telephone": "+5351566616"
+    },
+    "schedule": {
+        "monday": "1000-2330",
+        "tuesday": "1000-2330",
+        "wednesday": "1000-2330",
+        "thursday": "1000-2330",
+        "friday": "1000-2330",
+        "saturday": "1000-2330",
+        "sunday": "1000-2330"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": true
+    },
+    "specialties": ["comida mixta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "tacos de camaron", "price": 1250.00},
+                {"name": "tacos de res", "price": 995.00},
+                {"name": "tacos de cerdo", "price": 975.00},
+                {"name": "tacos de langosta", "price": 1350.00},
+                {"name": "tacos de pescado", "price": 975.00},
+                {"name": "fritura de malanga", "price": 750.00},
+                {"name": "tostones rellenos de camaron", "price": 1100.00},
+                {"name": "tostones rellenos de jamon y queso", "price": 975.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "brochetas de langosta", "price": 2350.00},
+                {"name": "brochetas de camaron", "price": 2100.00},
+                {"name": "brochetas de cerdo", "price": 1850.00},
+                {"name": "brochetas de pollo", "price": 1550.00},
+                {"name": "langosta a las brasas", "price": 2350.00},
+                {"name": "lomo de pescado a las brasas", "price": 2200.00},
+                {"name": "mar y tierra", "price": 3650.00},
+                {"name": "rueda de albacora a las brasas", "price": 1775.00},
+                {"name": "fajitas de pollo empanadas", "price": 1450.00},
+                {"name": "bistec de pollo grille", "price": 1250.00},
+                {"name": "pechuga de pollo en salsa de jengibre y ajonjoli", "price": 1450.00},
+                {"name": "pollo al limon y al oregano", "price": 1350.00},
+                {"name": "pollo a la parmesana", "price": 1650.00},
+                {"name": "pollo al ajo y vino blanco", "price": 1350.00},
+                {"name": "fajitas de pollo a la pina y miel", "price": 1275.00},
+                {"name": "pollo princesa", "price": 1650.00},
+                {"name": "fajitas de cerdo a la pina y miel", "price": 1875.00},
+                {"name": "uruguayo de cerdo", "price": 2250.00},
+                {"name": "bistec de cerdo princesa", "price": 2000.00},
+                {"name": "masa de cerdo al estilo kopas", "price": 1875.00},
+                {"name": "bistec de cerdo encebollado", "price": 1550.00},
+                {"name": "lomo de cerdo ahumado con salsa barbecue", "price": 1850.00},
+                {"name": "lomo de cerdo ahumado con salsa agridulce", "price": 1875.00},
+                {"name": "lomo de cerdo ahumado encebollado", "price": 1775.00},
+                {"name": "bistec de res encebollado", "price": 1750.00},
+                {"name": "fajitas de res", "price": 1750.00},
+                {"name": "mignon salsa del chef", "price": 1850.00},
+                {"name": "ropa vieja", "price": 1575.00},
+                {"name": "uruguayo de res", "price": 2250.00},
+                {"name": "vaca frita", "price": 1450.00},
+                {"name": "filete a la deutch", "price": 1750.00},
+                {"name": "filete de pescado princesa", "price": 2150.00},
+                {"name": "filete de pescado en salsa de limon", "price": 1975.00},
+                {"name": "langosta enchilada", "price": 2475.00},
+                {"name": "langosta grille", "price": 2100.00},
+                {"name": "camaron enchilado", "price": 2300.00},
+                {"name": "camaron grille", "price": 2000.00},
+                {"name": "camaron empanado", "price": 2300.00},
+                {"name": "camarones al ajillo", "price": 2200.00},
+                {"name": "langosta al ajillo", "price": 2250.00},
+                {"name": "filete de pescado costa sur", "price": 2650.00},
+                {"name": "dados de pescado al ajillo", "price": 1750.00},
+                {"name": "camaron tropical", "price": 3250.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": []
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "vodka ciroc red berry", "price": 8900.0},
+                {"name": "whisky jameson", "price": 8500.0},
+                {"name": "whisky j&b rare", "price": 5900.0},
+                {"name": "whisky elliot hall", "price": 4900.0},
+                {"name": "whisky chanceler", "price": 2900.0},
+                {"name": "whisky ballantines", "price": 8500.0}
+            ]
+        }
+    ]
+}

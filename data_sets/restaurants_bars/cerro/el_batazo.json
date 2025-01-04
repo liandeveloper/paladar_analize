@@ -1,0 +1,96 @@
+{
+    "establishment": ["restaurante"],
+    "name": "el batazo",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "street": "primelles 356 e/ santa teresa y daolz",
+        "coordinates": {
+            "latitude": 23.105575129406134,
+            "longitude": -82.3890629341575
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5358050408"
+    },
+    "schedule": {
+        "monday": "1100-2200",
+        "tuesday": "1100-2200",
+        "wednesday": "1100-2200",
+        "thursday": "1100-2200",
+        "friday": "1100-2200",
+        "saturday": "1100-2200",
+        "sunday": null
+    },
+    "services": {
+        "delivery": true,
+        "to_take": null
+    },
+    "payment": {
+        "cash": true,
+        "transfer": null,
+        "credit_card": null
+    },
+    "specialties": ["pizzas"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pizza de queso", "price": 750.00},
+                {"name": "pizza de chorizo", "price": 930.00},
+                {"name": "pizza de jamón", "price": 930.00},
+                {"name": "pizza de hawaiana", "price": 1130.00},
+                {"name": "pizza de cebolla", "price": 950.00},
+                {"name": "pizza de ají", "price": 950.00},
+                {"name": "pizza de atún", "price": 1250.00},
+                {"name": "pizza de aceitunas", "price": 950.00},
+                {"name": "pizza de peperoni", "price": 1050.00},
+                {"name": "espaguetis", "price": 600.00},
+                {"name": "espaguetis de jamón", "price": 780.00},
+                {"name": "hamburguesa strike", "price": 550.00},
+                {"name": "hamburguesa doble play", "price": 1000.00},
+                {"name": "hamburguesa homerun", "price": 1300.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

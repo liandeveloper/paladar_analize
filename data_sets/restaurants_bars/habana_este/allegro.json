@@ -1,0 +1,93 @@
+{
+    "establishment": ["restaurante"],
+    "name": "allegro",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "street": "ave. paseo americano e/ 5ta C y 7ma",
+        "coordinates": {
+            "latitude": 23.160452177488807,
+            "longitude": -82.30715477648323
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+537661010"
+    },
+    "schedule": {
+        "monday": "1200-2100",
+        "tuesday": "1200-2100",
+        "wednesday": "1200-2100",
+        "thursday": "1200-2100",
+        "friday": "1200-2100",
+        "saturday": "1200-2100",
+        "sunday": "1200-2100"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": true
+    },
+    "specialties": ["comida italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "crema de queso", "price": 313.00},
+                {"name": "crema aurora", "price": 315.00},
+                {"name": "crema virginia", "price": 329.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "spaghettis napolitanos", "price": 410.00},
+                {"name": "spaghettis de jamon", "price": 570.00},
+                {"name": "lazagna de jamon", "price": 550.00},
+                {"name": "pizza napolitana", "price": 390.00},
+                {"name": "pizza de jamon", "price": 540.00},
+                {"name": "pizza de chorizo", "price": 588.00},
+                {"name": "pizza de bacon", "price": 735.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

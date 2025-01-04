@@ -1,0 +1,98 @@
+{
+    "establishment": ["cafetería"],
+    "name": "la esquinita del cotorro",
+    "address": {
+        "city": "la habana",
+        "town": "cotorro",
+        "street": "2PVJ+WH2, Av. #71, la habana",
+        "coordinates": {
+            "latitude": 23.044994650307885,
+            "longitude": -82.26866022066795
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/laesquinita.delcotorro.5/",
+        "instagram": "https://www.instagram.com/laesquinitadelcotorro/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1000-2000",
+        "tuesday": "1000-2000",
+        "wednesday": "1000-2000",
+        "thursday": "1000-2000",
+        "friday": "1000-2000",
+        "saturday": "1000-2000",
+        "sunday": "1000-2000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["rápida"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "tostones", "price": 200.00},
+                {"name": "tortilla natural", "price": 220.00},
+                {"name": "tortilla de queso blanco", "price": 280.00},
+                {"name": "tortilla de jamón", "price": 320.00},
+                {"name": "tortilla de chorizo", "price": 320.00},
+                {"name": "tortilla mixta", "price": 410.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "hamburguesa simple", "price": 250.00},
+                {"name": "hamburguesa doble", "price": 380.00},
+                {"name": "hamburguesa esquinita", "price": 480.00},
+                {"name": "hamburguesa esquinita plus", "price": 580.00},
+                {"name": "pan con jamón", "price": 240.00},
+                {"name": "pan con jamón y chorizo", "price": 270.00},
+                {"name": "pan con chorizo", "price": 160.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "cerveza", "price": 0.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

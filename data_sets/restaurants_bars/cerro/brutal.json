@@ -1,0 +1,97 @@
+{
+  "establishment": ["restaurante"],
+  "name": "brutal habana",
+  "address": {
+      "city": "la habana",
+      "town": "cerro",
+      "street": "infanta y universidad. cerro., havana, cuba",
+      "coordinates": {
+          "latitude": 23.12073865525233,
+          "longitude": -82.37259371881278
+      }
+  },
+  "contacto": {
+      "facebook": "https://www.facebook.com/people/BRUTALHabana/",
+      "instagram": "https://www.instagram.com/brutal_habana/",
+      "whatsapp": null,
+      "web": "https://brutal.servicioshabana.com/",
+      "telephone": "+5350989151"
+  },
+  "schedule": {
+      "monday": "1200-0000",
+      "tuesday": "1200-0000",
+      "wednesday": "1200-0000",
+      "thursday": "1200-0000",
+      "friday": "1200-0000",
+      "saturday": "1200-0000",
+      "sunday": "1200-0000"
+  },
+  "services": {
+      "delivery": false,
+      "to_take": true
+  },
+  "payment": {
+      "cash": true,
+      "transfer": true,
+      "credit_card": null
+  },
+  "specialties": ["tapas"],
+  "menu": [
+      {
+          "categorie": "starter",
+          "items": [
+            {"name": "papas fritas (medias) 100g", "price": 300.00},
+            {"name": "papas fritas (normal) 200g", "price": 600.00},
+            {"name": "salchipapas", "price": 500.00},
+            {"name": "salchipapas brutal", "price": 1400.00},
+            {"name": "croquetas de pollo x 5", "price": 175.00},
+            {"name": "croquetas de pollo x 10", "price": 350.00}
+          ]
+      },
+      {
+          "categorie": "main course",
+          "items": [
+            {"name": "hamburguesa brutal", "price": 3200.00},
+            {"name": "baguette brutal", "price": 2000.00},
+            {"name": "salchipapas brutal", "price": 1400.00},
+            {"name": "papas fritas brutal", "price": 1100.00}
+          ]
+      },
+      {
+          "categorie": "sides",
+          "items": [null]
+      },
+      {
+          "categorie": "desserts",
+          "items": [null]
+      },
+      {
+          "categorie": "coffee",
+          "items": [null]
+      },
+      {
+          "categorie": "beverages",
+          "items": [
+              {"name": "batido de helado", "price": 1000.00},
+              {"name": "batido de helado con gomitas", "price": 1400.00},
+              {"name": "batido de helado brutal", "price": 2000.00}
+          ]
+      },
+      {
+          "categorie": "beers",
+          "items": [null]
+      },
+      {
+          "categorie": "cocktails",
+          "items": [null]
+      },
+      {
+          "categorie": "vines",
+          "items": [null]
+      },
+      {
+          "categorie": "ron",
+          "items": [null]
+      }
+  ]
+}

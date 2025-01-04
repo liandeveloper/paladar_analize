@@ -1,0 +1,231 @@
+{
+  "establishment": ["restaurante"],
+  "name": "don omar",
+  "address": {
+      "city": "la habana",
+      "town": "cotorro",
+      "street": "calle 22A % 63 y 65 reparto américa cotorro, cotorro",
+      "coordinates": {
+          "latitude": 23.049977052702303,
+          "longitude": -82.26524267833985
+      }
+  },
+  "contacto": {
+      "facebook": "https://www.facebook.com/eleydis.almaguerontivero/",
+      "instagram": "https://www.instagram.com/bar_restaurante_don_omar/",
+      "whatsapp": "",
+      "web": null,
+      "telephone": "+5376820340"
+  },
+  "schedule": {
+      "monday": "1100-2300",
+      "tuesday": "1100-2300",
+      "wednesday": "1100-2300",
+      "thursday": "1100-2300",
+      "friday": "1100-2300",
+      "saturday": "1100-2300",
+      "sunday": "1100-2300"
+  },
+  "services": {
+      "delivery": true,
+      "to_take": true
+  },
+  "payment": {
+      "cash": true,
+      "transfer": true,
+      "credit_card": true
+  },
+  "specialties": ["cubana"],
+  "menu": [
+      {
+          "categorie": "starter",
+          "items": [
+            {"name": "picadera don omar","price": 1800.00},
+            {"name": "ensalada de jamón","price": 350.00},
+            {"name": "ensalada de pollo","price": 400.00},
+            {"name": "eperlan","price": 900.00},
+            {"name": "entremes surtido","price": 650.00},
+            {"name": "entreme J y Q","price": 500.00},
+            {"name": "faja de pollo","price": 700.00},
+            {"name": "faja de cerdo","price": 850.00},
+            {"name": "tostones queso","price": 350.00},
+            {"name": "tostones jamón","price": 350.00},
+            {"name": "tostones atún","price": 350.00},
+            {"name": "tostones jamón y queso","price": 400.00},
+            {"name": "coctel de langosta","price": 800.00},
+            {"name": "coctel de camarones","price": 850.00},
+            {"name": "ensalada de atún","price": 350.00},
+            {"name": "ensalada de camarón","price": 800.00}
+          ]
+      },
+      {
+          "categorie": "main course",
+          "items": [
+            {"name": "pizza napolitana","price": 500.00},
+            {"name": "pizza mixta","price": 950.00},
+            {"name": "pizza hawaiana","price": 650.00},
+            {"name": "pizza atún","price": 600.00},
+            {"name": "pizza camarones","price": 900.00},
+            {"name": "pizza ají","price": 550.00},
+            {"name": "pizza cebolla","price": 550.00},
+            {"name": "pizza chorizo","price": 600.00},
+            {"name": "pizza jamón","price": 600.00},
+            {"name": "espaguetis napolitanos","price": 1000.00},
+            {"name": "espaguetis jamón","price": 460.00},          
+            {"name": "espaguetis mixto","price": 750.00},
+            {"name": "espaguetis camarones","price": 800.00},
+            {"name": "espaguetis atún","price": 500.00},
+            {"name": "espaguetis chorizo","price": 450.00},
+            {"name": "agrego jamón","price": 200.00},
+            {"name": "agrego cebolla","price": 150.00},
+            {"name": "agrego camarones","price": 650.00},
+            {"name": "agrego atún","price": 300.00},
+            {"name": "agrego piña","price": 150.00},
+            {"name": "agrego mayonesa","price": 150.00},
+            {"name": "agrego chorizo","price": 200.00},
+            {"name": "camarón hemingway","price": 1800.00},
+            {"name": "camarón al vino tinto","price": 1600.00},
+            {"name": "langosta al ron","price": 1600.00},          
+            {"name": "langosta mariposa","price": 1600.00},
+            {"name": "filete gratinado con camarones","price": 1650.00},
+            {"name": "filete gratinado con jamón y queso","price": 1350.00},
+            {"name": "filete gratinado con queso","price": 1250.00},
+            {"name": "filete empanado","price": 1100.00},
+            {"name": "bistec uruguayo res","price": 1100.00},
+            {"name": "fajita res","price": 900.00},
+            {"name": "caca frita","price": 900.00},
+            {"name": "ropa vieja","price": 950.00},
+            {"name": "pollo parisién","price": 1600.00},
+            {"name": "pollo al angel","price": 950.00},
+            {"name": "pollo gordon blue","price": 1100.00},
+            {"name": "pollo reina","price": 950.00},
+            {"name": "pollo gratinado jamón y queso","price": 1100.00},
+            {"name": "pollo empanado","price": 900.00},
+            {"name": "pollo frito","price": 900.00},
+            {"name": "pollo grillé","price": 800.00},
+            {"name": "pechuga de pollo","price": 1100.00},
+            {"name": "lomo hawaiano","price": 1500.00},
+            {"name": "bistec uruguayo","price": 1300.00},
+            {"name": "bistec tuna","price": 1150.00},
+            {"name": "bistec reina","price": 1150.00},
+            {"name": "escalope de cerdo","price": 1150.00},
+            {"name": "masa de cerdo frita","price": 1050.00},
+            {"name": "bistec de cerdo","price": 1100.00},
+            {"name": "fricase de cerdo","price": 1100.00},
+            {"name": "estofado de cerdo","price": 1100.00},
+            {"name": "filete de pescado grillé","price": 1050.00},
+            {"name": "pescado canciller","price": 1400.00},
+            {"name": "camarón grillé","price": 1600.00},
+            {"name": "camarón ajillo","price": 1600.00},
+            {"name": "camarón enchilado","price": 1600.00}
+          ]
+      },
+      {
+          "categorie": "sides",
+          "items": [
+            {"name": "arroz blanco","price": 150.00},
+            {"name": "arroz moro","price": 250.00},
+            {"name": "arroz pilaf","price": 300.00},
+            {"name": "tostones","price": 250.00},
+            {"name": "fritas plátano maduro","price": 250.00},
+            {"name": "chicharritas plátano","price": 250.00},
+            {"name": "chicharritas boniato","price": 250.00},
+            {"name": "yuca con mojo","price": 250.00},
+            {"name": "ensalada estación","price": 200.00},
+            {"name": "papas fritas","price": 500.00},
+            {"name": "sopa mariscos","price": 850.00},
+            {"name": "sopa pollo","price": 450.00}
+          ]
+      },
+      {
+          "categorie": "desserts",
+          "items": [
+            {"name": "flan","price": 300.00},
+            {"name": "bolas de helado","price": 320.00},
+            {"name": "batido de helado","price": 350.00},
+            {"name": "copa lolita","price": 450.00},
+            {"name": "jugo de mango","price": 350.00},
+            {"name": "batido de mango","price": 400.00},
+            {"name": "batido de mamey","price": 400.00},
+            {"name": "postres de la casa","price": 500.00},
+            {"name": "porción de pastel","price": 400.00}
+          ]
+      },
+      {
+          "categorie": "coffee",
+          "items": [
+            {"name": "café expreso","price": 250.00},
+            {"name": "café cortado","price": 300.00},
+            {"name": "café capuccino","price": 550.00},
+            {"name": "café frapuccino","price": 750.00}
+          ]
+      },
+      {
+          "categorie": "beverages",
+          "items": [
+            {"name": "lata refresco","price": 300.00},
+            {"name": "caja jugo","price": 300.00},
+            {"name": "malta importada","price": 400.00},
+            {"name": "malteada","price": 700.00},
+            {"name": "batido de helado","price": 900.00},
+            {"name": "pomo agua","price": 300.00},
+            {"name": "energizante","price": 500.00}
+          ]
+      },
+      {
+          "categorie": "beers",
+          "items": [
+            {"name": "cerveza importada","price": 400.00},
+            {"name": "cerveza cristal","price": 400.00},
+            {"name": "cerveza bucanero","price": 400.00}
+          ]
+      },
+      {
+          "categorie": "cocktails",
+          "items": [
+            {"name": "mojito","price": 700.00},
+            {"name": "cubalibre", "price" : 500.00}
+          ]
+      },
+      {
+          "categorie": "vines",
+          "items": [
+              null
+          ]
+      },
+      {
+          "categorie": "ron",
+          "items": [
+            {"name": "añejo 7 Años","price": 250.00},
+            {"name": "ritual","price": 250.00},
+            {"name": "reserva","price": 250.00},
+            {"name": "ron santiago","price": 200.00},
+            {"name": "mulata 15 Años","price": 300.00},
+            {"name": "old pard","price": 350.00},
+            {"name": "crow royal","price": 350.00},
+            {"name": "flor de caña","price": 400.00},
+            {"name": "brugal","price": 400.00},
+            {"name": "santero 7 Años","price": 250.00},
+            {"name": "pacto navio","price": 550.00},
+            {"name": "selección maestro","price": 550.00},
+            {"name": "jamenson","price": 450.00},
+            {"name": "clan camber","price": 350.00},
+            {"name": "balletine","price": 400.00},
+            {"name": "chiva regla 15","price": 550.00},
+            {"name": "granst","price": 300.00},
+            {"name": "WS","price": 200.00},
+            {"name": "river queen","price": 200.00},
+            {"name": "jack daniels","price": 550.00},
+            {"name": "red label","price": 450.00},
+            {"name": "black label","price": 500.00},
+            {"name": "the glen livet","price": 500.00},
+            {"name": "chancelier","price": 200.00},
+            {"name": "olmeca reposado","price": 450.00},
+            {"name": "olmeca blanco","price": 400.00},
+            {"name": "tequila chocolate","price": 400.00},
+            {"name": "jose cuervo","price": 500.00},
+            {"name": "grey goose","price": 500.00}
+          ]
+      }
+  ]
+}

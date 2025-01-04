@@ -1,0 +1,132 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "el chanchullero",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "street": "calle 5G / calle 162 y 162D, zona 6, alamar",
+        "coordinates": {
+            "latitude": 23.135870162743746,
+            "longitude": -82.35604165928795
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/ElChanchulleroDeAlamar",
+        "instagram": "https://www.instagram.com/chanchullerobar.zona6/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-0000",
+        "tuesday": "1200-0000",
+        "wednesday": "1200-0000",
+        "thursday": "1200-0000",
+        "friday": "1200-0000",
+        "saturday": "1200-0000",
+        "sunday": "1200-0000"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": true
+    },
+    "specialties": ["comida criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "chicharrita de platano macho", "price": 250.00},
+                {"name": "toston relleno con cerdo", "price": 375.00},
+                {"name": "fritura de malanga con miel", "price": 375.00},
+                {"name": "ceviche de pulpo y pescado", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "cerdo al perejil", "price": 795.00},
+                {"name": "brochetas de cerdo", "price": 795.00},
+                {"name": "bistec encebollado", "price": 800.00},
+                {"name": "ropa vieja", "price": 800.00},
+                {"name": "cerdo asado al horno", "price": 795.00},
+                {"name": "pulpo al ajillo", "price": 925.00},
+                {"name": "pescado chanchullero (castero)", "price": 800.00},
+                {"name": "enchilado de langosta", "price": 975.00},
+                {"name": "langosta a la plancha", "price": 975.00},
+                {"name": "masas de cerdo", "price": 800.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "flan al caramelo", "price": 150.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "cafe expreso", "price": 100.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "jugo de fruta natural", "price": 140.00},
+                {"name": "agua natural", "price": 130.00},
+                {"name": "agua gaseada", "price": 180.00},
+                {"name": "refrescos importados", "price": 240.00},
+                {"name": "refrescos nacionales", "price": 200.00},
+                {"name": "red bull", "price": 300.00},
+                {"name": "chelada", "price": 400.00},
+                {"name": "michelada", "price": 450.00},
+                {"name": "clan cambell", "price": 425.00},
+                {"name": "jameson", "price": 425.00},
+                {"name": "finest blended (speech)", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cerveza importada", "price": 275.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "catarro", "price": 275.00},
+                {"name": "cuba libre", "price": 275.00},
+                {"name": "mojito", "price": 275.00},
+                {"name": "caipirisima", "price": 275.00},
+                {"name": "ron coli", "price": 275.00},
+                {"name": "cosita de esa", "price": 275.00},
+                {"name": "caipiroska", "price": 275.00},
+                {"name": "caipirina", "price": 300.00},
+                {"name": "daiquiri", "price": 300.00},
+                {"name": "pina colada", "price": 300.00},
+                {"name": "vodka con naranja", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "botella de vino", "price": 1200.00},
+                {"name": "copa de vino", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "ron hc club especial", "price": 325.00}
+            ]
+        }
+    ]
+}

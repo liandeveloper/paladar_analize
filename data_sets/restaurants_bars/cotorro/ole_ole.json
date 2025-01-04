@@ -1,0 +1,131 @@
+{
+  "establishment": ["bar", "restaurante"],
+  "name": "ole ole",
+  "address": {
+      "city": "la habana",
+      "town": "cotorro",
+      "street": "71 esquina 46 y 48, loteria, cotorro",
+      "coordinates": {
+          "latitude": 23.043883261194242,
+          "longitude": -82.2532928053239
+      }
+  },
+  "contacto": {
+      "facebook": null,
+      "instagram": "https://www.instagram.com/oleole_oficial/",
+      "whatsapp": "https://chat.whatsapp.com/CbznmW7d0zfBIq0asEfHUd",
+      "web": null,
+      "telephone": "+5354147124"
+  },
+  "schedule": {
+      "monday": "0900-2400",
+      "tuesday": "0900-2400",
+      "wednesday": "0900-2400",
+      "thursday": "0900-2400",
+      "friday": null,
+      "saturday": "1800-2400",
+      "sunday": "0900-2400"
+  },
+  "services": {
+      "delivery": true,
+      "to_take": true
+  },
+  "payment": {
+      "cash": true,
+      "transfer": true,
+      "credit_card": false
+  },
+  "specialties": ["comida cubana"],
+  "menu": [
+    {
+      "categorie": "starter",
+      "items": [
+          {"name": "tacos de res", "price": 750.00},
+          {"name": "tacos de cerdo", "price": 750.00},
+          {"name": "frituras de malanga", "price": 450.00},
+          {"name": "chicharritas", "price": 320.00},
+          {"name": "picadera", "price": 1500.00},
+          {"name": "brocheta olé", "price": 1200.00},
+          {"name": "croquetas olé olé", "price": 500.00},
+          {"name": "tostones tradicionales", "price": 450.00},
+          {"name": "ensalada mixta", "price": 350.00},
+          {"name": "tostones atun", "price": 1000.00},
+          {"name": "eperlán", "price": 1000.00},
+          {"name": "coctel de camarones", "price": 1350.00},
+          {"name": "baston de pollo", "price": 900.00},
+          {"name": "entremés", "price": 1000.00},
+          {"name": "picadera premium", "price": 1800.00}
+      ]
+    },
+    {
+      "categorie": "main course",
+      "items": [
+          {"name": "pizza napolitana gouda", "price": 1100.00},
+          {"name": "pizza jamón gouda", "price": 1280.00},
+          {"name": "pizza chorizos gouda", "price": 1260.00},
+          {"name": "pizza doble queso gouda", "price": 1420.00},
+          {"name": "pizza camarones gouda", "price": 1800.00},
+          {"name": "pizza hawaiana gouda", "price": 1400.00},
+          {"name": "pizza habanera gouda", "price": 1790.00},
+          {"name": "pizza al tonno gouda", "price": 1400.00},
+          {"name": "pizza jamón piña gouda", "price": 1500.00}
+      ]
+    },
+    {
+      "categorie": "sides",
+      "items": [
+          {"name": "arroz blanco", "price": 120.00},
+          {"name": "arroz moro", "price": 220.00}
+      ]
+    },
+    {
+      "categorie": "desserts",
+      "items": [null]
+    },
+    {
+      "categorie": "coffee",
+      "items": [null]
+    },
+    {
+      "categorie": "beverages",
+      "items": [
+          {"name": "cerveza bucanero max", "price": 300.00},
+          {"name": "cerveza bucanero roja", "price": 300.00},
+          {"name": "cerveza cristal extra", "price": 280.00},
+          {"name": "cerveza caiman", "price": 210.00},
+          {"name": "cerveza sureña", "price": 210.00},
+          {"name": "cerveza tangua", "price": 210.00},
+          {"name": "cerveza gierwalk", "price": 210.00},
+          {"name": "cerveza holandia", "price": 210.00},
+          {"name": "cerveza cristal bot", "price": 300.00},
+          {"name": "cerveza cristal verde", "price": 300.00}
+      ]
+    },
+    {
+      "categorie": "beers",
+      "items": [null]
+    },
+    {
+      "categorie": "cocktails",
+      "items": [
+          {"name": "caipiriña", "price": 450.00},
+          {"name": "cuba libre", "price": 700.00},
+          {"name": "margarita", "price": 550.00},
+          {"name": "piña colada", "price": 650.00}
+      ]
+    },
+    {
+      "categorie": "vines",
+      "items": [
+          {"name": "vino tinto", "price": 560.00}
+      ]
+    },
+    {
+      "categorie": "ron",
+      "items": [
+          {"name": "h.c cuban smoky", "price": 550.00},
+          {"name": "ron santiago 11 años", "price": 800.00}
+      ]
+    }
+  ]
+}

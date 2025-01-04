@@ -1,0 +1,133 @@
+{
+  "establishment": ["restaurante", "bar"],
+  "name": "mc.cesar",
+  "address": {
+      "city": "la habana",
+      "town": "cotorro",
+      "street": "calle primer e/ 220 y 221, cruz verde",
+      "coordinates": {
+          "latitude": 23.052167876103468,
+          "longitude": -82.27579779183165
+      }
+  },
+  "contacto": {
+      "facebook": null,
+      "instagram": "https://www.instagram.com/mccesar_bar/",
+      "whatsapp": null,
+      "web": null,
+      "telephone": "+5351285801"
+  },
+  "schedule": {
+      "monday": null,
+      "tuesday": "0930-2300",
+      "wednesday": "0930-2300",
+      "thursday": "0930-2300",
+      "friday": "0930-2300",
+      "saturday": "0930-2300",
+      "sunday": "0930-2300"
+  },
+  "services": {
+      "delivery": false,
+      "to_take": true
+  },
+  "payment": {
+      "cash": true,
+      "transfer": true,
+      "credit_card": false
+  },
+  "specialties": ["cubana"],
+  "menu": [
+      {
+          "categorie": "starter",
+          "items": [
+              {"name": "dados jamo-queso", "price": 1000.00},
+              {"name": "eperlan", "price": 1300.00},
+              {"name": "ensalada fria", "price": 300.00},
+              {"name": "tostones rellenos", "price": 600.00},
+              {"name": "tostones criollos", "price": 350.00},
+              {"name": "croquetas de la casa", "price": 500.00},
+              {"name": "picadera mc.cesar", "price": 2500.00}
+          ]
+      },
+      {
+          "categorie": "main course",
+          "items": [
+              {"name": "hamburguesa de cerdo", "price": 500.00},
+              {"name": "pan de atun", "price": 600.00},
+              {"name": "pan de jamon-queso", "price": 500.00},
+              {"name": "pan con pechuga", "price": 500.00},
+              {"name": "pan con bistec", "price": 500.00},
+              {"name": "pizza", "price": 500.00},
+              {"name": "espaguetis", "price": 500.00},
+              {"name": "garbanzos fritos", "price": 1000.00},
+              {"name": "higado de cerdo a la italiana", "price": 1000.00},
+              {"name": "salteado de vegetales", "price": 1500.00},
+              {"name": "uruguayo", "price": 1500.00},
+              {"name": "brocha cerdo-pollo", "price": 1700.00},
+              {"name": "bistec grille", "price": 1300.00},
+              {"name": "faja de cerdo", "price": 1400.00},
+              {"name": "escalope", "price": 1400.00},
+              {"name": "solomillo", "price": 2000.00},
+              {"name": "lomo ahumado deshuesado", "price": 1300.00},
+              {"name": "pechuga grille", "price": 1300.00},
+              {"name": "salteado de pollo", "price": 1400.00},
+              {"name": "pollo deshuesado", "price": 900.00},
+              {"name": "goldon blue", "price": 1500.00},
+              {"name": "suprema princesa", "price": 1500.00},
+              {"name": "ropa vieja", "price": 1800.00},
+              {"name": "vaca frita", "price": 1800.00},
+              {"name": "bistec de res", "price": 2000.00},
+              {"name": "pescado grille", "price": 1500.00},
+              {"name": "pescado mc.cesar", "price": 2500.00},
+              {"name": "canciller", "price": 1800.00},
+              {"name": "pescado empanado", "price": 1600.00},
+              {"name": "pescado con salsa de limon", "price": 1700.00},
+              {"name": "camaron grille", "price": 1900.00},
+              {"name": "camaron al ajillo", "price": 1900.00},
+              {"name": "camaron enchilado", "price": 2000.00}
+          ]
+      },
+      {
+          "categorie": "sides",
+          "items": [
+              {"name": "arroz a la campesina", "price": 1500.00},
+              {"name": "arroz moro", "price": 300.00},
+              {"name": "arroz blanco", "price": 200.00},
+              {"name": "arroz frito", "price": 500.00}
+          ]
+      },
+      {
+          "categorie": "desserts",
+          "items": [
+              {"name": "torrejas", "price": 500.00},
+              {"name": "ensalada helado", "price": 500.00},
+              {"name": "bola de helado", "price": 100.00},
+              {"name": "batido de helado", "price": 500.00}
+          ]
+      },
+      {
+          "categorie": "coffee",
+          "items": [null]
+      },
+      {
+          "categorie": "beverages",
+          "items": [null]
+      },
+      {
+          "categorie": "beers",
+          "items": [null]
+      },
+      {
+          "categorie": "cocktails",
+          "items": [null]
+      },
+      {
+          "categorie": "vines",
+          "items": [null]
+      },
+      {
+          "categorie": "ron",
+          "items": [null]
+      }
+  ]
+}

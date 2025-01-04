@@ -1,0 +1,101 @@
+{
+    "establishment": ["restaurante"],
+    "name": "la casona del cerro",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "street": "calzada del cerro entre arzobispo y peñón",
+        "coordinates": {
+            "latitude": 23.109249873840586,
+            "longitude": -82.38280529182938
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1000-2200",
+        "tuesday": "1000-2200",
+        "wednesday": "1000-2200",
+        "thursday": "1000-2200",
+        "friday": "1000-2200",
+        "saturday": "1000-2200",
+        "sunday": "1000-1400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": false,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["comida criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                { "name": "pizza napolitana c/queso gouda", "price": 450.00 },
+                { "name": "pizza doble queso", "price": 650.00 },
+                { "name": "pizza de jamon y queso gouda", "price": 500.00 },
+                { "name": "pizza mixta c/queso gouda", "price": 550.00 },
+                { "name": "pizza familiar c/queso gouda", "price": 900.00 },
+                { "name": "pizza familiar doble queso", "price": 1200.00 },
+                { "name": "pizza familiar de jamon y queso gouda", "price": 1000.00 },
+                { "name": "pizza familiar mixta c/queso gouda", "price": 1050.00 },
+                { "name": "spaghetti c/queso gouda", "price": 450.00 },
+                { "name": "spaghetti c/ jamon y queso gouda", "price": 500.00 },
+                { "name": "spaghetti doble queso gouda", "price": 650.00 },
+                { "name": "spaghetti mixto", "price": 550.00 },
+                { "name": "pollo asado", "price": 1100.00 },
+                { "name": "masa frita", "price": 900.00 },
+                { "name": "bistec de cerdo", "price": 850.00 },
+                { "name": "fricasé de cerdo", "price": 850.00 },
+                { "name": "chuleta", "price": 1000.00 }
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                { "name": "flan", "price": 350.00 }
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

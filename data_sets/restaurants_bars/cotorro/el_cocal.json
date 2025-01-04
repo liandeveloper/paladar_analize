@@ -1,0 +1,105 @@
+{
+  "establishment": ["restaurante"],
+  "name": "el cocal",
+  "address": {
+      "city": "la habana",
+      "town": "cotorro",
+      "street": "2PWV+VRG, la habana",
+      "coordinates": {
+          "latitude": 23.04736128385747,
+          "longitude": -82.25537666114364
+      }
+  },
+  "contacto": {
+      "facebook": null,
+      "instagram": null,
+      "whatsapp": null,
+      "web": null,
+      "telephone": "+5376822199"
+  },
+  "schedule": {
+      "monday": "1200-2400",
+      "tuesday": null,
+      "wednesday": null,
+      "thursday": "1200-2400",
+      "friday": "1200-2400",
+      "saturday": "1200-2400",
+      "sunday": "1200-2400"
+  },
+  "services": {
+      "delivery": true,
+      "to_take": true
+  },
+  "payment": {
+      "cash": true,
+      "transfer": true,
+      "credit_card": false
+  },
+  "specialties": ["cubana"],
+  "menu": [
+      {
+          "categorie": "starter",
+          "items": [
+              {"name": "croquetas", "price": 600.00},
+              {"name": "bolitas de queso", "price": 650.00},
+              {"name": "ensalada de atun", "price": 1000.00},
+              {"name": "toston de queso", "price": 600.00},
+              {"name": "toston de jamon y queso", "price": 600.00},
+              {"name": "toston de atun", "price": 1000.00},
+              {"name": "crema de queso", "price": 550.00},
+              {"name": "crema aurora", "price": 600.00},
+              {"name": "crema virginia", "price": 650.00},
+              {"name": "crema mixta", "price": 700.00},
+              {"name": "coctel camaron", "price": 1500.00},
+              {"name": "empellas", "price": 550.00}
+          ]
+      },
+      {
+          "categorie": "main course",
+          "items": [
+              {"name": "pizza de queso", "price": 1200.00},
+              {"name": "pizza de jamon", "price": 1400.00},
+              {"name": "pizza hawaiiana", "price": 1500.00},
+              {"name": "eperlan pechuga", "price": 1600.00},
+              {"name": "eperlan pescado", "price": 2000.00}
+          ]
+      },
+      {
+          "categorie": "sides",
+          "items": [
+              {"name": "yuca", "price": 400.00},
+              {"name": "toston", "price": 400.00}
+          ]
+      },
+      {
+          "categorie": "desserts",
+          "items": [
+              {"name": "flan", "price": 500.00}
+          ]
+      },
+      {
+          "categorie": "coffee",
+          "items": [null]
+      },
+      {
+          "categorie": "beverages",
+          "items": [null]
+      },
+      {
+          "categorie": "beers",
+          "items": [null]
+      },
+      {
+          "categorie": "cocktails",
+          "items": [null]
+      },
+      {
+          "categorie": "vines",
+          "items": [null]
+      },
+      {
+          "categorie": "ron",
+          "items": [null]
+      }
+  ]
+}

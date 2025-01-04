@@ -1,0 +1,115 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "la barrita onbazar",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "street": "avenida #26 e/ infanta y, crúz del padre",
+        "coordinates": {
+            "latitude": 23.12190678424175,
+            "longitude": -82.37403473600908
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/la_barrita_onbazar/",
+        "whatsapp": null,
+        "web": "https://menu.labarrita.onbazar.net/",
+        "telephone": "+5354494741"
+    },
+    "schedule": {
+        "monday": "0900-2300",
+        "tuesday": "0900-2300",
+        "wednesday": "0900-2300",
+        "thursday": "0900-2300",
+        "friday": "0900-0100",
+        "saturday": "0900-0100",
+        "sunday": "0900-0100"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false,
+        "parking": true,
+        "reservations": true,
+        "power_plant": true
+    },
+    "payment": {
+        "cash": false,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["pizzeria"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "papas fritas", "price": 750.00},
+                {"name": "tostones rellenos", "price": 1300.00},
+                {"name": "jamón ,queso y aceitunas", "price": 750.00},
+                {"name": "mixta", "price": 1600.00},
+                {"name": "brochetas", "price": 2500.00},
+                {"name": "croquetas", "price": 650.00},
+                {"name": "pollo frito", "price": 1550.00},
+                {"name": "pollo chiflado", "price": 1750.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pizza de napolitana", "price": 850.00},
+                {"name": "pizza de chorizo", "price": 1000.00},
+                {"name": "pizza de jamón", "price": 1000.00},
+                {"name": "pizza de hawaiana", "price": 1150.00},
+                {"name": "pizza de cebolla", "price": 1000.00},
+                {"name": "espaguetis", "price": 850},
+                {"name": "espaguetis de jamón", "price": 1100.00},
+                {"name": "espaguetis de chorizo", "price": 1000.00},
+                {"name": "hamburguesa", "price": 1200.00},
+                {"name": "hamburguesa jamón y queso", "price": 1650.00},
+                {"name": "hamburguesa onbazar", "price": 2700.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "café expreso", "price": 180.00},
+                {"name": "café cortado", "price": 220.00},
+                {"name": "capuchino", "price": 450.00},
+                {"name": "café bombón", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "piña colada", "price": 600.00},
+                {"name": "piña colada (alchol)", "price": 750.00},
+                {"name": "limonada frapé", "price": 400.00},
+                {"name": "malteada", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

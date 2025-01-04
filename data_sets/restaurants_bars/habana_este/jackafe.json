@@ -1,0 +1,139 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "jackafe",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "street": "calle 164b # 3b01 esquina 3ra b zona 1 alamar",
+        "coordinates": {
+            "latitude": 23.166673217120866,
+            "longitude": -82.2775223611389
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/groups/754545029264190",
+        "instagram": "https://www.instagram.com/jac.kafe/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5377636363"
+    },
+    "schedule": {
+        "monday": "1200-2100",
+        "tuesday": "1200-2100",
+        "wednesday": "1200-2100",
+        "thursday": "1200-2100",
+        "friday": "1200-2100",
+        "saturday": "1200-2100",
+        "sunday": "1200-2100"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": true
+    },
+    "specialties": ["comida mixta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquetas", "price": 360.00},
+                {"name": "bolitas de queso", "price": 280.00},
+                {"name": "tostones rellenos de chorizo", "price": 940.00},
+                {"name": "tostones rellenos de atun", "price": 840.00},
+                {"name": "tostones rellenos de jamon", "price": 680.00},
+                {"name": "coctel de pescado", "price": 760.00},
+                {"name": "coctel de camaron", "price": 780.00},
+                {"name": "coctelde langosta", "price": 980.00},
+                {"name": "trio de cocteles", "price": 2280.00},
+                {"name": "ceviche", "price": 1190.00},
+                {"name": "eperlan", "price": 1720.00},
+                {"name": "garbanzos fritos", "price": 1680.00},
+                {"name": "entremes de la casa", "price": 1920.00},
+                {"name": "entremes de jamon serrano", "price": 1350.00},
+                {"name": "tabla de quesos", "price": 1820.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "crema de queso", "price": 590.00},
+                {"name": "lazana bolonesa", "price": 1690.00},
+                {"name": "espaghetti napolitano queso gouda", "price": 840.00},
+                {"name": "espaghetti napolitano queso mozarella", "price": 610.00},
+                {"name": "espaghetti al aglio y olio", "price": 1240.00},
+                {"name": "pizza napolitana queso gouda", "price": 760.00},
+                {"name": "pizza napolitana queso mozarella", "price": 610.00},
+                {"name": "bistec de cerdo grille", "price": 1620.00},
+                {"name": "bistec de cerdo princesa", "price": 2240.00},
+                {"name": "bistec uruguayo", "price": 2380.00},
+                {"name": "cordero al vino tinto", "price": 2730.00},
+                {"name": "estofado de res", "price": 3320.00},
+                {"name": "filete de pescado grille", "price": 1590.00},
+                {"name": "filete de pescado princesa", "price": 2140.00},
+                {"name": "canciller", "price": 2320.00},
+                {"name": "pulpo enchilado", "price": 1330.00},
+                {"name": "pulpo al ajillo", "price": 1850.00},
+                {"name": "langosta grille", "price": 2190.00},
+                {"name": "langosta enchilada", "price": 2310.00},
+                {"name": "langosta termidor", "price": 2520.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "arroz blanco", "price": 180.00},
+                {"name": "arroz moro", "price": 250.00},
+                {"name": "arroz frito jackafe", "price": 1480.00},
+                {"name": "ensalada de estacion", "price": 250.00},
+                {"name": "viandas fritas", "price": 250.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "cafe expreso", "price": 180.00},
+                {"name": "cafe americano", "price": 180.00},
+                {"name": "cafe cortado", "price": 250.00},
+                {"name": "cafe capuchino", "price": 300.00},
+                {"name": "cafe con ashe", "price": 395.00},
+                {"name": "te", "price": 80.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "cerveza importada", "price": 280.00},
+                {"name": "cerveza michelada", "price": 100.00},
+                {"name": "refresco importado", "price": 330.00},
+                {"name": "jugo de caja", "price": 850.00},
+                {"name": "energizante", "price": 370.00},
+                {"name": "agua natural importada", "price": 260.00},
+                {"name": "agua tonica", "price": 720.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

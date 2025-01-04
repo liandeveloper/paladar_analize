@@ -1,0 +1,94 @@
+{
+    "establishment": ["restaurante"],
+    "name": "shapuseros",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "street": "ayestaran #663 e/ lombillo y piñera, havana, cuba",
+        "coordinates": {
+            "latitude": 23.117469093197613,
+            "longitude": -82.38456530532093
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/shapuseros",
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-2100",
+        "tuesday": "0900-2100",
+        "wednesday": "0900-2100",
+        "thursday": "0900-2100",
+        "friday": "0900-2100",
+        "saturday": "0900-2100",
+        "sunday": "0900-2100"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": false,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["hamburgusera"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "hamburguesa de pollo", "price": 500.00},
+                {"name": "hamburguesa de cerdo", "price": 550.00},
+                {"name": "hamburguesa de res", "price": 600.00},
+                {"name": "hamburguesa shapusero", "price": 1200.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "queso", "price": 150.00},
+                {"name": "jamon", "price": 120.00},
+                {"name": "chorizo", "price": 150.00},
+                {"name": "bacon", "price": 155},
+                {"name": "huevo", "price": 150.00},
+                {"name": "cebolla", "price": 50.00},
+                {"name": "salsa bbq", "price": 30.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

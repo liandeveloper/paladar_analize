@@ -1,0 +1,122 @@
+{
+    "establishment": ["restaurante"],
+    "name": "rico rico",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "street": "calle ayestarán e/ perfecto lacoste y aranguren",
+        "coordinates": {
+            "latitude": 23.124740748775036,
+            "longitude": -82.38047929182879
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/RicoRicopizzeria/",
+        "instagram": "https://www.instagram.com/ricoricopizzeria/",
+        "whatsapp": "+5351483086",
+        "web": null,
+        "telephone": "+5378701632"
+    },
+    "schedule": {
+        "monday": "0900-2300",
+        "tuesday": "0900-2300",
+        "wednesday": "0900-2300",
+        "thursday": "0900-2300",
+        "friday": "0900-2300",
+        "saturday": "0900-2300",
+        "sunday": "0900-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": false,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["comida italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "ensalada fria de atun (pequeña)", "price": 645.00},
+                {"name": "ensalada fria de atun (mediana)", "price": 1200.00},
+                {"name": "ensalada fria de atun (grande)", "price": 2205.00},
+                {"name": "ensalada fria de jamon y queso (pequeña)", "price": 495.00},
+                {"name": "pizzeta de napole", "price": 230.00},
+                {"name": "pizzeta de chorizo", "price": 325.00},
+                {"name": "bastones de queso", "price": 780.00},
+                {"name": "empanadas gallegas", "price": 380.00},
+                {"name": "tequeños", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pizza napoles", "price": 920.00},
+                {"name": "pasta napoles", "price": 920.00},
+                {"name": "pasta carbonara", "price": 1000.00},
+                {"name": "calzone napoles", "price": 1090.00},
+                {"name": "megacalzone", "price": 1440.00},
+                {"name": "lasaña boloñesa", "price": 1550.00},
+                {"name": "lasaña de jamon", "price": 1490.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "aceitunas", "price": 220.00},
+                {"name": "piña", "price": 220.00},
+                {"name": "cebolla", "price": 400.00},
+                {"name": "atun", "price": 550.00},
+                {"name": "chorizo", "price": 2390.00},
+                {"name": "bacon", "price": 360.00},
+                {"name": "jamon", "price": 320.00},
+                {"name": "jamon serrano", "price": 480.00},
+                {"name": "parmesano", "price": 350.00},
+                {"name": "gouda", "price": 360.00},
+                {"name": "lomo ahumado", "price": 380.00},
+                {"name": "queso azul", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "pastelito de ojaldre de guayaba o coco", "price": 260.00},
+                {"name": "pastelito de ojaldre de jamon y queso", "price": 280.00},
+                {"name": "flan", "price": 590.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "frappi rico", "price": 180.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "mega bati bati", "price": 990.00},
+                {"name": "super bati bati", "price": 785.00},
+                {"name": "bati frutas", "price": 675.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "la ruta de hemingway",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "street": "calle real entre victoria y marcos, cojimar",
+        "coordinates": {
+            "latitude": 23.140032524116656,
+            "longitude": -82.37801794949878
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": "larutadehemingway.godaddysites.com",
+        "telephone": "50813470"
+    },
+    "schedule": {
+        "monday": "1200-2300",
+        "tuesday": "1200-2300",
+        "wednesday": "1200-2300",
+        "thursday": "1200-2300",
+        "friday": "1200-2300",
+        "saturday": "1200-2300",
+        "sunday": "1200-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": true
+    },
+    "specialties": ["comida mixta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquetas de la casa", "price": 500.00},
+                {"name": "ceviche de pescado", "price": 1300.00},
+                {"name": "tostones rellenos", "price": 1150.00},
+                {"name": "eperlan de pescado", "price": 1300.00},
+                {"name": "garbanzos fritos", "price": 1350.00},
+                {"name": "ensalada fria", "price": 1050.00},
+                {"name": "brusquetas", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pincho pio", "price": 2500.00},
+                {"name": "bistec de cerdo a la campesina", "price": 2400.00},
+                {"name": "el balsero", "price": 3100.00},
+                {"name": "pulpo a las brasas", "price": 3500.00},
+                {"name": "camaron a la mantequilla", "price": 2900.00},
+                {"name": "langosta al carbon", "price": 3600.00},
+                {"name": "fajas ibericas", "price": 4250.00},
+                {"name": "chilindron de cordero", "price": 3450.00},
+                {"name": "fricase de costilla", "price": 3650.00},
+                {"name": "masas de cerdo a la campesina", "price": 3200.00},
+                {"name": "pescado entero", "price": 3100.00},
+                {"name": "tambor cubano", "price": 3100.00},
+                {"name": "rueda de pescado", "price": 2700.00},
+                {"name": "pizza napolitana", "price": 2000.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "viandas fritas", "price": 300.00},
+                {"name": "vianda con mojo", "price": 300.00},
+                {"name": "ensalada estacion", "price": 400.00},
+                {"name": "arroz blanco", "price": 300.00},
+                {"name": "arroz moro", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "postre del dia", "price": 750.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "cafe expresso", "price": 250.00},
+                {"name": "cafe americano", "price": 250.00},
+                {"name": "cafe chocolate", "price": 300.00},
+                {"name": "cafe cortado", "price": 300.00},
+                {"name": "cafe bombon", "price": 370.00},
+                {"name": "cafe con leche", "price": 450.00},
+                {"name": "capuchino", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "jugo en lata", "price": 300.00},
+                {"name": "jugo de fruta", "price": 300.00},
+                {"name": "batido de fruta", "price": 420.00},
+                {"name": "limonada frappe", "price": 450.00},
+                {"name": "limonada frescura", "price": 480.00},
+                {"name": "malta", "price": 360.00},
+                {"name": "malteada", "price": 500.00},
+                {"name": "refresco importado", "price": 300.00},
+                {"name": "agua natural", "price": 250.00},
+                {"name": "agua tonica", "price": 700.00},
+                {"name": "energizante", "price": 300.00},
+                {"name": "kermato", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cerveza nacional", "price": 300.00},
+                {"name": "cerveza en lata importada", "price": 250.00},
+                {"name": "cerveza presidente", "price": 300.00},
+                {"name": "cerveza heineken", "price": 400.00},
+                {"name": "cerveza corona", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "todos los cocteles", "price": 450.00},
+                {"name": "sangria", "price": 800.00},
+                {"name": "pina colada", "price": 700.00},
+                {"name": "gin tonic", "price": 800.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "botella de vino", "price": 3000.00},
+                {"name": "copa de vino", "price": 650.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "ron barcelo dorado", "price": 400.00},
+                {"name": "brandy", "price": 600.00},
+                {"name": "ginebra tanqueray", "price": 600.00},
+                {"name": "conac", "price": 1000.00},
+                {"name": "habana club 7 anos", "price": 600.00},
+                {"name": "habana club 3 anos", "price": 300.00},
+                {"name": "habana club pacto navio", "price": 1200.00},
+                {"name": "habana club reserva", "price": 350.00},
+                {"name": "habana club especial", "price": 300.00},
+                {"name": "habana club seleccion del maestro", "price": 1300.00},
+                {"name": "jagermeifter", "price": 700.00},
+                {"name": "legendario", "price": 250.00},
+                {"name": "ron 15 anos", "price": 1100.00},
+                {"name": "bucana", "price": 1650.00},
+                {"name": "tequila olmeca", "price": 800.00},
+                {"name": "ginebra", "price": 600.00},
+                {"name": "ron santiago", "price": 800.00},
+                {"name": "whiskey pasportt", "price": 400.00},
+                {"name": "w. black label", "price": 1000.00},
+                {"name": "w. double black label", "price": 1800.00},
+                {"name": "w. 15 anos", "price": 1900.00},
+                {"name": "w. red label", "price": 800.00},
+                {"name": "w. vat 69", "price": 350.00},
+                {"name": "w. black and white", "price": 500.00}
+            ]
+        }
+    ]
+}

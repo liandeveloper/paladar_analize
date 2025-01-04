@@ -1,0 +1,99 @@
+{
+    "establishment": ["restaurante"],
+    "name": "la divina pastora",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "street": "complejo morro cabana, via monumental",
+        "coordinates": {
+            "latitude": 23.14787764152756,
+            "longitude": -82.35252853230362
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/LaDivinaPastoraCuba",
+        "instagram": "https://www.instagram.com/pastorarestauranteladivina/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5377937809"
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": false,
+        "transfer": false,
+        "credit_card": true
+    },
+    "specialties": ["comida cubana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croqueticas la tasca", "price": 540.00},
+                {"name": "deditos de pollo", "price": 540.00},
+                {"name": "empanadas divina pastora", "price": 1500.00},
+                {"name": "fritura de malanga", "price": 540.00},
+                {"name": "garbanzo frito", "price": 1620.00},
+                {"name": "tablita de salmon ahumado", "price": 1620.00},
+                {"name": "pastas fruto del mar", "price": 2100.00},
+                {"name": "hamburguesa pastora", "price": 1080.00},
+                {"name": "sandwich roast beef", "price": 1620.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pollo empanado a la parmesana", "price": 1200.00},
+                {"name": "filete de pescado", "price": 2300.00},
+                {"name": "filete de cerdo", "price": 2040.00},
+                {"name": "rollito de cerdo", "price": 1560.00},
+                {"name": "filete de res", "price": 2880.00},
+                {"name": "estofado de res", "price": 2040.00},
+                {"name": "langosta divina pastora", "price": 2500.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

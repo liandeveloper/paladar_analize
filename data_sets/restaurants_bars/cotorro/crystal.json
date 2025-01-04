@@ -1,0 +1,186 @@
+{
+  "establishment": ["restaurante"],
+  "name": "crystal",
+  "address": {
+      "city": "la habana",
+      "town": "cotorro",
+      "street": "calle 101 # 1609 e/. 16 y 18 reparto centro, cotorro",
+      "coordinates": {
+          "latitude": 23.140032524116656,
+          "longitude": -82.37801794949878
+      }
+  },
+  "contacto": {
+      "facebook": null,
+      "instagram": "https://www.instagram.com/cafecrystalcuba/",
+      "whatsapp": null,
+      "web": null,
+      "telephone": "+5376823333"
+  },
+  "schedule": {
+      "monday": "1100-2400",
+      "tuesday": "1100-2400",
+      "wednesday": "1100-2400",
+      "thursday": "1100-2400",
+      "friday": "1100-2400",
+      "saturday": "1100-2400",
+      "sunday": "1100-2400"
+  },
+  "services": {
+      "delivery": true,
+      "to_take": true
+  },
+  "payment": {
+      "cash": true,
+      "transfer": true,
+      "credit_card": true
+  },
+  "specialties": ["comida italiana"],
+  "menu": [
+      {
+          "categorie": "starter",
+          "items": [
+              {"name": "eperlan de pescado o bastón de pollo", "price": 1600.00},
+              {"name": "croquetas de la casa", "price": 500.00},
+              {"name": "croquetas especiales de jamón importado", "price": 1000.00},
+              {"name": "frituras de malanga", "price": 700.00},
+              {"name": "entremes surtido", "price": 2000.00},
+              {"name": "tacos a elección","price": 2000.00},
+              {"name": "tostones rellenos","price": 1200.00},
+              {"name": "coctel de camarón","price": 1800.00},
+              {"name": "coctel de langosta","price": 1800.00},
+              {"name": "pica pica café crystal","price": 4400.00},
+              {"name": "camarones empanados","price": 2000.00},
+              {"name": "anillas de calamar empanadas","price": 2000.00},
+              {"name": "picadera estrella mar y tierra","price": 8000.00}
+            ]
+      },
+      {
+          "categorie": "main course",
+          "items": [
+            {"name": "Pizza queso gouda","price": 1500.00},
+            {"name": "Pasta napolitana","price": 1000.00},
+            {"name": "Pizza Café Crystal","price": 4000.00},
+            {"name": "Agrego de jamón","price": 200.00},
+            {"name": "Agrego de queso gouda","price": 650.00},
+            {"name": "Agrego de bacon","price": 500.00},
+            {"name": "Agrego de cebolla","price": 100.00},
+            {"name": "Agrego de champiñón","price": 250.00},
+            {"name": "Agrego carbonara","price": 1000.00 },
+            {"name": "Agrego de Atún","price": 500.00},
+            {"name": "Agrego camarones","price": 1500.00},
+            {"name": "Agrego Fruti di Mare","price": 1500.00},
+            {"name": "Agrego de Chorizo vela","price": 650.00},
+            {"name": "Agrego de pepperonni","price": 500.00},
+            {"name": "Agrego de piña","price": 200.00},
+            {"name": "Agrego de parmesano","price": 250.00},
+            {"name": "Agrego pure de tomate","price": 150.00},
+            {"name": "Agrego de alfredo","price": 900.00},
+            {"name": "Agrego de pesto","price": 200.00},
+            {"name": "Agrego aceituna","price": 500.00},
+            {"name": "Ensalada estación","price": 700.00},
+            {"name": "Ensalada de atún","price": 1250.00},
+            {"name": "Ensalada Café Crystal","price": 1500.00},
+            {"name": "Termo ensalada fría","price": 2000.00},
+            {"name": "Fajitas con reducido de vino tinto y champiñones","price": 2500.00},
+            {"name": "Ropa vieja de res","price": 2200.00},
+            {"name": "Vaca frita","price": 2200.00},
+            {"name": "Bistec encebollado","price": 2200.00},
+            {"name": "Uruguayo de res","price": 3000.00},
+            {"name": "Bistec cerdo grille","price": 1800.00},
+            {"name": "Masa de cerdo frita 1 libra","price": 3300.00},
+            {"name": "Uruguayo de cerdo","price": 2800.00},
+            {"name": "Costilla de cerdo","price": 3000.00},
+            {"name": "Lomo ahumado","price": 2500.00},
+            {"name": "Pollo Gordon Blue","price": 2800.00},
+            {"name": "Pechuga de pollo milanesa","price": 1800.00},
+            {"name": "Chop Suey","price": 2500.00},
+            {"name": "Filete de pescado","price": 2000.00},
+            {"name": "Pescado Canciller","price": 3000.00},
+            {"name": "Camarón grillé","price": 2800.00},
+            {"name": "Camarón al ajillo","price": 2800.00},
+            {"name": "Camarón enchilado","price": 3000.00},
+            {"name": "Cola de langosta","price": 2800.00},
+            {"name": "Langosta enchilada","price": 3000.00},
+            {"name": "Enchilado de Calamar","price": 3000.00},
+            {"name": "Enchilado de Anillas de Calamar","price": 3000.00}
+          ]
+      },
+      {
+          "categorie": "sides",
+          "items": [
+            {"price": 250.00},
+            {"name": "Arroz moro","price": 500.00},
+            {"name": "Arroz pilaf","price": 650.00},
+            {"name": "Arroz frito especial","price": 3000.00},
+            {"name": "Arroz imperial","price": 3000.00},
+            {"name": "Viandas fritas","price": 600.00},
+            {"name": "Tostones tradicionales","price": 700.00},
+            {"name": "Papas fritas","price": 700.00},
+            {"name": "Puré de papas","price": 700.00}
+          ]
+      },
+      {
+          "categorie": "desserts",
+          "items": [
+              {"name": "flan", "price": 600.00},
+              {"name": "copa helado", "price": 900.00},
+              {"name": "copa lolita", "price": 900.00},
+              {"name": "cheese cake","price": 980.00}
+          ]
+      },
+      {
+          "categorie": "coffee",
+          "items": [
+            {"name": "café expreso","price": 250.00},
+            {"name": "café cortado","price": 300.00},
+            {"name": "café capuccino","price": 550.00},
+            {"name": "café frapuccino", "price": 750.00}
+          ]
+      },
+      {
+          "categorie": "beverages",
+          "items": [
+            {"name": "cerveza importada","price": 400.00},
+            {"name": "cerveza cristal","price": 400.00},
+            {"name": "cerveza bucanero","price": 400.00},
+            {"name": "refresco de lata","price": 300.00},
+            {"name": "jugo de caja","price": 300.00},
+            {"name": "coca cola","price": 400.00},
+            {"name": "malta importada","price": 400.00},
+            {"name": "malteada","price": 700.00},
+            {"name": "batido de helado","price": 900.00},
+            {"name": "agua natural 500ml","price": 300.00},
+            {"name": "energizante","price": 500.00}
+          ]
+      },
+      {
+          "categorie": "beers",
+          "items": [
+              {"name": "cerveza importada", "price": 400.00},
+              {"name": "cerveza cristal", "price": 400.00},
+              {"name": "cerveza bucanero", "price": 400.00}
+          ]
+      },
+      {
+          "categorie": "cocktails",
+          "items": [
+            {"name": "coctelería clásica","price": 700.00},
+            {"name": "base de chelada","price": 250.00},
+            {"name": "base de nichelada","price": 300.00},
+            {"name": "coctelería internacional","price": 1000.00}
+          ]
+      },
+      {
+          "categorie": "vines",
+          "items": [
+              {"name": "copa de vino", "price": 700.00},
+              {"name": "botella de vino", "price": 3500.00}
+          ]
+      },
+      {
+          "categorie": "ron",
+          "items": [null]
+      }
+  ]
+}
