@@ -1,0 +1,131 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "garag",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padron",
+        "street": "calzada de guanabacoa e/ B y C. san miguel del padrón. virgen del camino",
+        "coordinates": {
+            "latitude": 23.104713939768796,
+            "longitude": -82.34022469182956
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/garag.bar.restaurante/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-0000",
+        "tuesday": "1200-0000",
+        "wednesday": "1200-0000",
+        "thursday": "1200-0000",
+        "friday": "1200-0000",
+        "saturday": "1200-0000",
+        "sunday": "1200-0000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["comida mixta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "picadera garag", "price": 3500.00},
+                {"name": "toston alfredo", "price": 750.00},
+                {"name": "eperlan", "price": 1650.00},
+                {"name": "fajitas de pollo", "price": 1225.00},
+                {"name": "fajitas de cerdo", "price": 1550.00},
+                {"name": "croquetas de mima", "price": 750.00},
+                {"name": "ceviche", "price": 900.00},
+                {"name": "tacos de carnita", "price": 1205.00},
+                {"name": "tacos marinesos", "price": 1295.00},
+                {"name": "ensalada fria", "price": 750.00},
+                {"name": "coctel de camaron", "price": 1250.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "napoles (pasta)", "price": 930.00},
+                {"name": "napoles (pizza)", "price": 930.00},
+                {"name": "anti hawaiana", "price": 1555.00},
+                {"name": "lechocita", "price": 1595.00},
+                {"name": "5 quesos", "price": 1650.00},
+                {"name": "filete de pescado grille", "price": 1920.00},
+                {"name": "filete de pescado empanado", "price": 1980.00},
+                {"name": "filete de pescado garag", "price": 2225.00},
+                {"name": "canciller", "price": 2150.00},
+                {"name": "filete alfredo", "price": 2150.00},
+                {"name": "masas de pescado al ajito", "price": 1920.00},
+                {"name": "pargo frito", "price": 2150.00},
+                {"name": "pollo frito", "price": 1350.00},
+                {"name": "bistec de pollo grille", "price": 1350.00},
+                {"name": "pollo empanado", "price": 1450.00},
+                {"name": "cordon blue", "price": 1925.00},
+                {"name": "bistec de cerdo encebollado", "price": 1950.00},
+                {"name": "cerdo grille", "price": 1700.00},
+                {"name": "cerdo empanado", "price": 1750.00},
+                {"name": "cerdo uruguayo", "price": 1955.00},
+                {"name": "masa de cerdo frita", "price": 2200.00},
+                {"name": "cerdo asado", "price": 2150.00},
+                {"name": "camaron al ajillo", "price": 2300.00},
+                {"name": "camaron grille", "price": 2105.00},
+                {"name": "camaron enchilado", "price": 2230.00},
+                {"name": "camaron emapanado", "price": 2290.00},
+                {"name": "aporreado de res", "price": 1950.00},
+                {"name": "ropa vieja", "price": 1930.00},
+                {"name": "arroz frito especial", "price": 1350.00},
+                {"name": "arroz frito", "price": 1200.00},
+                {"name": "ensalada estacion", "price": 350.00},
+                {"name": "vegetal salteado", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "copa de helado", "price": 400.00},
+                {"name": "copa lolita", "price": 650.00},
+                {"name": "cake a la moda", "price": 850.00},
+                {"name": "batido de helado", "price": 750.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "establishment": ["restaurante"],
+    "name": "el tráfico",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "street": "calzada de guines / 90 y 94. la cumbre",
+        "coordinates": {
+            "latitude": 23.080148890126296,
+            "longitude": -82.32080342066656
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/profile.php?id=61563449075640",
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5376916396"
+    },
+    "schedule": {
+        "monday": "1000-2200",
+        "tuesday": "1000-2200",
+        "wednesday": "1000-2200",
+        "thursday": "1000-2200",
+        "friday": "1000-2200",
+        "saturday": "1000-2200",
+        "sunday": "1000-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana", "criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "bistec de pollo", "price": 1500.00},
+                {"name": "bistec de cerdo", "price": 1950.00},
+                {"name": "bistec de res", "price": 1950.00},
+                {"name": "pechuga de pollo", "price": 1950.00},
+                {"name": "chuleta de cerdo", "price": 1950.00},
+                {"name": "masa de cerdo frita", "price": 2000.00},
+                {"name": "cerdo guisado", "price": 2000.00},
+                {"name": "lomo ahumado", "price": 2000.00},
+                {"name": "costilla de cerdo", "price": 2000.00},
+                {"name": "ropa vieja", "price": 2000.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "arroz moro", "price": 300.00},
+                {"name": "vianda", "price": 150.00},
+                {"name": "ensalada", "price": 200.00},
+                {"name": "tamal", "price": 200.00},
+                {"name": "papas fritas", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

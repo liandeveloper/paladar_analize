@@ -1,0 +1,87 @@
+{
+    "establishment": ["restaurante"],
+    "name": "don timbon",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "street": "entre carril central de cuba y calle 13",
+        "coordinates": {
+            "latitude": 23.077932841691588,
+            "longitude": -82.31933223714445
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-2200",
+        "tuesday": "0900-2200",
+        "wednesday": "0900-2200",
+        "thursday": "0900-2200",
+        "friday": "0900-2200",
+        "saturday": "0900-2200",
+        "sunday": "0900-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla", "italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "arroz salteado", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "jamón", "price": 80.00},
+                {"name": "chorizo", "price": 100.00},
+                {"name": "atún", "price": 100.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

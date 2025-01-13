@@ -1,0 +1,93 @@
+{
+    "establishment": ["restaurante"],
+    "name": "ranchon de 41",
+    "address": {
+        "city": "la habana",
+        "town": "marianao",
+        "street": "avenida 41 y 84",
+        "coordinates": {
+            "latitude": 23.08985421333022,
+            "longitude": -82.42159914765003
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5352014975"
+    },
+    "schedule": {
+        "monday": "0000-2400",
+        "tuesday": "0000-2400",
+        "wednesday": "0000-2400",
+        "thursday": "0000-2400",
+        "friday": "0000-2400",
+        "saturday": "0000-2400",
+        "sunday": "0000-2400"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": true
+    },
+    "specialties": ["variado"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquetas de la casa", "price": 400.00},
+                {"name": "coctel de camaron", "price": 650.00},
+                {"name": "picadera el toro bravo", "price": 1700.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "espaguetis", "price": 700.00},
+                {"name": "pizza de queso blanco", "price": 400.00},
+                {"name": "pizza de queso gouda", "price": 680.00},
+                {"name": "pollo chiflado", "price": 1200.00},
+                {"name": "fajitas de pollo", "price": 750.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "suero de helado", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

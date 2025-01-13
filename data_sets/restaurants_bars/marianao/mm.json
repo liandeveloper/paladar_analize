@@ -1,0 +1,151 @@
+{
+    "establishment": ["restaurante"],
+    "name": "mmcafeteria",
+    "address": {
+        "city": "la habana",
+        "town": "marianao",
+        "street": "avenida 41",
+        "coordinates": {
+            "latitude": 23.10357080956111,
+            "longitude": -82.41733354949847
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/p/Cafeter%C3%ADa-MM-100039587227413/",
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5372611382"
+    },
+    "schedule": {
+        "monday": "0900-1000",
+        "tuesday": "0900-1000",
+        "wednesday": "0900-1000",
+        "thursday": "0900-1000",
+        "friday": "0900-1000",
+        "saturday": "1000-0000",
+        "sunday": "1000-0000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["variada"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "papas fritas", "price": 650.00},
+                {"name": "croquetas", "price": 550.00},
+                {"name": "fritura de malanga", "price": 550.00},
+                {"name": "tostones rellenos", "price": 650.00},
+                {"name": "ensalada fria de jamon", "price": 800.00},
+                {"name": "ensalada fria de atun", "price": 900.00},
+                {"name": "fajitas de pechuga salteada", "price": 1200.00},
+                {"name": "fajitas de pechuga empanada", "price": 1450.00},
+                {"name": "fajitas de cerdo salteadas", "price": 1300.00},
+                {"name": "fajitas de cerdo empanada", "price": 1350.00},
+                {"name": "eperlan", "price": 1350.00},
+                {"name": "coctel de camarones", "price": 2100.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "taco de cerdo", "price": 1200.00},
+                {"name": "taco de camaron", "price": 1400.00},
+                {"name": "taco de pollo", "price": 1100.00},
+                {"name": "taco de res", "price": 1300.00},
+                {"name": "crema de queso", "price": 800.00},
+                {"name": "lasagña boloñesa", "price": 1700.00},
+                {"name": "espaguettis napolitano", "price": 700.00},
+                {"name": "pizzas napolitanas, 32 cm", "price": 750.00},
+                {"name": "pizzas jamon", "price": 1100.00},
+                {"name": "pizzas bacón", "price": 1650.00},
+                {"name": "pizzas pimiento", "price": 1050.00},
+                {"name": "pizzas cebolla", "price": 950.00},
+                {"name": "pizzas hawaiana", "price": 1350.00},
+                {"name": "pizzas atún", "price": 1650.00},
+                {"name": "pizzas camarón", "price": 1350.00},
+                {"name": "pizzas ropa vieja", "price": 1500.00},
+                {"name": "pizzas de chorizo", "price": 1100.00},
+                {"name": "pizzas mm", "price": 1800.00},
+                {"name": "bistec de cerdo grille", "price": 1400.00},
+                {"name": "cerdo bistec empanizado", "price": 1600.00},
+                {"name": "bistec de cerdo uruguayo", "price": 1950.00},
+                {"name": "masa de cerdo salteada", "price": 1350.00},
+                {"name": "lomo de cerdo", "price": 1500.00},
+                {"name": "fricase de cerdo", "price": 1400.00},
+                {"name": "bistec de pollo gordon blue", "price": 1900.00},
+                {"name": "bistec de pechuga gordon blue", "price": 1900.00},
+                {"name": "pechuga de pollo grille", "price": 1500.00},
+                {"name": "pechuga de pollo empanada", "price": 1400.00},
+                {"name": "vaca frita", "price": 1900.00},
+                {"name": "ropa vieja", "price": 1900.00},
+                {"name": "pescado grille", "price": 1500.00},
+                {"name": "pescado empanizado", "price": 1900.00},
+                {"name": "enchilado de camarón", "price": 1400.00},
+                {"name": "camarón al ajillo", "price": 1700.00},
+                {"name": "camaron empanado", "price": 2000.00},
+                {"name": "canciller 190grs", "price": 2000.00},
+                {"name": "langosta", "price": 2100.00},
+                {"name": "cazuela de mariscos", "price": 2100.00},
+                {"name": "canciller 180 grs", "price": 2000.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "arroz blanco", "price": 200.00},
+                {"name": "arroz congrí", "price": 300.00},
+                {"name": "arroz frito", "price": 1550.00},
+                {"name": "paella", "price": 2100.00},
+                {"name": "Arroz frito de cerdo,pollo y mejillon", "price": 1450.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [{"name": "helado cid", "price": 850.00}]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "agua", "price": 130.00},
+                {"name": "refresco santa", "price": 200.00},
+                {"name": "sprite", "price": 450.00},
+                {"name": "santa isabel", "price": 250.00},
+                {"name": "energizante", "price": 260.00},
+                {"name": "jugo lata", "price": 265.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cristal v", "price": 245.00},
+                {"name": "cristal b", "price": 200.00},
+                {"name": "bucanero", "price": 240.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

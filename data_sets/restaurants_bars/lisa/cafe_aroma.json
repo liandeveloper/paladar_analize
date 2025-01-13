@@ -1,0 +1,175 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "cafe aroma",
+    "address": {
+        "city": "lisa",
+        "town": " ",
+        "street": " ",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": " ",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0700-1900",
+        "tuesday": "0700-1900",
+        "wednesday": "0700-1900",
+        "thursday": "0700-1900",
+        "friday": "0700-1900",
+        "saturday": "0700-1900",
+        "sunday": "0700-1900"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["cofee"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "sandwich de jamon y queso", "price": 320.00},
+                {"name": "sandwich de jamon y queso", "price": 360.00},
+                {"name": "sandwich de jamon", "price": 360.00},
+                {"name": "sandwich de queso", "price": 320.00},
+                {"name": "sandwich de queso", "price": 360.00},
+                {"name": "sandwich de pollo", "price": 370.00},
+                {"name": "sandwich de atun", "price": 480.00},
+                {"name": "sandwich hawaiano", "price": 380.00},
+                {"name": "sandwich hawaiano", "price": 430.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "nachos con salsa", "price": 200.00},
+                {"name": "croquetas", "price": 320.00},
+                {"name": "picadera aroma", "price": 550.00},
+                {"name": "garbanzos fritos", "price": 600.00},
+                {"name": "eperlan de pescado", "price": 700.00},
+                {"name": "enchilado de cangrejo", "price": 600.00},
+                {"name": "fajitas de cerdo", "price": 600.00},
+                {"name": "tacos de pollo", "price": 500.00},
+                {"name": "tacos de cangrejo", "price": 600.00},
+                {"name": "tacos de cerdo", "price": 620.00},
+                {"name": "tacos de ropa vieja", "price": 750.00},
+                {"name": "tacos de jamon pierna", "price": 750.00},
+                {"name": "tostones rellenos de jamon y queso", "price": 380.00},
+                {"name": "tostones rellenos de atun", "price": 400.00},
+                {"name": "tostones rellenos de ropa vieja", "price": 500.00},
+                {"name": "hamburguesa sencilla", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "donas", "price": 200.00},
+                {"name": "helado/galletas", "price": 320.00},
+                {"name": "bola de helado", "price": 140.00},
+                {"name": "dulce aroma", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Expresso", "price": 100.00},
+                {"name": "Capuccino", "price": 150.00},
+                {"name": "Cortadito", "price": 120.00},
+                {"name": "Moka", "price": 180.00},
+                {"name": "Carajillo", "price": 180.00},
+                {"name": "Especiado", "price": 110.00},
+                {"name": "Americano", "price": 115.00},
+                {"name": "Bombon", "price": 110.00},
+                {"name": "Cremoso", "price": 300.00},
+                {"name": "Frapuccino", "price": 550.00},
+                {"name": "Frapuccino Moka", "price": 280.00},
+                {"name": "Frapuccino Aroma", "price": 300.00},
+                {"name": "Frapuccino Sorpresa", "price": 350.00},
+                {"name": "Frapuccino Mousse", "price": 380.00},
+                {"name": "Capricho", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Jugo Natural", "price": 250.00},
+                {"name": "Limonada", "price": 100.00},
+                {"name": "Batido de Chocolate", "price": 180.00},
+                {"name": "Batido de Frutas", "price": 280.00},
+                {"name": "Batido de Helado", "price": 330.00},
+                {"name": "Batido de Helado Plus", "price": 380.00},
+                {"name": "Refresco Importado", "price": 210.00},
+                {"name": "Malta", "price": 250.00},
+                {"name": "Agua", "price": 150.00},
+                {"name": "Jugo de Caja Pequeno", "price": 190.00},
+                {"name": "Jugo de Caja Grande", "price": 450.00},
+                {"name": "Pomo de Refresco", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "caipirinha", "price": 250.00},
+                {"name": "daiquiri", "price": 250.00},
+                {"name": "caipiroska", "price": 280.00},
+                {"name": "caipirisima", "price": 280.00},
+                {"name": "screwdriver", "price": 280.00},
+                {"name": "mojito", "price": 300.00},
+                {"name": "mojito ruso", "price": 300.00},
+                {"name": "cremas de tequila", "price": 320.00},
+                {"name": "pina colada", "price": 350.00},
+                {"name": "martini", "price": 300.00},
+                {"name": "copa de vino", "price": 300.00},
+                {"name": "gin & tonic", "price": 350.00},
+                {"name": "sex on the beach", "price": 350.00},
+                {"name": "sangria", "price": 350.00},
+                {"name": "margarita", "price": 230.00},
+                {"name": "orgasmo", "price": 250.00},
+                {"name": "cervezas importadas", "price": 280.00},
+                {"name": "pacto navio", "price": 300.00},
+                {"name": "black tears super dry", "price": 300.00},
+                {"name": "black tears roble superior", "price": 300.00},
+                {"name": "tequila olmeca", "price": 380.00},
+                {"name": "crema baileys", "price": 250.00},
+                {"name": "jagermeiste", "price": 400.00},
+                {"name": "vodka", "price": 350.00},
+                {"name": "ciroc", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "habana club 3 anos", "price": 300.00},
+                {"name": "habana club especial", "price": 350.00},
+                {"name": "habana club reserva", "price": 350.00},
+                {"name": "habana club 7 anos", "price": 600.00},
+                {"name": "habana club smoky", "price": 600.00},
+                {"name": "seleccion de maestros", "price": 250.00}
+            ]
+        }
+    ]
+}

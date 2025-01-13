@@ -1,0 +1,109 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "2kfe",
+    "address": {
+        "city": "la habana",
+        "town": "regla",
+        "street": " pereira 160 e/ martí y maceo",
+        "coordinates": {
+            "latitude": 23.128196876296265,
+            "longitude": -82.33432370532059
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/2kfe_bar/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1000-2000",
+        "tuesday": "1000-2000",
+        "wednesday": "1000-2000",
+        "thursday": "1000-2000",
+        "friday": "1000-2000",
+        "saturday": "1000-2000",
+        "sunday": "1000-2000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cafe", "internacional", "criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquetas", "price": 300.00},
+                {"name": "viandas fritas", "price": 100.00},
+                {"name": "brusquetas", "price": 250.00},
+                {"name": "entremes surtido", "price": 800.00},
+                {"name": "mini gordon bleu", "price": 800.00},
+                {"name": "plato combinado", "price": 1200.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "tacos carnitas", "price": 850.00},
+                {"name": "tacos res", "price": 900.00},
+                {"name": "tacos pollo", "price": 600.00},
+                {"name": "tacos vegetariano", "price": 400.00},
+                {"name": "tacos jamón y queso", "price": 650.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "espresso", "price": 100.00},
+                {"name": "americano", "price": 100.00},
+                {"name": "cortadito", "price": 150.00},
+                {"name": "con leche", "price": 200.00},
+                {"name": "espresso macchiato", "price": 180.00},
+                {"name": "caramel macchiato", "price": 250.00},
+                {"name": "cappuccino", "price": 220.00},
+                {"name": "frappuccino", "price": 500.00},
+                {"name": "irlandés", "price": 250.00},
+                {"name": "caribeño", "price": 180.00},
+                {"name": "alma mía", "price": 180.00},
+                {"name": "minty coffee", "price": 250.00},
+                {"name": "2kf", "price": 250.00},
+                {"name": "lujo", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

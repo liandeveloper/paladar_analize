@@ -1,0 +1,88 @@
+{
+    "establishment": ["bar"],
+    "name": "bar colina",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "street": "esquina b y calzada de guines reparto merceditas",
+        "coordinates": {
+            "latitude": 23.097525177834186,
+            "longitude": -82.33515010358666
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1100-1100",
+        "tuesday": "1100-1100",
+        "wednesday": "1100-1100",
+        "thursday": "1100-1100",
+        "friday": "1100-1100",
+        "saturday": "1100-1100",
+        "sunday": "1100-1100"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "entremes de jamón y queso", "price": 600.00},
+                {"name": "croquetas", "price": 400.00},
+                {"name": "frituras de malanga", "price": 550.00},
+                {"name": "tostones", "price": 400.00},
+                {"name": "tostones rellenos", "price": 600.00},
+                {"name": "chicharrita", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [null]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

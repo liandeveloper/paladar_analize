@@ -1,0 +1,146 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "la novia",
+    "address": {
+        "city": "lisa",
+        "town": " ",
+        "street": " ",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": " ",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0700-1900",
+        "tuesday": "0700-1900",
+        "wednesday": "0700-1900",
+        "thursday": "0700-1900",
+        "friday": "0700-1900",
+        "saturday": "0700-1900",
+        "sunday": "0700-1900"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["caribena"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquetas de la casa", "price": 600.00},
+                {"name": "frituras de malanga", "price": 400.00},
+                {"name": "bolitas de yuca y queso", "price": 350.00},
+                {"name": "fajitas de cerdo", "price": 1000.00},
+                {"name": "fajitas de pollo", "price": 1000.00},
+                {"name": "picadera mixta", "price": 2200.00},
+                {"name": "chips de vianda", "price": 200.00},
+                {"name": "milanesa de pollo", "price": 1200.00},
+                {"name": "sandwich de jamon", "price": 580.00},
+                {"name": "sandwich de jamon y queso", "price": 730.00},
+                {"name": "sandwich cubano con cerdo asado", "price": 1300.00},
+                {"name": "ensaladita de aceitunas, queso y peperoni", "price": 1100.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "tacos de cerdo", "price": 1100.00},
+                {"name": "tacos de pollo", "price": 1100.00},
+                {"name": "tacos de jamon y queso", "price": 1100.00},
+                {"name": "tacos marineros", "price": 1100.00},
+                {"name": "tacos de ropa vieja", "price": 1300.00},
+                {"name": "masas fritas de cerdo", "price": 1700.00},
+                {"name": "pollo frito", "price": 1300.00},
+                {"name": "pollo asado", "price": 1300.00},
+                {"name": "pizza napolitana", "price": 280.00},
+                {"name": "pizza de peperoni", "price": 400.00},
+                {"name": "espaguetis napolitanos", "price": 700.00},
+                {"name": "bistec de cerdo", "price": 1200.00},
+                {"name": "bistec de pechuga", "price": 1600.00},
+                {"name": "chuleta de cerdo", "price": 1600.00},
+                {"name": "ropa vieja", "price": 1900.00},
+                {"name": "brochetas de cerdo", "price": 1800.00},
+                {"name": "completa de enchilado de cangrejo", "price": 1500.00},
+                {"name": "cerdo asado", "price": 1500.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "tostones criollos", "price": 300.00},
+                {"name": "tostones rellenos", "price": 850.00},
+                {"name": "racion de arroz moro", "price": 300.00},
+                {"name": "racion de ensalada", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "copa de helado", "price": 550.00},
+                {"name": "flan", "price": 270.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Cafe expresso", "price": 100.00},
+                {"name": "Cafe frapuccino", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Agua", "price": 150.00},
+                {"name": "Limonada Frappe", "price": 340.00},
+                {"name": "Limonada Natural", "price": 340.00},
+                {"name": "Jugos Naturales", "price": 160.00},
+                {"name": "Batido de Frutas", "price": 350.00},
+                {"name": "Batido de Helado", "price": 700.00},
+                {"name": "Malta importada", "price": 290.00},
+                {"name": "Refresco importado", "price": 260.00},
+                {"name": "Energizante", "price": 260.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Jarra de Cerveza dispensada", "price": 300.00},
+                {"name": "Cerveza importada", "price": 250.00},
+                {"name": "Cerveza nacional", "price": 290.00},
+                {"name": "Michelada mexicana", "price": 250.00},
+                {"name": "Michelada", "price": 230.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Sangria", "price": 550.00},
+                {"name": "Cuba Libre", "price": 250.00},
+                {"name": "Caipiroska", "price": 300.00},
+                {"name": "Caipirinha", "price": 300.00},
+                {"name": "Piña Colada", "price": 550.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

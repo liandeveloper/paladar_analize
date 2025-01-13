@@ -1,0 +1,133 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "yesterday havana",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padro",
+        "street": "rita entre blanchi y calzada de guines",
+        "coordinates": {
+            "latitude": 23.09908674072466,
+            "longitude": -82.33977767833791
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/yesterdayhabanabarrest/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5376930649"
+    },
+    "schedule": {
+        "monday": "0700-1900",
+        "tuesday": "0700-1900",
+        "wednesday": "0700-1900",
+        "thursday": "0700-1900",
+        "friday": "0700-1900",
+        "saturday": "0700-1900",
+        "sunday": "0700-1900"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["comida mixta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "picadera yesterday", "price": 3000.00},
+                {"name": "papas fritas", "price": 600.00},
+                {"name": "tacos de cerdo", "price": 800.00},
+                {"name": "tacos de pollo", "price": 800.00},
+                {"name": "ceviche", "price": 800.00},
+                {"name": "eperlan", "price": 900.00},
+                {"name": "coctel de camarones", "price": 1000.00},
+                {"name": "entremes de jamon, queso y chorizo", "price": 800.00},
+                {"name": "ensalada fria", "price": 650.00},
+                {"name": "toston al ajo", "price": 600.00},
+                {"name": "frituras de malanga", "price": 500.00},
+                {"name": "croquetas de la casa", "price": 500.00},
+                {"name": "fajitas de pollo", "price": 950.00},
+                {"name": "fajitas de cerdo", "price": 950.00},
+                {"name": "brochetas mixtas", "price": 2500.00},
+                {"name": "garbanzo frito", "price": 2000.00},
+                {"name": "fabada", "price": 2000.00},
+                {"name": "cema del dia", "price": 1000.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [null]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "mariscada yesterday", "price": 7000.00},
+                {"name": "calamar al gusto", "price": 3000.00},
+                {"name": "langosta al gusto", "price": 3000.00},
+                {"name": "3 delicias", "price": 3000.00},
+                {"name": "camarones al ajo", "price": 2000.00},
+                {"name": "camarones grille", "price": 2000.00},
+                {"name": "enchilado de camarones", "price": 2000.00},
+                {"name": "camaron empanado", "price": 2500.00},
+                {"name": "filete de pescado", "price": 1800.00},
+                {"name": "filete de pescado jhombill", "price": 2200.00},
+                {"name": "rueda de pescado frito", "price": 2500.00},
+                {"name": "bistec de cerdo", "price": 1800.00},
+                {"name": "cerdo encebollado", "price": 2000.00},
+                {"name": "pechuga de pollo grille", "price": 1800.00},
+                {"name": "mar y tierra", "price": 5500.00},
+                {"name": "mar y tierra res", "price": 5500.00},
+                {"name": "cordero al vino", "price": 3000.00},
+                {"name": "costillas de cerdo", "price": 3000.00},
+                {"name": "cerdo desmechado", "price": 3000.00},
+                {"name": "masas fritas", "price": 3000.00},
+                {"name": "lonjas de cerdo", "price": 3000.00},
+                {"name": "lonjas ahumadas", "price": 3000.00},
+                {"name": "uruguayo", "price": 2500.00},
+                {"name": "canciller", "price": 2500.00},
+                {"name": "corden bleu", "price": 2500.00},
+                {"name": "solomillo de cerdo", "price": 4000.00},
+                {"name": "arroz a la marinera", "price": 3500.00},
+                {"name": "arroz campesino", "price": 3000.00},
+                {"name": "arroz frito (camaron)", "price": 2000.00},
+                {"name": "arroz frito (langosta)", "price": 2500.00},
+                {"name": "ropa vieja", "price": 2500.00},
+                {"name": "bistec de res", "price": 2500.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "establishment": ["restaurante", "bar", "cafeteria"],
+    "name": "buena vibra",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "street": "calle beltrán e/ velazquez y vista hermosa",
+        "coordinates": {
+            "latitude": 23.09928333642418,
+            "longitude": -82.33239864507445
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2200",
+        "tuesday": "1200-2200",
+        "wednesday": "1200-2200",
+        "thursday": "1200-2200",
+        "friday": "1200-2200",
+        "saturday": "1200-2200",
+        "sunday": "1200-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                { "name": "croquetas", "price": 400.00},
+                { "name": "fritura de malanga", "price": 400.00},
+                { "name": "vianda frita", "price": 300.00},
+                { "name": "tostones tradicionales", "price": 300.00},
+                { "name": "tostones rellenos", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                { "name": "bistec de pollo", "price": 850.00},
+                { "name": "bistec de pollo empanado", "price": 900.00},
+                { "name": "hígado de cerdo", "price": 800.00},
+                { "name": "lomo ahumado", "price": 900.00},
+                { "name": "bistec de cerdo", "price": 900.00},
+                { "name": "pechuga de pollo", "price": 900.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                { "name": "tequila reposado", "price": 300.00},
+                { "name": "licor crema", "price": 200.00},
+                { "name": "piña colada", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

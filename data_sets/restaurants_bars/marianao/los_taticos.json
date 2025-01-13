@@ -1,0 +1,98 @@
+{
+    "establishment": ["restaurante"],
+    "name": "los taticos",
+    "address": {
+        "city": "la habana",
+        "town": "marianao",
+        "street": "avenida 25 entre 25c y 27a",
+        "coordinates": {
+            "latitude": 23.08415257694429,
+            "longitude": -82.43603112066641
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0800-0000",
+        "tuesday": "0800-0000",
+        "wednesday": "0800-0000",
+        "thursday": "0800-0000",
+        "friday": "0800-0000",
+        "saturday": "0800-0000",
+        "sunday": "0800-0000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["variada"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "picadera tatico", "price": 2800.00},
+                {"name": "entremes surtido", "price": 800.00},
+                {"name": "tostones rellenos", "price": 800.00},
+                {"name": "bolitas de queso", "price": 800.00},
+                {"name": "bolitas de carne", "price": 800.00},
+                {"name": "croquetas caseras", "price": 800.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pizza tatico", "price": 1200.00},
+                {"name": "pizza mixta", "price": 680.00},
+                {"name": "pizza hawaiana", "price": 680.00},
+                {"name": "pizza jamon", "price": 680.00},
+                {"name": "pizza de queso", "price": 680.00},
+                {"name": "pollo al carbon", "price": 1200.00},
+                {"name": "taco de cerdo", "price": 650.00},
+                {"name": "taco de carne", "price": 800.00},
+                {"name": "taco de atun", "price": 800.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "establishment": ["restaurante", "cafeteria"],
+    "name": "café toscano",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "street": "calzada de guines #10425 entre 104 y 112.la rosita",
+        "coordinates": {
+            "latitude": 23.071921834175146,
+            "longitude": -82.30784997833892
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/toscanocafeteria/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0800-2200",
+        "tuesday": "0800-2200",
+        "wednesday": "0800-2200",
+        "thursday": "0800-2200",
+        "friday": "0800-2200",
+        "saturday": "0800-2200",
+        "sunday": "0800-2200"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "tostones rellenos", "price": 250.00},
+                {"name": "tostones", "price": 150.00},
+                {"name": "platano", "price": 100.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pollo chiflado", "price": 400.00},
+                {"name": "pollo especial", "price": 1000.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

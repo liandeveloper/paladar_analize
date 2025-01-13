@@ -1,0 +1,134 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "ranchon don mrtin",
+    "address": {
+        "city": "la habana",
+        "town": " ",
+        "street": "lisa",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": " ",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0700-1900",
+        "tuesday": "0700-1900",
+        "wednesday": "0700-1900",
+        "thursday": "0700-1900",
+        "friday": "0700-1900",
+        "saturday": "0700-1900",
+        "sunday": "0700-1900"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["cuban"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "ensalada fria", "price": 400.00},
+                {"name": "coctel de camarones", "price": 950.00},
+                {"name": "fritura de malanga", "price": 470.00},
+                {"name": "toston con mojo", "price": 380.00},
+                {"name": "chicharritas", "price": 370.00},
+                {"name": "papa frita", "price": 700.00},
+                {"name": "toston relleno", "price": 470.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "masa frita de cerdo", "price": 2030.00},
+                {"name": "fricase de cerdo", "price": 2030.00},
+                {"name": "bistec de cerdo grille", "price": 1400.00},
+                {"name": "bistec de cerdo uruguayo", "price": 2050.00},
+                {"name": "bistec de cerdo empanado", "price": 1600.00},
+                {"name": "bistec de cerdo al graten", "price": 1600.00},
+                {"name": "bistec de cerdo a la reina", "price": 1700.00},
+                {"name": "vaca frita", "price": 2820.00},
+                {"name": "ropa vieja", "price": 2850.00},
+                {"name": "pechuga grille", "price": 1440.00},
+                {"name": "pechuga empanada", "price": 1530.00},
+                {"name": "pechuga al graten", "price": 1520.00},
+                {"name": "pechuga a la reina", "price": 1580.00},
+                {"name": "gordon blue", "price": 1780.00},
+                {"name": "filete de pescado grille", "price": 1600.00},
+                {"name": "filete de pescado empanado", "price": 1800.00},
+                {"name": "filete de pescado al graten", "price": 1800.00},
+                {"name": "canciller", "price": 2000.00},
+                {"name": "filete don martin", "price": 2450.00},
+                {"name": "camaron enchilado", "price": 2000.00},
+                {"name": "camaron al ajillo", "price": 2000.00},
+                {"name": "camaron rebosado", "price": 2100.00},
+                {"name": "langosta al ajillo", "price": 3600.00},
+                {"name": "langosta enchilado", "price": 3650.00},
+                {"name": "chilindron de cordero", "price": 1810.00},
+                {"name": "pan con hamburguesa", "price": 900.00},
+                {"name": "pan con hamburguesa, jamon y queso", "price": 1280.00},
+                {"name": "espaguetis", "price": 840.00},
+                {"name": "pizza", "price": 860.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "arroz moro", "price": 180.00},
+                {"name": "arroz blanco", "price": 100.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "flan", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "refresco de lata", "price": 220.00},
+                {"name": "malta caribia", "price": 230.00},
+                {"name": "refresco manzanita", "price": 290.00},
+                {"name": "seven-up", "price": 240.00},
+                {"name": "pinita", "price": 225.00},
+                {"name": "agua", "price": 180.00},
+                {"name": "energizante", "price": 245.00},
+                {"name": "jugo de caja", "price": 175.00},
+                {"name": "batido de helado", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

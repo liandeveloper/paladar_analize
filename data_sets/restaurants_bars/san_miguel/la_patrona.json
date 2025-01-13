@@ -1,0 +1,101 @@
+{
+    "establishment": ["restaurante"],
+    "name": "la patrona",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "street": "calzada de guines en san francisco de paula",
+        "coordinates": {
+            "latitude": 23.06346033580408,
+            "longitude": -82.29517894345166
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/profile.php?id=61558759442087",
+        "instagram": "https://www.instagram.com/la_patrona_bar_restaurante/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": " ",
+        "tuesday": "0800-0000",
+        "wednesday": "0800-0000",
+        "thursday": "0800-0000",
+        "friday": "0800-0000",
+        "saturday": "0800-0000",
+        "sunday": "0800-0000"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "bistec uruguayo", "price": 2600.00},
+                {"name": "ropa vieja", "price": 1400.00},
+                {"name": "escalope de cerdo", "price": 1800.00},
+                {"name": "bistec de cerdo", "price": 1600.00},
+                {"name": "arroz frito", "price": 1000.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "flan", "price": 200.00},
+                {"name": "copa lolita", "price": 400.00},
+                {"name": "cesta helado", "price": 500.00},
+                {"name": "tres gracias", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "café express", "price": 150.00},
+                {"name": "cafe con crema", "price": 180.00},
+                {"name": "cafe la patrona", "price": 250.00},
+                {"name": "frapuchino", "price": 250.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "jugos", "price": 100.00},
+                {"name": "suero helado", "price": 350.00},
+                {"name": "batidos", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "lkg",
+    "address": {
+        "city": "la habana",
+        "town": " ",
+        "street": " ",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": " ",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0700-1900",
+        "tuesday": "0700-1900",
+        "wednesday": "0700-1900",
+        "thursday": "0700-1900",
+        "friday": "0700-1900",
+        "saturday": "0700-1900",
+        "sunday": "0700-1900"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["caribbean"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "bistec", "price": 900.00},
+                {"name": "fricase", "price": 900.00},
+                {"name": "pollo", "price": 1200.00},
+                {"name": "cangrejo", "price": 550.00},
+                {"name": "arroz frito", "price": 600.00},
+                {"name": "langosta", "price": 1400.00},
+                {"name": "rueda pescado", "price": 950.00},
+                {"name": "pescado entero", "price": 950.00},
+                {"name": "pizza de jamon", "price": 300.00},
+                {"name": "pizza de queso", "price": 200.00},
+                {"name": "pizza de doble queso", "price": 250.00},
+                {"name": "pizza de queso gouda", "price": 250.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "espresso", "price": 20.00},
+                {"name": "agua mineral", "price": 150.00},
+                {"name": "cerveza", "price": 250.00},
+                {"name": "refresco importado", "price": 230.00},
+                {"name": "batidos de frutas", "price": 235.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

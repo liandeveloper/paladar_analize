@@ -1,0 +1,112 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "el pecado",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padron",
+        "street": "calle matos #152 % fernanda y central, la fernanda",
+        "coordinates": {
+            "latitude": 23.101912380242922,
+            "longitude": -82.34151612251793
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": "+5352828577",
+        "web": null,
+        "telephone": "+5376795921"
+    },
+    "schedule": {
+        "monday": "1100-2300",
+        "tuesday": "1100-2300",
+        "wednesday": "1100-2300",
+        "thursday": "1100-2300",
+        "friday": "1100-2300",
+        "saturday": "1100-2300",
+        "sunday": "1100-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["comida mixta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                { "name": "aceitunas", "price": 350.00 },
+                { "name": "entremes de jamon y queso", "price": 300.00 },
+                { "name": "bolitas de queso", "price": 350.00 },
+                { "name": "papitas fritas", "price": 350.00 },
+                { "name": "croquetas", "price": 340.00 },
+                { "name": "fajitas de pollo", "price": 500.00 },
+                { "name": "eperelan de pescado", "price": 600.00 },
+                { "name": "coctel de camaron", "price": 570.00 },
+                { "name": "tostones de jamon y queso", "price": 380.00 },
+                { "name": "tostones de atun", "price": 450.00 },
+                { "name": "picadera pecado", "price": 1200.00 }
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                { "name": "cerdo grille", "price": 650.00 },
+                { "name": "masas ritas", "price": 750.00 },
+                { "name": "solomillo de cerdo", "price": 720.00 },
+                { "name": "costillas en salsa bbq", "price": 600.00 },
+                { "name": "bistec uruguayo de cerdo", "price": 850.00 },
+                { "name": "pechuga empanada", "price": 700.00 },
+                { "name": "pechuga grille", "price": 650.00 },
+                { "name": "pechuga princesa", "price": 800.00 },
+                { "name": "pechuga gordon blue", "price": 850.00 },
+                { "name": "filete de pescado", "price": 730.00 },
+                { "name": "pescado canciller", "price": 950.00 },
+                { "name": "pescado jhonbill", "price": 1200.00 },
+                { "name": "pescado empanado", "price": 780.00 },
+                { "name": "ropa vieja", "price": 650.00 },
+                { "name": "vaca frita", "price": 720.00 },
+                { "name": "filete de res encebollado", "price": 750.00 },
+                { "name": "uruguayo de res", "price": 730.00 },
+                { "name": "camarones", "price": 750.00 }
+            ]
+        },
+        {
+             "categorie": "sides", 
+             "items": [null] 
+        },
+        {
+             "categorie": "desserts", 
+             "items": [null] 
+        },
+        {
+             "categorie": "coffee", 
+             "items": [null] 
+        },
+        {
+             "categorie": "beverages", 
+             "items": [null] 
+        },
+        {
+             "categorie": "beers", 
+             "items": [null] 
+        },
+        {
+             "categorie": "cocktails", 
+             "items": [null] 
+        },
+        {
+             "categorie": "vines", 
+             "items": [null] 
+        },
+        {
+             "categorie": "ron", 
+             "items": [null] 
+        }
+    ]
+}

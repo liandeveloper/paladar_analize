@@ -1,0 +1,95 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "la baliza",
+    "address": {
+        "city": "la habana",
+        "town": " ",
+        "street": " ",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": " ",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0700-1900",
+        "tuesday": "0700-1900",
+        "wednesday": "0700-1900",
+        "thursday": "0700-1900",
+        "friday": "0700-1900",
+        "saturday": "0700-1900",
+        "sunday": "0700-1900"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["fast food"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "sandwich de jamon y queso", "price": 500.00},
+                {"name": "hamburguesa", "price": 490.00},
+                {"name": "super hamburguesa", "price": 950.00},
+                {"name": "pizza con queso gouda (small)", "price": 450.00},
+                {"name": "pizza con queso gouda (large)", "price": 700.00},
+                {"name": "pizza de queso blanco (small)", "price": 350.00},
+                {"name": "pizza de queso blanco (large)", "price": 520.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "batido de mamey", "price": 230.00},
+                {"name": "refresco importado", "price": 230.00},
+                {"name": "agua mineral natural", "price": 150.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cerveza importada", "price": 250.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

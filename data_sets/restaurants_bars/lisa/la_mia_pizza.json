@@ -1,0 +1,120 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "la mia pizza",
+    "address": {
+        "city": "lisa",
+        "town": " ",
+        "street": " ",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": " ",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0700-1900",
+        "tuesday": "0700-1900",
+        "wednesday": "0700-1900",
+        "thursday": "0700-1900",
+        "friday": "0700-1900",
+        "saturday": "0700-1900",
+        "sunday": "0700-1900"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["italian"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "entremes de jamon y queso", "price": 1440.00},
+                {"name": "entremes de jamon", "price": 500.00},
+                {"name": "entremes de ahumados", "price": 440.00},
+                {"name": "entremes de aceitunas", "price": 300.00},
+                {"name": "dados de queso", "price": 300.00},
+                {"name": "croquetas de embutidos", "price": 220.00},
+                {"name": "crema de queso", "price": 250.00},
+                {"name": "crema aurora", "price": 300.00},
+                {"name": "crema virginia", "price": 430.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pizza napolitana", "price": 700.00},
+                {"name": "pizza la mia", "price": 2500.00},
+                {"name": "pizza la mia de queso", "price": 1900.00},
+                {"name": "pizza tres quesos", "price": 1700.00},
+                {"name": "pizza la mia familiar", "price": 4800.00},
+                {"name": "pizza la mia familiar de queso", "price": 4000.00},
+                {"name": "pizza familiar napolitana", "price": 2500.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "jugo de frutas naturales", "price": 200.00},
+                {"name": "batido de frutas naturales", "price": 250.00},
+                {"name": "suero de helado", "price": 350.00},
+                {"name": "helado montado", "price": 350.00},
+                {"name": "pina colada", "price": 250.00},
+                {"name": "limonada frappe", "price": 1500.00},
+                {"name": "refresco", "price": 220.00},
+                {"name": "refresco de pomo", "price": 280.00},
+                {"name": "malta", "price": 250.00},
+                {"name": "agua", "price": 160.00},
+                {"name": "agua saborizada", "price": 170.00},
+                {"name": "bebida energizante", "price": 250.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "havana club 3 anos", "price": 175.00},
+                {"name": "havana club 7 anos", "price": 225.00},
+                {"name": "pina colada", "price": 250.00},
+                {"name": "cerveza", "price": 270.00},
+                {"name": "michelada", "price": 420.00},
+                {"name": "vodka", "price": 340.00},
+                {"name": "whisky", "price": 340.00}
+            ]
+        }
+    ]
+}

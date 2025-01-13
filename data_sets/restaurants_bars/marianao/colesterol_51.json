@@ -1,0 +1,169 @@
+{
+    "establishment": ["restaurante"],
+    "name": "colesterol 5.1",
+    "address": {
+        "city": "la habana",
+        "town": "marianao",
+        "street": "avenida 51 entre 134 y 136",
+        "coordinates": {
+            "latitude": 23.071122523219106,
+            "longitude": -82.43557019183088
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/profile.php?id=61552947140539&mibextid=ZbWKwL",
+        "instagram": "https://www.instagram.com/cafecolesterol5.1/",
+        "whatsapp": null,
+        "web": "https://linktr.ee/cafecolesterol5.1",
+        "telephone": "+5359531065"
+    },
+    "schedule": {
+        "monday": "1000-0000",
+        "tuesday": "1000-0000",
+        "wednesday": "1000-0000",
+        "thursday": "1000-0000",
+        "friday": "1000-0000",
+        "saturday": "1000-0000",
+        "sunday": "1000-0000"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["variado"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "tostones", "price": 490.00},
+                {"name": "mariposita china", "price": 565.00},
+                {"name": "frituras de malanga", "price": 590.00},
+                {"name": "bolitas de queso con miel y mostaza", "price": 730.00},
+                {"name": "croquetas colesterol 5.1", "price": 835.00},
+                {"name": "fajitas de pollo", "price": 950.00},
+                {"name": "fajitas de cerdo", "price": 1150.00},
+                {"name": "cóctel de camarones", "price": 1670.00},
+                {"name": "eperlan de pescado", "price": 950.00},
+                {"name": "ensalada fría de jamón", "price": 835.00},
+                {"name": "ensalada fría de pollo", "price": 865.00},
+                {"name": "ensalada fría de atún", "price": 995.00},
+                {"name": "ensalada fría de marisco", "price": 1125.00},
+                {"name": "crema de queso", "price": 595.00},
+                {"name": "crema de mariscos", "price": 920.00},
+                {"name": "garbanzo frito", "price": 1670.00},
+                {"name": "tacos de pollo", "price": 1260.00},
+                {"name": "tacos de cerdo", "price": 1670.00},
+                {"name": "tacos de res", "price": 1925.00},
+                {"name": "tacos de marineros", "price": 2330.00},
+                {"name": "tabla colesterol", "price": 3320.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "tamal estilo colesterol", "price": 1925.00},
+                {"name": "espaguetis napolitanos", "price": 925.00},
+                {"name": "espaguetis con jamón", "price": 1145.00},
+                {"name": "espaguetis a la boloñesa", "price": 1800.00},
+                {"name": "espaguetis al pesto", "price": 1265.00},
+                {"name": "espaguetis carbonara", "price": 2475.00},
+                {"name": "espaguetis con frutos de mar", "price": 3750.00},
+                {"name": "lasaña boloñesa", "price": 2245.00},
+                {"name": "pizza margarita 5.1", "price": 1930.00},
+                {"name": "pizza de jamón", "price": 2115.00},
+                {"name": "pizza hawaiana", "price": 2215.00},
+                {"name": "pizza de bacon, pepperoni y jamón serrano", "price": 2845.00},
+                {"name": "pizza campesina", "price": 2645.00},
+                {"name": "pizza marinera", "price": 3020.00},
+                {"name": "masa de cerdo frita", "price": 2725.00},
+                {"name": "bistec uruguayo", "price": 2995.00},
+                {"name": "chuleta de cerdo en salsa agridulce", "price": 3200.00},
+                {"name": "bistec suprema", "price": 2460.00},
+                {"name": "ropa vieja res", "price": 2190.00},
+                {"name": "vaca frita", "price": 2190.00},
+                {"name": "brocheta mixta", "price": 2600.00},
+                {"name": "enchilado de cangrejo", "price": 1005.00},
+                {"name": "enchilado de langosta", "price": 3030.00},
+                {"name": "mariscada estelares 5.1", "price": 3800.00},
+                {"name": "pescado enchilado", "price": 2600.00},
+                {"name": "filete de pescado grille", "price": 3625.00},
+                {"name": "filete de pescado canciller", "price": 3675.00},
+                {"name": "arroz con artistage", "price": 2800.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "churros con leche condensada", "price": 300.00},
+                {"name": "tocinillo", "price": 300.00},
+                {"name": "sunday", "price": 470.00},
+                {"name": "churros acompañado de chocolate caliente", "price": 700.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "café express", "price": 250.00},
+                {"name": "frapuccino", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "agua mineral", "price": 190.00},
+                {"name": "jugos de frutas", "price": 300.00},
+                {"name": "jugos de cajita", "price": 340.00},
+                {"name": "batidos de frutas", "price": 495.00},
+                {"name": "malta", "price": 420.00},
+                {"name": "malteada", "price": 545.00},
+                {"name": "refresco de lata", "price": 350.00},
+                {"name": "refresco pepsi", "price": 420.00},
+                {"name": "refresco seven up", "price": 420.00},
+                {"name": "suero de helado", "price": 610.00},
+                {"name": "energizante", "price": 360.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cerveza nacional", "price": 480.00},
+                {"name": "cerveza importada", "price": 380.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "base chelada", "price": 170.00},
+                {"name": "base michelada", "price": 220.00},
+                {"name": "caipiroska", "price": 495.00},
+                {"name": "caipiriña", "price": 495.00},
+                {"name": "cubata", "price": 550.00},
+                {"name": "cuba libre", "price": 550.00},
+                {"name": "daikiri floridita", "price": 600.00},
+                {"name": "tinto verano", "price": 600.00},
+                {"name": "gyntonic", "price": 650.00},
+                {"name": "canchanchara", "price": 660.00},
+                {"name": "piña colada", "price": 660.00},
+                {"name": "mojito", "price": 720.00},
+                {"name": "sangría especial 5.1", "price": 720.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

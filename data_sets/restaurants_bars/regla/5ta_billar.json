@@ -1,0 +1,135 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "5ta billar",
+    "address": {
+        "city": "la habana",
+        "town": "regla",
+        "street": "av. rotaria e/ enlace y calle A",
+        "coordinates": {
+            "latitude": 23.123711217328832,
+            "longitude": -82.32313297648469
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/5tabillar/",
+        "whatsapp": null,
+        "web": "no poseen una web pero poseen insta",
+        "telephone": "52943290"
+    },
+    "schedule": {
+        "monday": "1300-0100",
+        "tuesday": "1300-0100",
+        "wednesday": "1300-0100",
+        "thursday": "1300-0100",
+        "friday": "1300-0100",
+        "saturday": "1300-0100",
+        "sunday": "1300-0100"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": [
+        "cocteleria",
+        "internacional"
+    ],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                { "name": "cacahuates picante", "price": 110.00},
+                { "name": "tostones rellenos j&g", "price": 750.00},
+                { "name": "tostones rellenos atun", "price": 980.00},
+                { "name": "tostones rellenos carne", "price": 900.00},
+                { "name": "croquetas bola 9", "price": 650.00},
+                { "name": "bolita de queso", "price": 850.00},
+                { "name": "fajitas de pollo", "price": 920.00},
+                { "name": "eperlan", "price": 950.00},
+                { "name": "entremés", "price": 960.00},
+                { "name": "surtido 5tablilla", "price": 1650.00},
+                { "name": "surtido premium", "price": 2950.00},
+                { "name": "rositas de maiz", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                { "name": "tacos de cerdo", "price": 950.00},
+                { "name": "pollo a la gordon blue", "price": 1800.00},
+                { "name": "uruguayo de cerdo", "price": 2100.00},
+                { "name": "bistec de pollo encebollado", "price": 1600.00},
+                { "name": "bistec de cerdo encebollado", "price": 1900.00},
+                { "name": "brochetas de cerdo al carbón", "price": 1800.00},
+                { "name": "baby chicken", "price": 960.00},
+                { "name": "kings chicken", "price": 1350.00},
+                { "name": "lomo de cerdo asado al carbón", "price": 1800.00},
+                { "name": "chorizada al carbón", "price": 2000.00},
+                { "name": "la parrillada", "price": 4950.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                { "name": "cervezas nacionales", "price": 400.00},
+                { "name": "cerveza corona", "price": 600.00},
+                { "name": "cervezaz importadas", "price": 320.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                { "name": "margarita", "price": 400.00},
+                { "name": "margarita blue", "price": 400.00},
+                { "name": "tequila sunrise", "price": 400.00},
+                { "name": "medusa", "price": 650.00},
+                { "name": "margarita", "price": 720.00},
+                { "name": "margarita blue", "price": 780.00},
+                { "name": "tequila sunrise", "price": 780.00},
+                { "name": "servicio chelada", "price": 450.00},
+                { "name": "servicio michelada", "price": 350.00},
+                { "name": "jagger bomb", "price": 1200.00},
+                { "name": "mojito corona", "price": 900.00},
+                { "name": "corona sunrise", "price": 880.00},
+                { "name": "sangria", "price": 760.00},
+                { "name": "jarra de sangria", "price": 3720.00},
+                { "name": "alexander", "price": 1000.00},
+                { "name": "eclipse", "price": 1020.00},
+                { "name": "mai tai", "price": 550.00},
+                { "name": "orgasmo", "price": 1080.00},
+                { "name": "aperol sprits", "price": 1650.00},
+                { "name": "italian sunset", "price": 780.00},
+                { "name": "mimosa", "price": 1500.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

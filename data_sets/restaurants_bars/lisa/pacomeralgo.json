@@ -1,0 +1,110 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "pacomeralgo",
+    "address": {
+        "city": "lisa",
+        "town": " ",
+        "street": " ",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": " ",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0700-1900",
+        "tuesday": "0700-1900",
+        "wednesday": "0700-1900",
+        "thursday": "0700-1900",
+        "friday": "0700-1900",
+        "saturday": "0700-1900",
+        "sunday": "0700-1900"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["italian"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "entremes de jamon y queso", "price": 450.00},
+                {"name": "entremes de aceitunas", "price": 300.00},
+                {"name": "croquetas", "price": 300.00},
+                {"name": "papas fritas", "price": 333.00},
+                {"name": "picadera paco", "price": 850.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "sandwich de queso", "price": 400.00},
+                {"name": "sandwich de jamon", "price": 400.00},
+                {"name": "sandwich de jamon y queso", "price": 450.00},
+                {"name": "sandwich de atun", "price": 450.00},
+                {"name": "pan con hamburguesa", "price": 450.00},
+                {"name": "lasagna", "price": 615.00},
+                {"name": "pizza de queso", "price": 600.00},
+                {"name": "pizza de jamon", "price": 770.00},
+                {"name": "pizza de chorizo", "price": 770.00},
+                {"name": "pizza de cebolla", "price": 750.00},
+                {"name": "pizza de aji", "price": 730.00},
+                {"name": "pizza de aceituna", "price": 780.00},
+                {"name": "pizza hawaiana", "price": 820.00},
+                {"name": "pizza de pasas con pinas", "price": 730.00},
+                {"name": "pizza de atun", "price": 840.00},
+                {"name": "pizza paco", "price": 1000.00},
+                {"name": "espaguetis napolitanos", "price": 600.00},
+                {"name": "espaguetis de jamon", "price": 720.00},
+                {"name": "espaguetis de chorizo", "price": 720.00},
+                {"name": "espaguetis de atun", "price": 790.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cervezas", "price": 250.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

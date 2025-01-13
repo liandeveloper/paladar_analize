@@ -1,0 +1,134 @@
+{
+    "establishment": ["bar"],
+    "name": "balbino's",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "street": "calzada de san miguel #808 e/ calle 1era y calzada de güines",
+        "coordinates": {
+            "latitude": 23.10275055278032,
+            "longitude": -82.34040785135392
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/balbinos_sportbar/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0830-2300",
+        "tuesday": "0830-2300",
+        "wednesday": "0830-2300",
+        "thursday": "0830-2300",
+        "friday": "0830-2300",
+        "saturday": "0830-2300",
+        "sunday": "0830-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla", "tapas"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "bolitas de queso", "price": 950.00},
+                {"name": "croquetas especiales de la casa", "price": 1200.00},
+                {"name": "croquetas del día", "price": 900.00},
+                {"name": "fajitas de pollo", "price": 1100.00},
+                {"name": "frituras de malanga", "price": 800.00},
+                {"name": "masas de cerdo", "price": 1500.00},
+                {"name": "papas fritas", "price": 850.00},
+                {"name": "tabla don balbino", "price": 3000.00},
+                {"name": "tabla de vegetales", "price": 1400.00},
+                {"name": "tacos de res", "price": 1500.00},
+                {"name": "tacos de cerdo", "price": 1400.00},
+                {"name": "tostones rellenos", "price": 900.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "arroz frito", "price": 1500.00},
+                {"name": "fabada", "price": 2900.00},
+                {"name": "pechuga de pollo grille", "price": 2200.00},
+                {"name": "pollo frito", "price": 1800.00},
+                {"name": "bistec de cerdo encebollado", "price": 2300.00},
+                {"name": "cerdo asado", "price": 2500.00},
+                {"name": "costillas de cerdo", "price": 2600.00},
+                {"name": "fricasé de cerdo a la habanera", "price": 2650.00},
+                {"name": "lomo ahumado", "price": 2700.00},
+                {"name": "masa de cerdo frita", "price": 2550.00},
+                {"name": "bistec de cerdo grille", "price": 2400.00},
+                {"name": "estofado de res", "price": 2700.00},
+                {"name": "punta de filete", "price": 2500.00},
+                {"name": "ropa vieja", "price": 2600.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "arroz blanco", "price": 200.00},
+                {"name": "arroz moro", "price": 300.00},
+                {"name": "ensalada de vegetales", "price": 500.00},
+                {"name": "vegetales salteados", "price": 450.00},
+                {"name": "vianda frita", "price": 300.00},
+                {"name": "tostones", "price": 650.00},
+                {"name": "vianda con mojo", "price": 650.00},
+                {"name": "plátano maduro frito", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "batido de helado", "price": 700.00},
+                {"name": "suero de helado", "price": 930.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "agua natural", "price": 250.00},
+                {"name": "batido de frutas", "price": 550.00},
+                {"name": "jugo natural de frutas", "price": 400.00},
+                {"name": "jugo de lata", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cerveza dispensada", "price": 400.00},
+                {"name": "cerveza heineken", "price": 500.00},
+                {"name": "cerveza importada", "price": 350.00},
+                {"name": "cerveza nacional", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "chelada", "price": 250.00},
+                {"name": "michelada", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}
