@@ -1,5 +1,5 @@
 {
-    "establishment": ["bar", "restaurante"],
+    "establishment": ["restaurante", "bar"],
     "name": "kopas",
     "address": {
         "city": "la habana",

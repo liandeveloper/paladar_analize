@@ -1,0 +1,177 @@
+{
+    "establishment": ["restaurante"],
+    "name": "el monakeno",
+    "address": {
+        "city": "la habana",
+        "town": " ",
+        "street": "avenida mayia rodriguez entre acosta y o'farril, diez de octubre",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/monakeno.2024/",
+        "instagram": "@el_monakeno",
+        "whatsapp": "63444454",
+        "web": " ",
+        "telephone": "63444454"
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-0200",
+        "saturday": "1200-0200",
+        "sunday": "1200-0200"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": [" "],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquetas", "price": 900.00},
+                {"name": "bolitas de queso", "price": 1000.00},
+                {"name": "queso frito", "price": 950.00},
+                {"name": "papas fritas", "price": 400.00},
+                {"name": "brusquetas", "price": 700.00},
+                {"name": "fajitas de pollo", "price": 1300.00},
+                {"name": "tapas monakeno", "price": 2000.00},
+                {"name": "picadera monakeno", "price": 2500.00},
+                {"name": "picadera super monakeno", "price": 5000.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Hot Dog", "price": 1100.00},
+                {"name": "Sandwich Cubano", "price": 2100.00},
+                {"name": "Hamburguesa de res", "price": 1500.00},
+                {"name": "Sandwich de atun", "price": 1500.00},
+                {"name": "Sandwich de jamon y queso", "price": 1200.00},
+                {"name": "Hamburguesa Monakeno Azul", "price": 2000.00},
+                {"name": "Ensalada de atun y vegetales", "price": 1500.00},
+                {"name": "Ensalada Italiana", "price": 2300.00},
+                {"name": "Ensalada Monakeno", "price": 1200.00},
+                {"name": "Solomillo de res", "price": 5500.00},
+                {"name": "Carpaccio de res", "price": 1900.00},
+                {"name": "Ropa Vieja de res o Vaca Frita", "price": 2800.00},
+                {"name": "Picadillo de res a la Habanera", "price": 2600.00},
+                {"name": "Pechuga de pollo grille", "price": 2200.00},
+                {"name": "Chuleta de cerdo", "price": 2400.00},
+                {"name": "Milanesa Monakeno", "price": 2150.00},
+                {"name": "Camaron al gusto", "price": 2500.00},
+                {"name": "Pasta Napolitana", "price": 1450.00},
+                {"name": "Pasta Carbonara", "price": 2500.00},
+                {"name": "Pasta Alfredo", "price": 1500.00},
+                {"name": "Pasta Amatriciana", "price": 2400.00},
+                {"name": "Pasta de 4 Quesos", "price": 2200.00},
+                {"name": "Pasta de vegetales", "price": 1150.00},
+                {"name": "Pasta al Pesto", "price": 1500.00},
+                {"name": "Pasta Bolognesa", "price": 2200.00},
+                {"name": "Pizza de nutella", "price": 1050.00},
+                {"name": "Pizza Margarita", "price": 1650.00},
+                {"name": "Pizza Monakeno", "price": 2600.00},
+                {"name": "Pizza Napolitana", "price": 1150.00},
+                {"name": "Pizza de atun", "price": 1850.00},
+                {"name": "Pizza de jamon", "price": 1750.00},
+                {"name": "Pizza hawaiana", "price": 1800.00},
+                {"name": "Pizza Panna", "price": 1950.00},
+                {"name": "Pizza Prosciutto", "price": 2150.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Champignones", "price": 250.00},
+                {"name": "Queso azul", "price": 550.00},
+                {"name": "Queso Parmesano", "price": 800.00},
+                {"name": "Camarón", "price": 1100.00},
+                {"name": "Bacon", "price": 500.00},
+                {"name": "Chorizo extra vela", "price": 700.00},
+                {"name": "Queso Gouda", "price": 500.00},
+                {"name": "Aceitunas", "price": 400.00},
+                {"name": "Piña glaseada", "price": 150.00},
+                {"name": "Cebolla", "price": 250.00},
+                {"name": "Pimiento", "price": 250.00},
+                {"name": "Jamón Euro", "price": 400.00},
+                {"name": "Huevo", "price": 200.00},
+                {"name": "Jamón Serrano", "price": 800.00},
+                {"name": "Atún", "price": 550.00},
+                {"name": "Guarnición de arroz blanco", "price": 250.00},
+                {"name": "Vegetales salteados", "price": 250.00},
+                {"name": "Puré de boniato", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "tarta flan", "price": 1000.00},
+                {"name": "cheesecake", "price": 1125.00},
+                {"name": "helados", "price": 550.00},
+                {"name": "flan casero", "price": 650.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Café Expresso", "price": 200.00},
+                {"name": "Café Cortado", "price": 250.00},
+                {"name": "Frappuccino", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Limonada", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza Embrau", "price": 280.00},
+                {"name": "Cubetazo de cerveza Embrau", "price": 1400.00},
+                {"name": "Red Bull", "price": 500.00},
+                {"name": "Cubetazo de cerveza Cristal", "price": 1800.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Screw Driver", "price": 600.00},
+                {"name": "Screw Driver Absolute", "price": 900.00},
+                {"name": "Ron Collins", "price": 650.00},
+                {"name": "Margarita", "price": 800.00},
+                {"name": "Sangría", "price": 700.00},
+                {"name": "Daiquiri", "price": 700.00},
+                {"name": "Mojito", "price": 700.00},
+                {"name": "Cuba Libre", "price": 600.00},
+                {"name": "Piña Colada", "price": 800.00},
+                {"name": "Caipirinha", "price": 650.00},
+                {"name": "Caipiroska", "price": 650.00},
+                {"name": "Caipirissima", "price": 650.00},
+                {"name": "Happy Monakeno", "price": 1250.00},
+                {"name": "Michelada", "price": 200.00},
+                {"name": "Chelada", "price": 150.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

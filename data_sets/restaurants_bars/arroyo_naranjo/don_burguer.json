@@ -1,0 +1,108 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "don burguer",
+    "address": {
+        "city": "la habana",
+        "town": "arroyo naranjo",
+        "street": "calle 10 de octubre 2024 entre aranguren y santa isabel, la palma",
+        "coordinates": {
+            "latitude": 23.075472140560517,
+            "longitude": -82.35881622118093
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/donburguerjj/",
+        "instagram": "https://www.instagram.com/donburguercuba/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5356073379"
+    },
+    "schedule": {
+        "monday": "1000-2300",
+        "tuesday": "1000-2300",
+        "wednesday": "1000-2300",
+        "thursday": "1000-2300",
+        "friday": "1000-2300",
+        "saturday": "1000-2300",
+        "sunday": "1000-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["comida chatarra"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "ensalada fría", "price": 580.00},
+                {"name": "aceitunas (ración)", "price": 420.00},
+                {"name": "bolitas de queso", "price": 640.00},
+                {"name": "frituras de malanga", "price": 510.00},
+                {"name": "croquetas", "price": 640.00},
+                {"name": "papitas", "price": 640.00},
+                {"name": "fajitas de pollo", "price": 940.00},
+                {"name": "entremes surtido", "price": 1720.00},
+                {"name": "brusquetas", "price": 780.00},
+                {"name": "burritos de jamón y queso", "price": 1260.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [null]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "3 gracias", "price": 740.00},
+                {"name": "ensalada", "price": 1080.00},
+                {"name": "suero de helado", "price": 840.00},
+                {"name": "casquitos de guayaba", "price": 560.00},
+                {"name": "flan", "price": 560.00},
+                {"name": "dulce de coco", "price": 460.00},
+                {"name": "torrejas", "price": 680.00},
+                {"name": "dulce de fruta bomba", "price": 460.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "agua", "price": 150.00},
+                {"name": "refrescos", "price": 240.00},
+                {"name": "batido de frutas", "price": 390.00},
+                {"name": "limonada frape", "price": 380.00},
+                {"name": "limonada con hierba buena", "price": 460.00},
+                {"name": "malta", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

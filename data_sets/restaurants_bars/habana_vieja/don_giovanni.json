@@ -1,0 +1,140 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "Don Giovanni",
+    "address": {
+        "city": "La Habana",
+        "town": "La Habana Vieja",
+        "street": "Empedrado between Tacon and Merrcaderes",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": "https://www.tripadvisor.es/Restaurant_Review-g147271-d2017025-Reviews-D_Giovanni-Havana_Ciudad_de_la_Habana_Province_Cuba.html",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "1100-2200",
+        "tuesday": "1100-2200",
+        "wednesday": "1100-2200",
+        "thursday": "1100-2200",
+        "friday": "1100-2200",
+        "saturday": "1100-2200",
+        "sunday": "1100-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Italiana", "Langosta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Frituras de Malanga", "price": 900.00},
+                {"name": "Tostones Rellenos de Jamon y Queso", "price": 1100.00},
+                {"name": "Tostones Rellenos de Atun", "price": 1200.00},
+                {"name": "Croquetas de la Casa", "price": 900.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Paella de Vegetales", "price": 2400.00},
+                {"name": "Picadillo a la Habanera", "price": 2600.00},
+                {"name": "Ropa Vieja Cordero", "price": 2800.00},
+                {"name": "Ropa Vieja Carne de Res", "price": 3000.00},
+                {"name": "Pechuga de Pollo", "price": 2600.00},
+                {"name": "Pollo Asado o Frito", "price": 2500.00},
+                {"name": "Bistec de Cerdo Encebollado", "price": 2900.00},
+                {"name": "Carne Asada", "price": 2900.00},
+                {"name": "Filete de Pescado", "price": 3200.00},
+                {"name": "Camarones", "price": 3300.00},
+                {"name": "Langosta", "price": 3300.00},
+                {"name": "Paella de Mariscos", "price": 4000.00},
+                {"name": "Bistec Uruguayo", "price": 3800.00},
+                {"name": "Gordon Blue", "price": 3800.00},
+                {"name": "Combinacion Salvaje", "price": 3900.00},
+                {"name": "Plato Giovanni", "price": 4000.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Flan de Caramelo", "price": 700.00},
+                {"name": "Helado a su Gusto", "price": 700.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Cafe Espresso", "price": 300.00},
+                {"name": "Cafe America", "price": 300.00},
+                {"name": "Cafe Cortado", "price": 350.00},
+                {"name": "Cafe con Leche", "price": 500.00},
+                {"name": "Capuchino", "price": 500.00},
+                {"name": "Te", "price": 250.00},
+                {"name": "Te con Leche", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Agua Natural", "price": 300.00},
+                {"name": "Agua Grande", "price": 700.00},
+                {"name": "Agua Gaseada", "price": 350.00},
+                {"name": "Refresco Nacional e Importado", "price": 450.00},
+                {"name": "Malta", "price": 550.00},
+                {"name": "Jugo Natural", "price": 500.00},
+                {"name": "Limonada Frapeada", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza Nacional", "price": 600.00},
+                {"name": "Cerveza Importada", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Trago de 3 Años", "price": 700.00},
+                {"name": "Trago de Santiago", "price": 1000.00},
+                {"name": "Trago de Especial", "price": 850.00},
+                {"name": "Daiquiri", "price": 900.00},
+                {"name": "Mojito", "price": 900.00},
+                {"name": "Cuba Libre", "price": 900.00},
+                {"name": "Caipiriña", "price": 900.00},
+                {"name": "Cubata", "price": 950.00},
+                {"name": "Sangria", "price": 1000.00},
+                {"name": "Piña Colada", "price": 1400.00},
+                {"name": "Gin Tonic", "price": 1100.00},
+                {"name": "Michelada", "price": 1100.00},
+                {"name": "Chelada", "price": 1000.00},
+                {"name": "Copa de Vino", "price": 900.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

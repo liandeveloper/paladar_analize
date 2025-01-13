@@ -1,0 +1,96 @@
+{
+    "establishment": ["cafetería"],
+    "name": "Luly Hamburguesas",
+    "address": {
+      "city": "La Habana",
+      "town": "Víbora",
+      "street": "Calzada de Santa Catalina entre Calzada de Diez de Octubre y Parraga",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "contacto": {
+      "facebook": null,
+      "instagram": null,
+      "whatsapp": "52823877",
+      "web": null,
+      "telephone": null
+    },
+    "schedule": {
+      "monday": "09:00-21:00",
+      "tuesday": "09:00-21:00",
+      "wednesday": "09:00-21:00",
+      "thursday": "09:00-21:00",
+      "friday": "09:00-21:00",
+      "saturday": "09:00-21:00",
+      "sunday": "09:00-21:00"
+    },
+    "services": {
+      "delivery": false,
+      "to_take": true
+    },
+    "payment": {
+      "cash": true,
+      "transfer": true,
+      "credit_card": false
+    },
+    "specialties": ["comida rápida"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+            {"name": "Hamburguesa Sencilla Criolla", "price": 480.00},
+            {"name": "Hamburguesa Especial", "price": 1000.00},
+            {"name": "Hamburguesa Jamon y Queso", "price": 680.00},
+            {"name": "Sandwich Jamon y Queso", "price": 610.00},
+            {"name": "Media Noche Especial", "price": 470.00},
+            {"name": "Bocadito Especial", "price": 220.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+            {"name": "Jamon", "price": 60.00},
+            {"name": "Queso", "price": 140.00},
+            {"name": "Chorizo", "price": 80.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+            {"name": "Helado Gust0 (1Lt)", "price": 900.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+            {"name": "Pepsi Cola", "price": 270.00},
+            {"name": "Refresco Limon", "price": 270.00},
+            {"name": "Refresco Naranja", "price": 270.00},
+            {"name": "Malta", "price": 300.00},
+            {"name": "Cerveza King", "price": 220.00},
+            {"name": "Kermato", "price": 460.00},
+            {"name": "Jugo Caja", "price": 200.00},
+            {"name": "Agua Natural", "price": 190.00},
+            {"name": "Cerveza Cristal", "price": 260.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}  

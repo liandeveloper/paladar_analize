@@ -1,0 +1,134 @@
+{
+    "establishment": ["bar", "cafeteria"],
+    "name": "la esquinita",
+    "address": {
+        "city": "10 de octubre",
+        "town": " ",
+        "street": "calle juan lefont entre libertad y johnson",
+        "coordinates": {
+            "latitude": "",
+            "longitude": "3jxc+w79"
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": " ",
+        "web": null,
+        "telephone": "76404105 / 59104644 / 56941945"
+    },
+    "schedule": {
+        "monday": "0900-2100",
+        "tuesday": "0900-2100",
+        "wednesday": "0900-2100",
+        "thursday": "0900-2100",
+        "friday": "1000-2300",
+        "saturday": "1000-2300",
+        "sunday": "1000-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["cocina mixta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "picadera la esquinita", "price": 1000.00},
+                {"name": "tostones", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "arroz frito", "price": 500.00},
+                {"name": "arroz frito con mariscos", "price": 950.00},
+                {"name": "bistec gordon blue", "price": 1300.00},
+                {"name": "pollo chiflado", "price": 650.00},
+                {"name": "espaghettis blancos", "price": 300.00},
+                {"name": "espaghettis de queso gouda", "price": 450.00},
+                {"name": "espaghettis blancos de jamon", "price": 400.00},
+                {"name": "espaghettis de queso gouda con jamon", "price": 550.00},
+                {"name": "espaghettis blancos con chorizo", "price": 400.00},
+                {"name": "espaghettis de queso gouda con chorizo", "price": 550.00},
+                {"name": "hamburguesa sencilla", "price": 500.00},
+                {"name": "hamburguesa de jamon", "price": 500.00},
+                {"name": "hamburguesa de queso gouda", "price": 550.00},
+                {"name": "hamburguesa de chorizo", "price": 500.00},
+                {"name": "hamburguesa de jamon y gouda", "price": 650.00},
+                {"name": "hamburguesa la esquinita", "price": 750.00},
+                {"name": "pizza de queso blanco", "price": 200.00},
+                {"name": "pizza de queso gouda", "price": 300.00},
+                {"name": "pizza de queso blanco y jamon", "price": 300.00},
+                {"name": "pizza de queso gouda y jamon", "price": 400.00},
+                {"name": "pizza de queso blanco y chorizo", "price": 300.00},
+                {"name": "pizza de queso gouda y chorizo", "price": 400.00},
+                {"name": "pizza de queso blanco y atun", "price": 500.00},
+                {"name": "pizza de queso gouda y atun", "price": 600.00},
+                {"name": "pizza de queso blanco y cebolla", "price": 300.00},
+                {"name": "pizza de queso gouda y cebolla", "price": 400.00},
+                {"name": "pizza de queso blanco y pimiento", "price": 300.00},
+                {"name": "pizza de queso gouda y pimiento", "price": 400.00},
+                {"name": "pizza de queso blanco hawaiana", "price": 400.00},
+                {"name": "pizza de queso gouda hawaiana", "price": 500.00},
+                {"name": "pizza especial la esquinita", "price": 600.00},
+                {"name": "pizza de queso blanco", "price": 400.00},
+                {"name": "pizza grande de queso gouda", "price": 650.00},
+                {"name": "pizza grande de queso blanco y jamon", "price": 500.00},
+                {"name": "pizza grande de queso gouda y jamon", "price": 750.00},
+                {"name": "pizza grande de queso blanco y chorizo", "price": 500.00},
+                {"name": "pizza grande de queso gouda y chorizo", "price": 750.00},
+                {"name": "pizza grande de queso blanco y atun", "price": 700.00},
+                {"name": "pizza grande de queso gouda y atun", "price": 950.00},
+                {"name": "pizza grande de queso blanco y cebolla", "price": 500.00},
+                {"name": "pizza grande de queso gouda y cebolla", "price": 750.00},
+                {"name": "pizza grande de queso blanco y pimiento", "price": 500.00},
+                {"name": "pizza grande de queso gouda y pimiento", "price": 750.00},
+                {"name": "pizza grande de queso blanco hawaiana", "price": 550.00},
+                {"name": "pizza grande de queso gouda hawaiana", "price": 800.00},
+                {"name": "pizza grande especial la esquinita", "price": 1200.00},
+                {"name": "pizza grande familiar la esquinita", "price": 3000.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "papas fritas", "price": 100.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

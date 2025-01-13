@@ -1,0 +1,111 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "El Castillo de Farnes",
+    "address": {
+        "city": "La Habana",
+        "town": "La Habana Vieja",
+        "street": "4JPV+Q4 La Habana",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": "https://g.co/kgs/TvurWB4",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0900-2100",
+        "tuesday": "0900-2100",
+        "wednesday": "0900-2100",
+        "thursday": "0900-2100",
+        "friday": "0900-2100",
+        "saturday": "0900-2100",
+        "sunday": "0900-2100"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Criolla", "Cerdo Estofado"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Cerdo Estofado/Guarnicion", "price": 875.00},
+                {"name": "Fajitas de Cerdo", "price": 990.00},
+                {"name": "Bistec de Cerdo/Guarnicion", "price": 850.00},
+                {"name": "Res Estofada", "price": 875.00},
+                {"name": "Lonjas de Res", "price": 945.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz con Sustancia", "price": 105.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Cafe Express", "price": 125.00},
+                {"name": "Cafe Americano", "price": 150.00},
+                {"name": "Cafe Cortado", "price": 175.00},
+                {"name": "Cafe con Leche", "price": 180.00},
+                {"name": "Leche Fria", "price": 160.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Jugo Nacional Lata", "price": 90.00},
+                {"name": "Limonada", "price": 100.00},
+                {"name": "Vaso de Jugo Importado", "price": 80.00},
+                {"name": "Malta Importada", "price": 135.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza Importada/Lata-Botella", "price": 175.00},
+                {"name": "Cerveza Nacional/Lata-Botella", "price": 160.00},
+                {"name": "Parranda", "price": 180.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Gin Tonic", "price": 350.00},
+                {"name": "Ron Collins", "price": 300.00},
+                {"name": "Daiquiri", "price": 300.00},
+                {"name": "Licor Cubay de Menta", "price": 200.00},
+                {"name": "Licor Curacao Azul", "price": 200.00},
+                {"name": "Licor Cubay de Anis", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

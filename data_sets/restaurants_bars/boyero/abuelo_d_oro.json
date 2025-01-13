@@ -1,0 +1,127 @@
+{
+    "establishment": ["restaurante"],
+    "name": "abuelo d'oro",
+    "address": {
+        "city": "la habana",
+        "town": "boyeros",
+        "street": "calzada Aldabó, entre 12 y 13, Aldabó, Boyeros",
+        "coordinates": {
+            "latitude": 23.057976928415314,
+            "longitude": -82.38290477613332
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/AbueloDOro",
+        "instagram": "https://www.instagram.com/abuelo_d_oro_cuba/?hl=es-la",
+        "whatsapp": null,
+        "web": "https://es.restaurantguru.com/el-abuelo-de-oro-havana",
+        "telephone": "+5376472100"
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cubana", "internacional", "italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquetas", "price": 500.00},
+                {"name": "empanadas", "price": 500.00},
+                {"name": "frituras", "price": 500.00},
+                {"name": "tostones rellenos", "price": 1000.00},
+                {"name": "papas bravas", "price": 500.00},
+                {"name": "papas doradas", "price": 450.00},
+                {"name": "ceviche", "price": 2000.00},
+                {"name": "coctel de langosta", "price": 2000.00},
+                {"name": "coctel de camarones", "price": 2000.00},
+                {"name": "tabla surtida", "price": 3000.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pizza napolitana", "price": 1000.00},
+                {"name": "pizza jamón", "price": 1300.00},
+                {"name": "pizza hawaiana", "price": 1400.00},
+                {"name": "pizza cebolla", "price": 1100.00},
+                {"name": "pizza pimiento", "price": 1100.00},
+                {"name": "pizza pepperoni", "price": 1500.00},
+                {"name": "espaguetis napolitanos", "price": 1200.00},
+                {"name": "espaguetis jamón", "price": 1500.00},
+                {"name": "vaca frita", "price": 3000.00},
+                {"name": "ropa vieja", "price": 3000.00},
+                {"name": "bistec res cazuela", "price": 3500.00},
+                {"name": "picadillo habanera", "price": 2900.00},
+                {"name": "bistec encebollado", "price": 2500.00},
+                {"name": "cerdo salteado", "price": 2800.00},
+                {"name": "medalla con jamón y queso", "price": 3800.00},
+                {"name": "medalla con ropa vieja y queso", "price": 3800.00},
+                {"name": "chuletilla", "price": 3000.00},
+                {"name": "pechuga grillé", "price": 3000.00},
+                {"name": "pechuga salteada", "price": 3500.00},
+                {"name": "pollo frito", "price": 2500.00},
+                {"name": "filete pescado grillé", "price": 3000.00},
+                {"name": "filete pescado montado", "price": 4000.00},
+                {"name": "gratín del mar", "price": 4000.00},
+                {"name": "langosta en sus variedades", "price": 4800.00},
+                {"name": "camarón variado", "price": 4800.00},
+                {"name": "1kg cerdo asado", "price": 15000.00},
+                {"name": "chuletón cerdo", "price": 6500.00},
+                {"name": "chuleta cerdo", "price": 3000.00},
+                {"name": "mar y tierra", "price": 19000.00},
+                {"name": "tacos ropa vieja", "price": 1500.00},
+                {"name": "tacos vaca frita", "price": 1450.00},
+                {"name": "tacos cerdo", "price": 1200.00},
+                {"name": "sandwich jamón y queso", "price": 1500.00},
+                {"name": "sandwich pechuga y queso", "price": 1800.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

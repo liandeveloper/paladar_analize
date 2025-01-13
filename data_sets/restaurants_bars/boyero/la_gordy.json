@@ -1,0 +1,122 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "la gordy",
+    "address": {
+        "city": "boyeros",
+        "town": "santiago de las vegas",
+        "street": "calle 184 #41308 % 413 & 415",
+        "coordinates": {
+            "latitude": 22.966832625162873,
+            "longitude": -82.3845948049721
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/RestauranteLaGordy/?locale=en_GB",
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5376837364"
+    },
+    "schedule": {
+        "monday": "1130-2100",
+        "tuesday": "1130-2100",
+        "wednesday": "1130-2100",
+        "thursday": "1130-2100",
+        "friday": "1130-2100",
+        "saturday": "1130-2100",
+        "sunday": "1130-2100"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["comida cubana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "tostones criollos", "price": 350.00},
+                {"name": "fritura de malanga", "price": 400.00},
+                {"name": "garbanzos fritos", "price": 750.00},
+                {"name": "garbanzos fritos la gordy", "price": 800.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "fajitas de pollo encebollada", "price": 950.00},
+                {"name": "fajitas de pollo empanadas", "price": 110.00},
+                {"name": "fajitas de pollo grille", "price": 950.00},
+                {"name": "pollo a la piña", "price": 1100.00},
+                {"name": "pollo deshuesado empanado", "price": 1050.00},
+                {"name": "pollo deshuesado gratinado", "price": 1250.00},
+                {"name": "fajitas de pechuga encebolladas", "price": 1200.00},
+                {"name": "fajitas de pechuga empanadas", "price": 1350.00},
+                {"name": "pechuga de pollo grille", "price": 1200.00},
+                {"name": "pechuga de pollo a la piña", "price": 1300.00},
+                {"name": "pechuga de pollo empanada", "price": 1350.00},
+                {"name": "pechuga de pollo gratinada", "price": 1500.00},
+                {"name": "pechuga gordon blue", "price": 2000.00},
+                {"name": "bistec de higado de cerdo", "price": 800.00},
+                {"name": "higado de cerdo a la italiana", "price": 850.00},
+                {"name": "fricase de cerdo", "price": 1200.00},
+                {"name": "fajitas de cerdo encebolladas", "price": 1200.00},
+                {"name": "fajitas de cerdo empanadas", "price": 1350.00},
+                {"name": "masa de cerdo fritas", "price": 1250.00},
+                {"name": "bistec de cerdo grille", "price": 1200.00},
+                {"name": "bistec de cerdo a la piña", "price": 1300.00},
+                {"name": "bistec de cerdo empanado", "price": 1350.00},
+                {"name": "bistec de cerdo gratinado", "price": 1500.00},
+                {"name": "bistec uruguayo de cerdo", "price": 2000.00},
+                {"name": "chuleta ahumada de cerdo", "price": 1300.00},
+                {"name": "chuleta ahumada de cerdo gratinada", "price": 1500.00},
+                {"name": "eperlan de pescado", "price": 1400.00},
+                {"name": "filete de pescado grille", "price": 1250.00},
+                {"name": "filete de pescado empanado", "price": 1400.00},
+                {"name": "filete de pescado gratinado", "price": 1800.00},
+                {"name": "filete canciller", "price": 2000.00},
+                {"name": "ropa vieja de cordero", "price": 950.00},
+                {"name": "ropa vieja de res", "price": 1300.00},
+                {"name": "vaca frita", "price": 1300.00},
+                {"name": "aroos moro", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "Floridita",
+    "address": {
+        "city": "la habana",
+        "town": "La Habana Vieja",
+        "street": "4JPV+X29, Obispo",
+        "coordinates": {
+            "latitude": "23.1346",
+            "longitude": "-82.3646"
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/Floridita",
+        "instagram": "https://www.instagram.com/Floridita",
+        "whatsapp": "+53 7 867 1451",
+        "web": "https://www.cubatravel.com/floridita",
+        "telephone": "+53 7 867 1451"
+    },
+    "schedule": {
+        "monday": "1200m-0100am",
+        "tuesday": "1200m-0100am",
+        "wednesday": "1200m-0100am",
+        "thursday": "1200m-0100am",
+        "friday": "1200m-0100am",
+        "saturday": "1200m-0100am",
+        "sunday": "1200m-0100am"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["Mariscos", "Gran Plato Hemingway"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Ceviche Caribeño", "price": 1200.00},
+                {"name": "Coctel de Langosta", "price": 1200.00},
+                {"name": "El Viejo y Mar (Para Compartir)", "price": 2150.00},
+                {"name": "Jamon Serrano", "price": 1350.00},
+                {"name": "Seleccion de Quesos", "price": 1200.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Langosta a su Gusto", "price": 2400.00},
+                {"name": "Gran Plato Hemingway", "price": 2400.00},
+                {"name": "Cazuelita del Pescador", "price": 2400.00},
+                {"name": "Camarones Flambeados al Ron", "price": 2200.00},
+                {"name": "Filete de Pescado al Estilo Hemingway", "price": 2200.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "Cava Sangre de Toro Brut", "price": 2500.00},
+                {"name": "Cava Freixenet Cordon Negro Brut", "price": 2650.00},
+                {"name": "Henkell Troken", "price": 2700.00},
+                {"name": "Gewurztraminer, Viñas del Vero Somontano 2021", "price": 4250.00},
+                {"name": "Beronia Rueda", "price": 3500.00},
+                {"name": "La Vielle de Ferme 2022", "price": 2550.00},
+                {"name": "Viñas del Vero Pinot, Somontano 2021", "price": 3650.00},
+                {"name": "Sangre de Toro, Rioja", "price": 2850.00},
+                {"name": "Marques de Caceres Gaudium 2016", "price": 12500.00},
+                {"name": "Beronia, Crianza Tempranillo 2019", "price": 3870.00},
+                {"name": "Chateau Los Boldos, Carmenere 2020", "price": 4750.00},
+                {"name": "Veramonte Merlot, 2019 Reserva(Organico)", "price": 3950.00},
+                {"name": "Veramonte Carmenere 2020 Reserva(Organico)", "price": 3950.00},
+                {"name": "Villa Antinori Toscana 2019", "price": 5950.00},
+                {"name": "Peppoli Chianti Classico 2019 Antinori", "price": 4675.00},
+                {"name": "Campo Viejo Tempranillo Rioja 2021", "price": 2800.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

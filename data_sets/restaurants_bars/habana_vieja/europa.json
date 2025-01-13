@@ -1,0 +1,97 @@
+{
+    "establishment": ["restaurante"],
+    "name": "restaurante europa",
+    "address": {
+        "city": "la habana",
+        "town": "la habana vieja",
+        "street": "4jqw+cq6, obispo, la habana",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": "https://g.co/kgs/n2d1t2e",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "1200-2300",
+        "tuesday": "1200-2300",
+        "wednesday": "1200-2300",
+        "thursday": "1200-2300",
+        "friday": "1200-2300",
+        "saturday": "1200-2300",
+        "sunday": "1200-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "langosta entera grille", "price": 4500.00},
+                {"name": "camaron grille", "price": 1900.00},
+                {"name": "camaron enchilado", "price": 1740.00},
+                {"name": "bistec de cerdo grille", "price": 850.00},
+                {"name": "lonjas de cerdo asada", "price": 775.00},
+                {"name": "fajitas de cerdo", "price": 990.00},
+                {"name": "pizza napolitana", "price": 650.00},
+                {"name": "spaguetti napolitano", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "arroz con camaron", "price": 550.00},
+                {"name": "arroz blanco", "price": 100.00},
+                {"name": "ensalada vegetales", "price": 200.00},
+                {"name": "vianda hervida", "price": 175.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "gelatina", "price": 75.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

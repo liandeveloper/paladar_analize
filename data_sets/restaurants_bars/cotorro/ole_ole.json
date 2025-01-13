@@ -1,5 +1,5 @@
 {
-  "establishment": ["bar", "restaurante"],
+  "establishment": ["restaurante", "bar"],
   "name": "ole ole",
   "address": {
       "city": "la habana",

@@ -1,0 +1,109 @@
+{
+    "establishment": ["restaurante"],
+    "name": "casa godo",
+    "address": {
+        "city": " ",
+        "town": "el mónaco, diez de octubre",
+        "street": "ave. mayía rodríguez # 358 e/ san mariano y vista alegre",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "@casa_godo._.oficial",
+        "whatsapp": "53311292",
+        "web": null,
+        "telephone": "76034192"
+    },
+    "schedule": {
+        "monday": "1200-2300",
+        "tuesday": "1200-2300",
+        "wednesday": "1200-2300",
+        "thursday": "1200-2300",
+        "friday": "1200-2300",
+        "saturday": "1200-2300",
+        "sunday": "1200-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["cubana", "internacional"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquetas de pescado", "price": 650.0},
+                {"name": "coctel de camarón", "price": 1000.0},
+                {"name": "entremes de jamón, queso y aceitunas", "price": 850.0},
+                {"name": "tostones rellenos con cerdo", "price": 650.0},
+                {"name": "garbanzo frito", "price": 700.0}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "churrasco de cerdo", "price": 3200.0},
+                {"name": "chilindrón de cordero", "price": 2000.0},
+                {"name": "langosta grille o enchilada", "price": 3000.0},
+                {"name": "masas de cerdo", "price": 2000.0},
+                {"name": "bistec de cerdo", "price": 2000.0},
+                {"name": "lonjas de cerdo", "price": 1800.0},
+                {"name": "loma ahumado", "price": 1800.0},
+                {"name": "filete de pescado", "price": 2200.0},
+                {"name": "filete de pescado con vegetales salteados", "price": 2300.0},
+                {"name": "filete de pescado con camarones", "price": 2900.0},
+                {"name": "camaron salteado o enchilado", "price": 2600.0},
+                {"name": "pechuga de pollo", "price": 1800.0},
+                {"name": "pollo deshuesado", "price": 950.0},
+                {"name": "pulpo salteado al ajo", "price": 3100.0}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "arroz frito sin camarón", "price": 850.0},
+                {"name": "arroz frito con camarón", "price": 1200.0},
+                {"name": "ensalada de vegetales", "price": 250.0},
+                {"name": "ración de moro", "price": 200.0}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "torta", "price": 550.0}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

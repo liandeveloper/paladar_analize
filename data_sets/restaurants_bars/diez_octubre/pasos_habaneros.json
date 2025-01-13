@@ -1,0 +1,160 @@
+{
+    "establishment": ["cafeteria", "heladeria"],
+    "name": "Pasos Habaneros",
+    "address": {
+        "city": "La Habana",
+        "town": "Santos Suárez",
+        "street": "Calle Santos Suárez 464 e/ Gómez y Mendoza. Santos Suárez. 10 de Octubre",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "09:00-18:00",
+        "tuesday": "09:00-18:00",
+        "wednesday": "09:00-18:00",
+        "thursday": "09:00-18:00",
+        "friday": "09:00-18:00",
+        "saturday": "09:00-18:00",
+        "sunday": "09:00-13:00"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false,
+        "usd_cash": true,
+        "usd_transfer": true,
+        "mlc": true
+    },
+    "specialties": ["internacional", "helados"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Croquetas", "price": 280.00},
+                {"name": "Coctel de Camarón sencillo", "price": 400.00},
+                {"name": "Coctel de Camarón doble", "price": 800.00},
+                {"name": "Pan con queso blanco", "price": 135.00},
+                {"name": "Pan con croquetas", "price": 180.00},
+                {"name": "Pan con 2 Croquetas y Jamón", "price": 280.00},
+                {"name": "Bocadito Jamón", "price": 240.00},
+                {"name": "Bocadito de Jamón y Queso", "price": 350.00},
+                {"name": "Super Pan Pasos Habaneros", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Pollo Asado Muslo o Contra muslo", "price": 275.00},
+                {"name": "Pollo Asado 1/2", "price": 550.00},
+                {"name": "Bistec de Cerdo", "price": 750.00},
+                {"name": "Bistec de Cerdo Empanado", "price": 850.00},
+                {"name": "Ropa Vieja de Res", "price": 880.00},
+                {"name": "Lomo de Cerdo", "price": 950.00},
+                {"name": "Carne de Cerdo Asada", "price": 950.00},
+                {"name": "Lomo Ahumado", "price": 950.00},
+                {"name": "Masa de Cerdo Frita", "price": 950.00},
+                {"name": "Chuleta de Cerdo", "price": 1000.00},
+                {"name": "Bistec Uruguayo de Cerdo", "price": 1000.00},
+                {"name": "Alitas de pollo (1/2 libra)", "price": 430.00},
+                {"name": "Picadera \"Mi Habana\"", "price": 750.00},
+                {"name": "Picadera \"Pasos Habaneros\"", "price": 850.00},
+                {"name": "Alitas de pollo (1 libra)", "price": 860.00},
+                {"name": "Super Picadera Especial", "price": 1500.00},
+                {"name": "Fajitas de Cerdo Pasos Habaneros", "price": 950.00},
+                {"name": "Napolitana", "price": 250.00},
+                {"name": "Doble Queso", "price": 300.00},
+                {"name": "Mayonesa", "price": 300.00},
+                {"name": "Jamón y Queso", "price": 430.00},
+                {"name": "Doble Queso y Jamón", "price": 540.00},
+                {"name": "Lasaña", "price": 500.00},
+                {"name": "Napolitano", "price": 380.00},
+                {"name": "Doble Queso", "price": 440.00},
+                {"name": "Jamón y Queso", "price": 475.00},
+                {"name": "Doble Queso y Jamón", "price": 540.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz Blanco", "price": 150.00},
+                {"name": "Arroz Moro", "price": 200.00},
+                {"name": "Arroz Cardelnal", "price": 260.00},
+                {"name": "Ensalada de Estación", "price": 250.00},
+                {"name": "Vianda con Mojo", "price": 250.00},
+                {"name": "Vianda Frita", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Helado \"Futbolito\"", "price": 170.00},
+                {"name": "Helado \"Ciudad Deportiva\"", "price": 225.00},
+                {"name": "Helado \"Jimagua Mónaco\"", "price": 290.00},
+                {"name": "Helado \"Vaca Negra o Blanca\"", "price": 320.00},
+                {"name": "Helado \"Sabor a Mi\"", "price": 345.00},
+                {"name": "Helado \"Capitolio\"", "price": 400.00},
+                {"name": "Helado \"Esquina de Tejas\"", "price": 450.00},
+                {"name": "Helado \"Esquina de Toyo\"", "price": 590.00},
+                {"name": "Helado \"Ensalada Parque Central\"", "price": 660.00},
+                {"name": "Helados \"Pasos Habaneros\"", "price": 710.00},
+                {"name": "Barquillo de Helado", "price": 135.00},
+                {"name": "Potes de Helados (200 ml) sin montaje", "price": 280.00},
+                {"name": "Potes de Helados (200 ml) con montaje", "price": 300.00},
+                {"name": "Potes de Helados (400 ml) sin montaje", "price": 400.00},
+                {"name": "Potes de Helados (400 ml) con montaje", "price": 430.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Agua mineral", "price": 120.00},
+                {"name": "Refresco (pomu)", "price": 235.00},
+                {"name": "Refresco lata (330ml)", "price": 230.00},
+                {"name": "Malta", "price": 235.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza lata (330ml)", "price": 200.00},
+                {"name": "Cerveza dispensada (500ml)", "price": 290.00},
+                {"name": "Cerveza dispensada (300ml)", "price": 200.00},
+                {"name": "Termo de cerveza cristal de 6 jarras", "price": 1700.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "Vino Dulce", "price": 100.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "Whiskey 5Shot", "price": 100.00},
+                {"name": "Silver dry", "price": 110.00},
+                {"name": "Vino Tinto", "price": 150.00},
+                {"name": "Chisckiller", "price": 170.00},
+                {"name": "Black Tears (Brujo)", "price": 170.00},
+                {"name": "Habana Club", "price": 170.00}
+            ]
+        }
+    ]
+}

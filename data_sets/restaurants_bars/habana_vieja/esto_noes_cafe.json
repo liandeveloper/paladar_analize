@@ -1,0 +1,166 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "El Templete",
+    "address": {
+        "city": "La Habana",
+        "town": "La Habana Vieja",
+        "street": "4MR2+3MC, La Habana",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": "",
+        "instagram": "",
+        "whatsapp": "",
+        "web": "https://g.co/kgs/SoJvSRx",
+        "telephone": ""
+    },
+    "schedule": {
+        "monday": "0830-0000",
+        "tuesday": "0830-0000",
+        "wednesday": "0830-0000",
+        "thursday": "0830-0000",
+        "friday": "0830-0000",
+        "saturday": "0830-0000",
+        "sunday": "0830-0000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Mariscos", "Langosta"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Panes de la Casa", "price": 300.00},
+                {"name": "Tostones Rellenos de Atun", "price": 500.00},
+                {"name": "Tostones Rellenos de Jamon y Queso", "price": 450.00},
+                {"name": "Eperlan de Pescado", "price": 500.00},
+                {"name": "Tapas de Atun", "price": 500.00},
+                {"name": "Ensaladilla de Atun", "price": 500.00},
+                {"name": "Croquetas de la Casa", "price": 750.00},
+                {"name": "Brusquetas", "price": 800.00},
+                {"name": "Coctel de Langosta", "price": 1500.00},
+                {"name": "Copa de Camarones", "price": 1800.00},
+                {"name": "Ceviche a la Cubana", "price": 2500.00},
+                {"name": "Surtido Templete", "price": 3500.00},
+                {"name": "Tabla de Jamon Serrano", "price": 2000.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Filete de Pescado Grille", "price": 2000.00},
+                {"name": "Filete de Pescado Canciller", "price": 2500.00},
+                {"name": "Filete de Pescado Joinville", "price": 2800.00},
+                {"name": "Pescado Empanado con Vegetales", "price": 2500.00},
+                {"name": "Langosta Mariposa", "price": 2000.00},
+                {"name": "Langosta Enchilada con Vegetales", "price": 2500.00},
+                {"name": "Langosta Termidor", "price": 3000.00},
+                {"name": "Camarones Grille", "price": 2000.00},
+                {"name": "Camarones al Ajillo", "price": 2500.00},
+                {"name": "Enchilado de Camarones", "price": 2500.00},
+                {"name": "Mariscada Templete", "price": 5000.00},
+                {"name": "Entrecot de Res", "price": 2000.00},
+                {"name": "Filete Miñon", "price": 2500.00},
+                {"name": "Filete Chateaubriand", "price": 3500.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz Blanco", "price": 500.00},
+                {"name": "Arroz con Vegetales", "price": 1500.00},
+                {"name": "Arroz Pilaf", "price": 600.00},
+                {"name": "Ensalada de Estacion", "price": 600.00},
+                {"name": "Vianda Frita", "price": 500.00},
+                {"name": "Vianda Hervida", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Copa de Helado", "price": 500.00},
+                {"name": "Arroz con Leche", "price": 600.00},
+                {"name": "Flan Caramelo", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Espresso", "price": 95.00},
+                {"name": "Capuchino", "price": 140.00},
+                {"name": "Cortadito", "price": 100.00},
+                {"name": "Bombon", "price": 120.00},
+                {"name": "Americano", "price": 95.00},
+                {"name": "Canelado", "price": 100.00},
+                {"name": "Rocio de Gallo", "price": 130.00},
+                {"name": "Irlandes", "price": 190.00},
+                {"name": "Mama Ines", "price": 150.00},
+                {"name": "Al Licor", "price": 100.00},
+                {"name": "Mazagran", "price": 160.00},
+                {"name": "Carajillo", "price": 150.00},
+                {"name": "Con Vodka", "price": 200.00},
+                {"name": "Mexicano", "price": 150.00},
+                {"name": "Cohiba Habano", "price": 125.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Cerveza Nacional", "price": 200.00},
+                {"name": "Cerveza Importada", "price": 250.00},
+                {"name": "Refresco Nacional", "price": 90.00},
+                {"name": "Refresco Importado", "price": 100.00},
+                {"name": "Malta Importada", "price": 170.00},
+                {"name": "Jugo Importado", "price": 100.00},
+                {"name": "Jugo Natural", "price": 200.00},
+                {"name": "Copa de Vino de la Casa", "price": 450.00},
+                {"name": "Agua Natural", "price": 150.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza Nacional", "price": 200.00},
+                {"name": "Cerveza Importada", "price": 250.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Mojito", "price": 200.00},
+                {"name": "Daiquiri Frappe", "price": 200.00},
+                {"name": "Cubanito", "price": 200.00},
+                {"name": "Cubata", "price": 200.00},
+                {"name": "Cuba Libre", "price": 200.00},
+                {"name": "Sangria", "price": 250.00},
+                {"name": "Piña Colada", "price": 300.00},
+                {"name": "Gin Tonic", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "Vermouth Yzaguirre Rosado", "price": 400.00},
+                {"name": "Vermouth Rosso Totino", "price": 150.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "Ron Havana Club Añejo Blanco", "price": 180.00},
+                {"name": "Ron Havana Club Pacto Navio", "price": 475.00},
+                {"name": "Ron Havana Club Edicicion Prof A", "price": 200.00}
+            ]
+        }
+    ]
+}

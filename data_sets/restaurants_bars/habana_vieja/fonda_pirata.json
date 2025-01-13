@@ -1,0 +1,112 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "Fonda al Pirata",
+    "address": {
+        "city": "la habana",
+        "town": "La Habana Vieja",
+        "street": "4JRX+479, La Habana",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": " ",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0700-1900",
+        "tuesday": "0700-1900",
+        "wednesday": "0700-1900",
+        "thursday": "0700-1900",
+        "friday": "0700-1900",
+        "saturday": "0700-1900",
+        "sunday": "0700-1900"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["Vegana y Vegetariana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Bolitas de Queso", "price": 1860.00},
+                {"name": "Bolitas de Queso Picante", "price": 1860.00},
+                {"name": "Ceviche", "price": 2170.00},
+                {"name": "Caldosa Pirata", "price": 310.00},
+                {"name": "Tostadas Piratas", "price": 930.00},
+                {"name": "Hummus y Vegetales", "price": 1860.00},
+                {"name": "Tacos Piratas", "price": 1860.00},
+                {"name": "Ceviche de Langosta", "price": 2480.00},
+                {"name": "Coctel de Langosta", "price": 2635.00},
+                {"name": "Crudo de Pulpo", "price": 2790.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Pirates From Heart Salad", "price": 1395.00},
+                {"name": "Combinacion Pirata", "price": 3100.00},
+                {"name": "Galeon el Olones", "price": 3255.00},
+                {"name": "Botija Pirata", "price": 1860.00},
+                {"name": "Filete de Pescado", "price": 3720.00},
+                {"name": "Langosta a su Gusto", "price": 5890.00},
+                {"name": "Pescado Entero", "price": 4960.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Cafe Espresso", "price": 465.00},
+                {"name": "Cafe Espresso Doble", "price": 620.00},
+                {"name": "Cafe Americano", "price": 465.00},
+                {"name": "Cortadito", "price": 496.00},
+                {"name": "Cafe Bombon", "price": 589.00},
+                {"name": "Capuccino", "price": 527.00},
+                {"name": "Frapuccino", "price": 1116.00},
+                {"name": "Mocca", "price": 558.00},
+                {"name": "Frapuccino Mocca", "price": 1193.00},
+                {"name": "Cafe con Leche", "price": 651.00},
+                {"name": "Te", "price": 372.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

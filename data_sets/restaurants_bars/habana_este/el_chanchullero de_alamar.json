@@ -1,5 +1,5 @@
 {
-    "establishment": ["bar", "restaurante"],
+    "establishment": ["restaurante", "bar"],
     "name": "el chanchullero",
     "address": {
         "city": "la habana",

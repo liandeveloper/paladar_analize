@@ -1,0 +1,101 @@
+{
+    "establishment": ["pizzas", "pastas"],
+    "name": "pizzas vip",
+    "address": {
+        "city": "guanabacoa",
+        "town": " ",
+        "street": " ",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": " ",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "1000-2200",
+        "tuesday": "1000-2200",
+        "wednesday": "1000-2200",
+        "thursday": "1000-2200",
+        "friday": "1000-2200",
+        "saturday": "1000-2200",
+        "sunday": "1000-2200"
+    },
+    "services": {
+        "delivery": null,
+        "to_take": null
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["pizzas", "pastas"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquetas de la casa", "price": 400.00},
+                {"name": "fritura de malanga", "price": 300.00},
+                {"name": "bolita de queso", "price": 650.00},
+                {"name": "fajita de pechuga", "price": 1100.00},
+                {"name": "ensalada fría", "price": 370.00},
+                {"name": "papa frita", "price": 580.00},
+                {"name": "fajita de cerdo", "price": 1200.00},
+                {"name": "crema de queso", "price": 500.00},
+                {"name": "crema virginia", "price": 550.00},
+                {"name": "crema aurora", "price": 520.00},
+                {"name": "crema mixta", "price": 600.00},
+                {"name": "tacos de jamón", "price": 1030.00},
+                {"name": "tacos de res", "price": 1350.00},
+                {"name": "tacos de cangrejo", "price": 1380.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [null]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "henike", "price": 360.00},
+                {"name": "cerveza importada", "price": 250.00},
+                {"name": "cerveza de lata cristal", "price": 300.00},
+                {"name": "cerveza de botella", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

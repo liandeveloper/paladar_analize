@@ -1,5 +1,5 @@
 {
-    "establishment": ["bar", "restaurante"],
+    "establishment": ["restaurante", "bar"],
     "name": "la barrita onbazar",
     "address": {
         "city": "la habana",

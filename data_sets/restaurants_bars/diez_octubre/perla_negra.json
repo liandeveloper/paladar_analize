@@ -1,0 +1,184 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "Perla Negra",
+    "address": {
+        "city": "La Habana",
+        "town": "Diez de Octubre",
+        "street": "Milagros 114 e/ Heredia y Poey, Santos Suárez",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": "",
+        "instagram": "@rs_perlanegra",
+        "whatsapp": "59333495",
+        "web": "",
+        "telephone": "76494575"
+    },
+    "schedule": {
+        "monday": "12:00-03:00",
+        "tuesday": "12:00-03:00",
+        "wednesday": "12:00-03:00",
+        "thursday": "12:00-03:00",
+        "friday": "12:00-03:00",
+        "saturday": "12:00-03:00",
+        "sunday": "12:00-03:00"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["cubana", "italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Maripositas chinas", "price": 550.00},
+                {"name": "Frituras de malanga", "price": 650.00},
+                {"name": "Toston Salazar", "price": 750.00},
+                {"name": "Croquetas de la casa", "price": 800.00},
+                {"name": "Coctel de langosta", "price": 1850.00},
+                {"name": "Coctel de camaron", "price": 1950.00},
+                {"name": "Eperlan", "price": 1950.00},
+                {"name": "Picadera Perla Negra", "price": 2950.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Filete de escado grille", "price": 2550.00},
+                {"name": "Kalipsus", "price": 3100.00},
+                {"name": "Filete Canciller", "price": 2750.00},
+                {"name": "Camaron al gusto", "price": 2900.00},
+                {"name": "Bistec de cerdo grille", "price": 2350.00},
+                {"name": "Uruguayo de cerdo", "price": 2975.00},
+                {"name": "Chuletazo", "price": 3150.00},
+                {"name": "Vaca frita", "price": 2100.00},
+                {"name": "Ropa vieja", "price": 2350.00},
+                {"name": "Pechuga Isla Tortuga", "price": 2750.00},
+                {"name": "Filete de res", "price": 5300.00},
+                {"name": "Punta de filete de res", "price": 5300.00},
+                {"name": "Filete Mignon", "price": 5850.00},
+                {"name": "Arroz frito", "price": 2400.00},
+                {"name": "Arroz frito especial", "price": 3250.00},
+                {"name": "Pescado Elizabeth", "price": 2800.00},
+                {"name": "Langosta al gusto", "price": 3100.00},
+                {"name": "Tesoro Pirata", "price": 4850.00},
+                {"name": "Jack Sparrow", "price": 5950.00},
+                {"name": "Venganza de la Reina", "price": 7150.00},
+                {"name": "Paella Ana Maria", "price": 4150.00},
+                {"name": "Grillada Perla Negra", "price": 5575.00},
+                {"name": "Espaghettis napolitanos", "price": 1100.00},
+                {"name": "Pizza napolitana", "price": 1550.00},
+                {"name": "Pizza Kraken", "price": 2550.00},
+                {"name": "Lasagna Bolognesa", "price": 2250.00},
+                {"name": "Taco de ropa vieja", "price": 1650.00},
+                {"name": "Taco Pastor", "price": 1850.00},
+                {"name": "Hamburguesa de cerdo", "price": 650.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz blanco", "price": 200.00},
+                {"name": "Arroz moro", "price": 250.00},
+                {"name": "Frijol negro", "price": 500.00},
+                {"name": "Ensalada de vegetales del dia", "price": 575.00},
+                {"name": "Vianda frita", "price": 500.00},
+                {"name": "Papas fritas", "price": 650.00},
+                {"name": "Pure de malanga con tropezones de bacon", "price": 675.00},
+                {"name": "Piña", "price": 150.00},
+                {"name": "Cebolla", "price": 200.00},
+                {"name": "Pimiento", "price": 250.00},
+                {"name": "Aceituna", "price": 300.00},
+                {"name": "Jamón", "price": 300.00},
+                {"name": "Chorizo", "price": 300.00},
+                {"name": "Champiñón", "price": 500.00},
+                {"name": "Queso Gouda", "price": 600.00},
+                {"name": "Atún", "price": 675.00},
+                {"name": "Camarón", "price": 750.00},
+                {"name": "Langosta", "price": 950.00},
+                {"name": "Huevo frito", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Flan de la casa", "price": 450.00},
+                {"name": "Tres Gracias", "price": 950.00},
+                {"name": "Copa Lolita", "price": 1050.00},
+                {"name": "Crepes Tortuga", "price": 700.00},
+                {"name": "Waffles Eroticos", "price": 750.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Cafe Expresso", "price": 150.00},
+                {"name": "Cafe Cortado", "price": 180.00},
+                {"name": "Cappuccino", "price": 250.00},
+                {"name": "Cafe Bombon", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Refresco", "price": 350.00},
+                {"name": "Malta importada", "price": 375.00},
+                {"name": "Malta Perla Negra", "price": 400.00},
+                {"name": "Agua", "price": 225.00},
+                {"name": "Agua gaseada", "price": 225.00},
+                {"name": "Limonada Frappe", "price": 450.00},
+                {"name": "Limonada Frescura", "price": 600.00},
+                {"name": "Jugo natural", "price": 450.00},
+                {"name": "Batido de frutas", "price": 550.00},
+                {"name": "Batido de helado", "price": 850.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza importada", "price": 375.00},
+                {"name": "Cerveza Cristal", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Coctel Perla Negra", "price": 1550.00},
+                {"name": "Coctel Perla Rosa", "price": 650.00},
+                {"name": "Coctel Perla Blue", "price": 650.00},
+                {"name": "Mojito Perla", "price": 850.00},
+                {"name": "Pina Colada", "price": 950.00},
+                {"name": "Margarita Pirata", "price": 800.00},
+                {"name": "Margarita Reposado", "price": 950.00},
+                {"name": "Gin tonic", "price": 1275.00},
+                {"name": "Gin Collins", "price": 700.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "Vino tinto", "price": 500.00},
+                {"name": "Vino blanco", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "Havana Club 3 anos", "price": 375.00},
+                {"name": "Ron Ritual", "price": 425.00},
+                {"name": "Havana Club 7 anos", "price": 550.00},
+                {"name": "Santiago 11 anos", "price": 650.00},
+                {"name": "Pacto Navio", "price": 700.00}
+            ]
+        }
+    ]
+}

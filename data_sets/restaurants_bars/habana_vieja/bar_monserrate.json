@@ -1,0 +1,129 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "Bar Monserrate",
+    "address": {
+        "city": "La Habana",
+        "town": "La Habana Vieja",
+        "street": "Esquina Monserrate Obrapía",
+        "coordinates": {
+            "latitude": "23.1367",
+            "longitude": "-82.3551"
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/bar.monserrate",
+        "instagram": "https://www.instagram.com/bar.monserrate",
+        "whatsapp": "+53 123456789",
+        "web": "http://www.bar-monserrate.com",
+        "telephone": "+53 123 4567"
+    },
+    "schedule": {
+        "monday": "0700-1900",
+        "tuesday": "0700-1900",
+        "wednesday": "0700-1900",
+        "thursday": "0700-1900",
+        "friday": "0700-1900",
+        "saturday": "0700-1900",
+        "sunday": "0700-1900"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["Comida rápida", "Brochetas de Pollo"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Picada de Salchicha", "price": 60.00},
+                {"name": "Croquetas de Jamon", "price": 250.00},
+                {"name": "Croquetas de Pollo", "price": 150.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Cola de Langosta", "price": 2300.00},
+                {"name": "Anillas de Langosta", "price": 2175.00},
+                {"name": "Camaron Grille", "price": 1900.00},
+                {"name": "Camaron Enchilado", "price": 1740.00},
+                {"name": "Bistec de Cerdo Grille", "price": 850.00},
+                {"name": "Fajitas de Cerdo", "price": 990.00},
+                {"name": "Res Estofada", "price": 375.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz Blanco", "price": 100.00},
+                {"name": "Arroz Moro", "price": 135.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Torta de Chocolate", "price": 250.00},
+                {"name": "Helado de Vainilla", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Café Americano", "price": 50.00},
+                {"name": "Café Expreso", "price": 70.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Limonada", "price": 100.00},
+                {"name": "Jugo Nacional Lata", "price": 90.00},
+                {"name": "Bebida Energizante", "price": 200.00},
+                {"name": "Malta Importada", "price": 135.00},
+                {"name": "Vaso de Jugo Importado", "price": 80.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza Importada", "price": 175.00},
+                {"name": "Parranda", "price": 180.00},
+                {"name": "Cerveza Dispensada", "price": 190.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Cuba Libre", "price": 300.00},
+                {"name": "Cubata", "price": 325.00},
+                {"name": "Daiquiri", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "Vino Tinto", "price": 500.00},
+                {"name": "Vino Blanco", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "Licor Cubay de Menta", "price": 200.00},
+                {"name": "Licor Curacao Azul", "price": 200.00},
+                {"name": "Licor Cubay de Anis", "price": 200.00},
+                {"name": "Chanceler", "price": 180.00},
+                {"name": "HC 3 Años", "price": 200.00},
+                {"name": "HC Blanco", "price": 200.00},
+                {"name": "HC Reserva", "price": 380.00},
+                {"name": "HC Especial", "price": 250.00},
+                {"name": "HC Ritual", "price": 250.00}
+            ]
+        }
+    ]
+}

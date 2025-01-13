@@ -1,0 +1,112 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "el sauce",
+    "address": {
+        "city": "santiago de las vegas",
+        "town": "boyeros",
+        "street": "calle 403 % 180 & 184",
+        "coordinates": {
+            "latitude": 22.970443753987716,
+            "longitude": -82.38579210312078
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": "+5376833543",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["pizza"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "hamburguesa simple", "price": 400.00},
+                {"name": "hamburguesa con jamon", "price": 500.00},
+                {"name": "hamburguesa con queso", "price": 550.00},
+                {"name": "hamburguesa con bacon", "price": 550.00},
+                {"name": "hamburguesa con jamon y queso", "price": 600.00},
+                {"name": "hamburguesa sauce", "price": 850.00},
+                {"name": "bocadito de jamon", "price": 200.00},
+                {"name": "bocadito de queso", "price": 250.00},
+                {"name": "bocadito de jamon y queso", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pizza napole", "price": 500.00},
+                {"name": "pizza de jamon", "price": 700.00},
+                {"name": "pizza de chorizo", "price": 700.00},
+                {"name": "pizza de cebolla", "price": 600.00},
+                {"name": "pizza de pimiento", "price": 600.00},
+                {"name": "pizza hawaiana", "price": 750.00},
+                {"name": "pizza de bacon", "price": 750.00},
+                {"name": "pizza de atun", "price": 800.00},
+                {"name": "pizza de aceitunas", "price": 700.00},
+                {"name": "pizza sauce", "price": 900.00},
+                {"name": "lasagna de jamon", "price": 900.00},
+                {"name": "canelon", "price": 700.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "café expreso", "price": 100.00},
+                {"name": "cortadito", "price": 150.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "refresco", "price": 220.00},
+                {"name": "malta", "price": 250.00},
+                {"name": "cerveza", "price": 280.00},
+                {"name": "suero de helado", "price": 550.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

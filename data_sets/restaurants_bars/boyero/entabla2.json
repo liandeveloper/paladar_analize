@@ -1,0 +1,165 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "entabla2",
+    "address": {
+        "city": "la habana",
+        "town": "boyeros",
+        "street": "carretera terminal 2, aeropuerto internacional j. marti",
+        "coordinates": {
+            "latitude": 23.00383018723097,
+            "longitude": -82.39596222216572
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/people/Entablados-Habana/61558469293972/?_rdr",
+        "instagram": "https://www.instagram.com/entablados.habana/",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "+5351744817"
+    },
+    "schedule": {
+        "monday": "open",
+        "tuesday": "open",
+        "wednesday": "open",
+        "thursday": "open",
+        "friday": "open",
+        "saturday": "open",
+        "sunday": "open"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "caldo de mariscos", "price": 1200.00},
+                {"name": "eperlan", "price": 1500.00},
+                {"name": "tacos de cerdo", "price": 1150.00},
+                {"name": "tacos de langosta", "price": 950.00},
+                {"name": "frituras de malanga", "price": 350.00},
+                {"name": "crujientes de pollo", "price": 800.00},
+                {"name": "coctel de camarón", "price": 1150.00},
+                {"name": "ceviche de pescado", "price": 1150.00},
+                {"name": "coctel de langosta", "price": 1050.00},
+                {"name": "pan con lechón", "price": 1100.00},
+                {"name": "huevo hervido", "price": 300.00},
+                {"name": "huevos fritos", "price": 380.00},
+                {"name": "revoltillo natural", "price": 380.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "langosta grille", "price": 1950.00},
+                {"name": "langosta al ajillo", "price": 1950.00},
+                {"name": "langosta enchilada", "price": 2250.00},
+                {"name": "camarón enchilado", "price": 2300.00},
+                {"name": "camarón grille", "price": 2150.00},
+                {"name": "costilla frita", "price": 2600.00},
+                {"name": "camarón al ajillo", "price": 2150.00},
+                {"name": "fricase de cerdo", "price": 2250.00},
+                {"name": "costilla en salsa bbq", "price": 2680.00},
+                {"name": "bistec gratinado", "price": 2150.00},
+                {"name": "bistec de cerdo", "price": 1850.00},
+                {"name": "chuleta de cerdo", "price": 1950.00},
+                {"name": "masa frita", "price": 2150.00},
+                {"name": "chuletón de cerdo", "price": 2500.00},
+                {"name": "super chuletón entabla2", "price": 3200.00},
+                {"name": "filete de pescado al vino", "price": 2000.00},
+                {"name": "filete de pescado mediterráneo", "price": 2050.00},
+                {"name": "filete don pedro", "price": 2900.00},
+                {"name": "lonja de cerdo", "price": 2150.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "vianda hervida con mojo", "price": 200.00},
+                {"name": "arroz moro", "price": 250.00},
+                {"name": "ensalada de vegetales", "price": 200.00},
+                {"name": "arroz blanco", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "copa de helado", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "café expreso", "price": 150.00},
+                {"name": "café cortadito", "price": 250.00},
+                {"name": "café bombón", "price": 550.00},
+                {"name": "capuchino", "price": 400.00},
+                {"name": "café con leche", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "jugos naturales", "price": 350.00},
+                {"name": "suero de helado", "price": 850.00},
+                {"name": "limonada frape", "price": 500.00},
+                {"name": "batido de frutas naturales", "price": 450.00},
+                {"name": "agua 600ml niágara", "price": 250.00},
+                {"name": "refresco mirinda", "price": 430.00},
+                {"name": "malteada", "price": 430.00},
+                {"name": "malteada", "price": 780.00},
+                {"name": "jugo importado fruta fresca", "price": 300.00},
+                {"name": "refresco pepsi", "price": 430.00},
+                {"name": "refresco 7up", "price": 430.00},
+                {"name": "cerveza blue", "price": 450.00},
+                {"name": "malta turbo", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cerveza cristal", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "caipirisima", "price": 650.00},
+                {"name": "cuba libre", "price": 460.00},
+                {"name": "sangria", "price": 650.00},
+                {"name": "cubata", "price": 480.00},
+                {"name": "caipirinha", "price": 550.00},
+                {"name": "canchanchara", "price": 450.00},
+                {"name": "caipiroska", "price": 550.00},
+                {"name": "tinto verano", "price": 600.00},
+                {"name": "chelada", "price": 120.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "copa de vino blanco", "price": 450.00},
+                {"name": "copa de vino tinto", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "ron havana club ajeño 3 años", "price": 300.00},
+                {"name": "ron havana club ajeño especial", "price": 300.00},
+                {"name": "ginebra gin mg", "price": 140.00},
+                {"name": "ginebra beefeater", "price": 240.00},
+                {"name": "ginebra le tribute", "price": 490.00},
+                {"name": "licor sambuca extra molinari", "price": 200.00},
+                {"name": "aguardiente black tears", "price": 150.00}
+            ]
+        }
+    ]
+}

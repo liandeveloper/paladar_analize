@@ -1,0 +1,128 @@
+{
+    "establishment": ["restaurante"],
+    "name": "don cuenca",
+    "address": {
+        "city": "la habana",
+        "town": "santo suarez",
+        "street": "general lee entre destrampre y figueroa, diez de octubre",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "@don-cuenca",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "76402249, 55373569"
+    },
+    "schedule": {
+        "monday": "1200-2200",
+        "tuesday": "1200-2200",
+        "wednesday": "1200-2200",
+        "thursday": "1200-2200",
+        "friday": "1200-2200",
+        "saturday": "1200-2200",
+        "sunday": "1200-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["internacional", "criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "frituras de malanga", "price": 500.00},
+                {"name": "tostones rellenos de jamon y queso", "price": 550.00},
+                {"name": "garbanzos fritos", "price": 850.00},
+                {"name": "eperlan", "price": 1450.00},
+                {"name": "coctel de camarones", "price": 1600.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "bistec de cerdo grille", "price": 1550.00},
+                {"name": "bistec uruguayo", "price": 2100.00},
+                {"name": "lomo cerdo ahumado", "price": 1700.00},
+                {"name": "lomo cerdo hawaiano", "price": 1900.00},
+                {"name": "pechuga grille", "price": 1659.00},
+                {"name": "pechuga salteada con aji y cebolla", "price": 1750.00},
+                {"name": "pechuga hawaiana", "price": 2100.00},
+                {"name": "cordon blue", "price": 2400.00},
+                {"name": "chilindron de cordero", "price": 1800.00},
+                {"name": "ropa vieja", "price": 1900.00},
+                {"name": "vaca frita", "price": 1900.00},
+                {"name": "solomillo de cerdo", "price": 2950.00},
+                {"name": "filete de pescado joinville", "price": 3000.00},
+                {"name": "enchilado de mariscos", "price": 3100.00},
+                {"name": "caldereta de mariscos", "price": 3600.00},
+                {"name": "canelon de jamon", "price": 1100.00},
+                {"name": "canelon de chorizo", "price": 1250.00},
+                {"name": "canelon de atun", "price": 1600.00},
+                {"name": "lasana de jamon", "price": 1350.00},
+                {"name": "lasana de chorizo", "price": 1550.00},
+                {"name": "lasana de atun", "price": 1900.00},
+                {"name": "espaguetis don cuenca", "price": 1650.00},
+                {"name": "espaguetis de mariscos", "price": 2450.00},
+                {"name": "espaguetis frutos del mar", "price": 2900.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "tarta de la casa", "price": 450.00},
+                {"name": "flan de la casa", "price": 450.00},
+                {"name": "crema de arroz con leche", "price": 350.00},
+                {"name": "helado", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "cafe", "price": 100.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "jugo natural", "price": 250.00},
+                {"name": "suero de helado", "price": 450.00},
+                {"name": "refresco", "price": 300.00},
+                {"name": "malta importada", "price": 330.00},
+                {"name": "energizante", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cerveza nacional", "price": 400.00},
+                {"name": "cerveza importada", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "Nel Paradiso",
+    "address": {
+        "city": "La Habana",
+        "town": "10 de Octubre",
+        "street": "Acosta #303 esquina Armas",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/NELPARADISORESTAURANTE/",
+        "instagram": "@nelparadiso",
+        "whatsapp": "52953716",
+        "web": null,
+        "telephone": "76967579"
+    },
+    "schedule": {
+        "monday": "11:00-23:30",
+        "tuesday": "11:00-23:30",
+        "wednesday": "11:00-23:30",
+        "thursday": "11:00-23:30",
+        "friday": "11:00-23:30",
+        "saturday": "11:00-23:30",
+        "sunday": "11:00-23:30"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["Internacional", "Bar", "Criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Croquetas de la casa con salsa rosa", "price": 792.00},
+                {"name": "Frituras de la casa con miel y mostaza", "price": 880.00},
+                {"name": "Bastones de Pollo con salsa rosa", "price": 1760.00},
+                {"name": "Bastones de Mar en salsa alioli", "price": 1760.00},
+                {"name": "Tamal en Cazuela", "price": 1584.00},
+                {"name": "Tamal Marinero", "price": 2376.00},
+                {"name": "Ensalada de Atún y Huevo", "price": 1760.00},
+                {"name": "Ceviche de Pescado", "price": 1584.00},
+                {"name": "Picadera Paraíso", "price": 2992.00},
+                {"name": "Coctel de Camarones", "price": 1936.00},
+                {"name": "Cóctel de Langosta", "price": 2112.00},
+                {"name": "Tabla de Quesos", "price": 2816.00},
+                {"name": "Lonjas de Jamón Serrano", "price": 2640.00},
+                {"name": "Tabla Mixta de Quesos y Jamón Serrano", "price": 4048.00},
+                {"name": "Salmón Paradiso", "price": 2816.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Bistec de CERDO glaseado al Vino Tinto", "price": 2112.00},
+                {"name": "Chuleta en salsa Verde", "price": 2288.00},
+                {"name": "Solomillo de Cerdo al estilo del Chef", "price": 2816.00},
+                {"name": "Entrecot de Cerdo", "price": 3520.00},
+                {"name": "Lomo Ahumado", "price": 2464.00},
+                {"name": "Estofado de Cerdo", "price": 6600.00},
+                {"name": "Ropa Vieja de Res", "price": 2552.00},
+                {"name": "Bistec de Res", "price": 2904.00},
+                {"name": "Fajita de Res", "price": 2464.00},
+                {"name": "Filete a la Douche", "price": 2990.00},
+                {"name": "Filete Mignon/Churrasco", "price": 3872.00},
+                {"name": "Chateaubriand", "price": 5280.00},
+                {"name": "Striploin", "price": 3872.00},
+                {"name": "Ropa Vieja de Cordero", "price": 1848.00},
+                {"name": "Cabrito Picoso", "price": 2640.00},
+                {"name": "Cordero al Vino Tinto", "price": 2464.00},
+                {"name": "Pechuga Grille", "price": 2112.00},
+                {"name": "Jardinera de Pechuga", "price": 2464.00},
+                {"name": "Pechuga Roquefort", "price": 2816.00},
+                {"name": "Pechuga Paraíso", "price": 2992.00},
+                {"name": "Masa de Pescado Frita", "price": 2640.00},
+                {"name": "Filete de Pescado Grille", "price": 2288.00},
+                {"name": "Filete John Bill", "price": 3256.00},
+                {"name": "Camarones a Elección", "price": 2995.00},
+                {"name": "Pulpo al Gusto", "price": 3500.00},
+                {"name": "Rueda a las Brasas", "price": 3344.00},
+                {"name": "Rueda Hemingway", "price": 4048.00},
+                {"name": "Langosta en Variantes", "price": 3168.00},
+                {"name": "Langosta Termidor", "price": 3520.00},
+                {"name": "Caldereta de Mariscos", "price": 4480.00},
+                {"name": "MonteMari Paraíso", "price": 4576.00},
+                {"name": "Arroz Frito", "price": 2112.00},
+                {"name": "Refrito de Garbanzos", "price": 1936.00},
+                {"name": "Risotto de Pollo y Champiñones", "price": 2464.00},
+                {"name": "Risotto de Mariscos", "price": 3520.00},
+                {"name": "Paella", "price": 3168.00},
+                {"name": "Paella Especial", "price": 6600.00},
+                {"name": "Pasta Napolitana", "price": 1230.00},
+                {"name": "Pasts Amatriciana", "price": 1936.00},
+                {"name": "Carbonara", "price": 2200.00},
+                {"name": "Nero di Sepia", "price": 3256.00},
+                {"name": "Pasta al Pesto", "price": 2756.00},
+                {"name": "Lasaña", "price": 1895.00},
+                {"name": "Napolitana", "price": 1144.00},
+                {"name": "Margarita", "price": 1232.00},
+                {"name": "De Cebolla", "price": 1325.00},
+                {"name": "Ortolana", "price": 1496.00},
+                {"name": "Hawaiana", "price": 2288.00},
+                {"name": "Jamón o Chorizo", "price": 1760.00},
+                {"name": "De Atún", "price": 2640.00},
+                {"name": "De Camarones", "price": 2640.00},
+                {"name": "De Jamón Serrano", "price": 2816.00},
+                {"name": "Pizza Nel Paraíso", "price": 2992.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz Blanco", "price": 422.00},
+                {"name": "Arroz Moro", "price": 636.00},
+                {"name": "Arroz Pilaf", "price": 880.00},
+                {"name": "Puré de Malanga", "price": 640.00},
+                {"name": "Puré de Viandas", "price": 528.00},
+                {"name": "Viandas Fritas", "price": 528.00},
+                {"name": "Papas Fritas", "price": 1010.00},
+                {"name": "Ensalada de Vegetales", "price": 633.00},
+                {"name": "Vegetales Salteados", "price": 675.00},
+                {"name": "Piña / Ají Pimiento", "price": 330.00},
+                {"name": "Tomate / Cebolla", "price": 380.00},
+                {"name": "Aceitunas / Bacon", "price": 480.00},
+                {"name": "Chorizo / Jamón", "price": 490.00},
+                {"name": "Champiñones", "price": 730.00},
+                {"name": "Gouda / Atún", "price": 800.00},
+                {"name": "Camarón / Serrano", "price": 945.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Flan de caramelo", "price": 800.00},
+                {"name": "Bola de Helado", "price": 200.00},
+                {"name": "Copa de Helado", "price": 895.00},
+                {"name": "Tarta del día", "price": 980.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Expresso", "price": 300.00},
+                {"name": "Cortado", "price": 375.00},
+                {"name": "Americano", "price": 350.00},
+                {"name": "Capuchino", "price": 400.00},
+                {"name": "Frappuccino", "price": 400.00},
+                {"name": "Bombón", "price": 725.00},
+                {"name": "Irish Coffee", "price": 750.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Jugos Naturales", "price": 270.00},
+                {"name": "Batido de Fruta Natural", "price": 450.00},
+                {"name": "Malteada", "price": 675.00},
+                {"name": "Batido de Helado", "price": 987.00},
+                {"name": "Piña Colada Virgen", "price": 700.00},
+                {"name": "Limonada Frappé", "price": 600.00},
+                {"name": "Limonada Frescura", "price": 675.00},
+                {"name": "Agua Natural", "price": 260.00},
+                {"name": "Agua Tónica / Gaseada", "price": 280.00},
+                {"name": "Refresco Nacional", "price": 300.00},
+                {"name": "Refresco Importado", "price": 350.00},
+                {"name": "Malta Nacional", "price": 380.00},
+                {"name": "Malta Importada", "price": 350.00},
+                {"name": "Jugo de Lata", "price": 390.00},
+                {"name": "Jugo de Caja", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

@@ -1,21 +1,21 @@
 {
-    "establishment": ["bar", "restaurante"],
+    "establishment": ["restaurante", "bar"],
     "name": "la ruta de hemingway",
     "address": {
         "city": "la habana",
         "town": "habana del este",
         "street": "calle real entre victoria y marcos, cojimar",
         "coordinates": {
-            "latitude": 23.140032524116656,
-            "longitude": -82.37801794949878
+            "latitude": 23.167303443511884,
+            "longitude": -82.29568050496572
         }
     },
     "contacto": {
-        "facebook": " ",
-        "instagram": " ",
-        "whatsapp": " ",
+        "facebook": null,
+        "instagram": "https://www.instagram.com/la_ruta_de_hemingway/",
+        "whatsapp": null,
         "web": "larutadehemingway.godaddysites.com",
-        "telephone": "50813470"
+        "telephone": "+5350813470"
     },
     "schedule": {
         "monday": "1200-2300",

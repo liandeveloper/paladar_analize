@@ -1,0 +1,229 @@
+{
+    "establishment": ["restaurante"],
+    "name": "la fela",
+    "address": {
+        "city": "la habana",
+        "town": "10 de octubre",
+        "street": "#4, nuestra senora de regla entre remedios y calzada de luyano",
+        "coordinates": {
+            "latitude": "",
+            "longitude": "4j4r+2r"
+        }
+    },
+    "contacto": {
+        "facebook": "la fela restaurant",
+        "instagram": "@lafelarestaurant",
+        "whatsapp": " ",
+        "web": "www.lafelarestaurant.com",
+        "telephone": "51950601"
+    },
+    "schedule": {
+        "monday": "1200-0000",
+        "tuesday": "1200-0000",
+        "wednesday": "1200-0000",
+        "thursday": "1200-0000",
+        "friday": "1200-0000",
+        "saturday": "1200-0000",
+        "sunday": "1200-0000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": null
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["cocina criolla e italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "ensalada fria de jamon", "price": 600.00},
+                {"name": "ceviche de pescado", "price": 2000.00},
+                {"name": "tartar de salmon", "price": 2000.00},
+                {"name": "ceviche de camarones", "price": 2000.00},
+                {"name": "coctel de camaron", "price": 2000.00},
+                {"name": "tabla mixta", "price": 2600.00},
+                {"name": "tabla de jamon serrano y queso azul", "price": 2800.00},
+                {"name": "croquetas de la casa", "price": 700.00},
+                {"name": "garbanzos fritos", "price": 1800.00},
+                {"name": "frituras de malanga", "price": 750.00},
+                {"name": "bolitas de queso con salsa agridulce", "price": 750.00},
+                {"name": "tostones rellenos con ropa vieja de cerdo", "price": 1300.00},
+                {"name": "eperlan de pescado con salsa rosa", "price": 2000.00},
+                {"name": "fajitas de pollo", "price": 1800.00},
+                {"name": "tacos al pastor", "price": 1000.00},
+                {"name": "empanada de la casa en salsa agridulce", "price": 600.00},
+                {"name": "tequenos (rollitos de queso)", "price": 600.00},
+                {"name": "crema de queso", "price": 550.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "masas de cerdo fritas encebolladas", "price": 2800.00},
+                {"name": "chuleta de cerdo", "price": 2500.00},
+                {"name": "bistec de cerdo grille", "price": 2000.00},
+                {"name": "bistec de cerdo encebollado", "price": 2200.00},
+                {"name": "bistec de cerdo gratinado con jamon y queso", "price": 2400.00},
+                {"name": "lonjas de cerdo con mojo criollo", "price": 2800.00},
+                {"name": "bistec de pollo grille", "price": 1800.00},
+                {"name": "suprema de pollo grille", "price": 2200.00},
+                {"name": "suprema de pollo gratinada con jamon y queso", "price": 2400.00},
+                {"name": "suprema de pollo a la crema", "price": 2400.00},
+                {"name": "cordero al chilindron o al vino tinto", "price": 2800.00},
+                {"name": "cordero estofado", "price": 3000.00},
+                {"name": "bistec de palomilla", "price": 2500.00},
+                {"name": "filet mignon", "price": 4000.00},
+                {"name": "ropa vieja de res", "price": 2500.00},
+                {"name": "vaca frita con anillos de cebolla", "price": 2700.00},
+                {"name": "churrasco de res", "price": 4000.00},
+                {"name": "filete de pescado grille", "price": 2500.00},
+                {"name": "filete de pescado gratinado con jamon y queso", "price": 2800.00},
+                {"name": "filete de pescado al limon", "price": 2700.00},
+                {"name": "filete de pescado la fela", "price": 3200.00},
+                {"name": "filete de pescado john bill", "price": 3400.00},
+                {"name": "pescado entero frito", "price": 3000.00},
+                {"name": "camaron termidor", "price": 3200.00},
+                {"name": "camaron a su eleccion (enchilado o al ajillo)", "price": 2800.00},
+                {"name": "caldereta de mariscos", "price": 3200.00},
+                {"name": "brocheta mixta del corral", "price": 3200.00},
+                {"name": "brocheta mixta del mar", "price": 3700.00},
+                {"name": "grillada de la casa (cerdo, pollo, pescado y camaron)", "price": 3800.00},
+                {"name": "paella marinera", "price": 3500.00},
+                {"name": "arroz con pollo a la chorrera", "price": 2500.00},
+                {"name": "arroz frito", "price": 2500.00},
+                {"name": "entrecot de res (guarnecido de papas al horno, aromatizado con finas hierbas y acompanado de una copa de vino)", "price": 6000.00},
+                {"name": "pizza napolitana", "price": 1000.00},
+                {"name": "pizza la fela", "price": 2400.00},
+                {"name": "pizza de vegetales", "price": 1700.00},
+                {"name": "super pizza de queso blanco", "price": 1600.00},
+                {"name": "super pizza de queso importado", "price": 2400.00},
+                {"name": "pizza de champignones", "price": 1500.00},
+                {"name": "pizza frutti di mare", "price": 2900.00},
+                {"name": "pizza margarita", "price": 1400.00},
+                {"name": "pizza de camarones", "price": 2600.00},
+                {"name": "pizza napolitana con queso blanco", "price": 600.00},
+                {"name": "lasagna", "price": 1200.00},
+                {"name": "espaghettis napolitano de queso blanco", "price": 700.00},
+                {"name": "espaghettis napolitanos de queso importado", "price": 1100.00},
+                {"name": "espaghettis al pesto con queso importado", "price": 1500.00},
+                {"name": "espaghettis frutti di mare", "price": 3200.00},
+                {"name": "hamburguesa especial", "price": 1400.00},
+                {"name": "sandwich cubano", "price": 2000.00},
+                {"name": "baguette de jamon y queso gouda", "price": 1000.00},
+                {"name": "baguette de atun y anillas de cebolla", "price": 1400.00},
+                {"name": "baguette de jamon serrano y queso gouda", "price": 1800.00},
+                {"name": "pan con bistec", "price": 1600.00},
+                {"name": "hamburguesa de pollo", "price": 350.00},
+                {"name": "hamburguesa de res", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "arroz blanco", "price": 150.00},
+                {"name": "arroz moros y cristianos", "price": 300.00},
+                {"name": "arroz pilaf", "price": 300.00},
+                {"name": "vianda frita", "price": 250.00},
+                {"name": "yuca con mojo criollo", "price": 300.00},
+                {"name": "tamal en cazuela", "price": 300.00},
+                {"name": "tostones al ajo estilo oriental", "price": 300.00},
+                {"name": "ensalada de vegetales frescos", "price": 400.00},
+                {"name": "papas fritas", "price": 600.00},
+                {"name": "pure de malanga", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "tres gracias", "price": 450.00},
+                {"name": "cake", "price": 400.00},
+                {"name": "copa lolita", "price": 450.00},
+                {"name": "tarta", "price": 400.00},
+                {"name": "flan", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "cafe carajillo", "price": 350.00},
+                {"name": "cappuccino", "price": 600.00},
+                {"name": "cafe bombon", "price": 600.00},
+                {"name": "express jager", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "batido de mamey / guayaba / frutabomba", "price": 400.00},
+                {"name": "suero de helado", "price": 900.00},
+                {"name": "malteada", "price": 550.00},
+                {"name": "agua natural", "price": 150.00},
+                {"name": "jugo en conserva", "price": 250.00},
+                {"name": "jugo de fruta", "price": 250.00},
+                {"name": "refrescos", "price": 250.00},
+                {"name": "refresco pepsi / 7up / fanta / coca cola", "price": 300.00},
+                {"name": "malta bucanero", "price": 350.00},
+                {"name": "malta holandia", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cerveza cristal", "price": 350.00},
+                {"name": "termo de cerveza cristal", "price": 2450.00},
+                {"name": "cerveza importada", "price": 300.00},
+                {"name": "termo de cerveza importada", "price": 2100.00},
+                {"name": "cerveza heineken", "price": 550.00},
+                {"name": "termo de cerveza heineken", "price": 3850.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "michelada", "price": 400.00},
+                {"name": "chelada", "price": 300.00},
+                {"name": "kermato", "price": 600.00},
+                {"name": "energizantes", "price": 300.00},
+                {"name": "red bull", "price": 350.00},
+                {"name": "cerveza dispensada", "price": 350.00},
+                {"name": "termo de dispensada", "price": 1750.00},
+                {"name": "caipirinha", "price": 650.00},
+                {"name": "caipiroska", "price": 650.00},
+                {"name": "screwdriver", "price": 600.00},
+                {"name": "jagerinha", "price": 650.00},
+                {"name": "jager mule", "price": 650.00},
+                {"name": "sex on the beach", "price": 600.00},
+                {"name": "tequila sunrise", "price": 650.00},
+                {"name": "gin & tonic", "price": 1000.00},
+                {"name": "bloody mary", "price": 650.00},
+                {"name": "margarita", "price": 650.00},
+                {"name": "sangria", "price": 700.00},
+                {"name": "black russian", "price": 600.00},
+                {"name": "white russian", "price": 650.00},
+                {"name": "alexander", "price": 650.00},
+                {"name": "mary pickfrod", "price": 550.00},
+                {"name": "pina colada", "price": 650.00},
+                {"name": "cubanito", "price": 650.00},
+                {"name": "coctel la fela", "price": 600.00},
+                {"name": "coctel buena fe", "price": 600.00},
+                {"name": "mojito la fela", "price": 600.00},
+                {"name": "daiquiri", "price": 500.00},
+                {"name": "ron expresso", "price": 350.00},
+                {"name": "irish coffee", "price": 550.00},
+                {"name": "expresso martini", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

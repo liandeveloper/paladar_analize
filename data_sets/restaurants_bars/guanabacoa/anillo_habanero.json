@@ -1,0 +1,131 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "Anillo Habanero",
+    "address": {
+        "city": "La Habana",
+        "town": "Guanabacoa",
+        "street": "Primer Anillo de La Habana",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "whatsapp": "Whatsapp",
+        "web": "",
+        "telephone": "52042710"
+    },
+    "schedule": {
+        "monday": "1000-2300",
+        "tuesday": "1000-2300",
+        "wednesday": "1000-2300",
+        "thursday": "1000-2300",
+        "friday": "1000-2300",
+        "saturday": "1000-2300",
+        "sunday": "1000-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla", "pizzas", "cócteles", "pastas"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Picadera Anillo", "price": 3000.00},
+                {"name": "Tacos de vegetales", "price": 600.00},
+                {"name": "Croquetas Habaneras", "price": 400.00},
+                {"name": "Nachos, Salsa Rosa y Guacamole", "price": 400.00},
+                {"name": "Brochetas", "price": 1300.00},
+                {"name": "Cóctel de camarones", "price": 2000.00},
+                {"name": "Frituras", "price": 300.00},
+                {"name": "Tostones rellenos", "price": 550.00},
+                {"name": "Tacos de Pollo", "price": 800.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Lomo ahumado", "price": 2000.00},
+                {"name": "Chuletas de cerdo", "price": 3000.00},
+                {"name": "Ropa vieja", "price": 3000.00},
+                {"name": "Vaca Frita", "price": 3000.00},
+                {"name": "Camarones enchilados", "price": 3500.00},
+                {"name": "Camarones al ajillo", "price": 3500.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Tarta de Vainilla", "price": 750.00},
+                {"name": "Cheesecake de Limón", "price": 750.00},
+                {"name": "Coctel de Frutas Importadas", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Energizantes Importados", "price": 500.00},
+                {"name": "Maltas Importadas", "price": 320.00},
+                {"name": "Pepsi Refresco gaseado", "price": 400.00},
+                {"name": "Jugos naturales", "price": 250.00},
+                {"name": "Agua natural", "price": 200.00},
+                {"name": "Kermato", "price": 700.00},
+                {"name": "Refrescos Importados", "price": 300.00},
+                {"name": "Expresso", "price": 100.00},
+                {"name": "Cortadito", "price": 200.00},
+                {"name": "Capuchino", "price": 250.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza Nacional", "price": 350.00},
+                {"name": "Cerveza importada", "price": 300.00},
+                {"name": "Trago Jonny Walker", "price": 500.00},
+                {"name": "William Lawsons", "price": 350.00},
+                {"name": "Lyubov Vodka", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Trago Jonny Walker", "price": 500.00},
+                {"name": "William Lawsons", "price": 350.00},
+                {"name": "Lyubov Vodka", "price": 200.00},
+                {"name": "Michelada", "price": 600.00},
+                {"name": "Margarita", "price": 800.00},
+                {"name": "Caipiroska", "price": 800.00},
+                {"name": "Cócteles Analcohólicos", "price": 500.00},
+                {"name": "Caipirisima", "price": 800.00},
+                {"name": "Vodka Tonic", "price": 900.00},
+                {"name": "Screwdriver", "price": 800.00},
+                {"name": "Gin Tonic", "price": 900.00},
+                {"name": "Agua Marina", "price": 800.00},
+                {"name": "Cancha", "price": 800.00},
+                {"name": "Tinto de Verano", "price": 800.00},
+                {"name": "Limonada Frappé", "price": 250.00},
+                {"name": "Daiquirí", "price": 800.00},
+                {"name": "Chelada", "price": 450.00},
+                {"name": "Piña Colada", "price": 1000.00},
+                {"name": "Sangría", "price": 1000.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

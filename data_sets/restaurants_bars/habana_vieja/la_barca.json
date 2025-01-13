@@ -1,0 +1,177 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "La Barca",
+    "address": {
+        "city": "la habana",
+        "town": "La Habana del Este",
+        "street": "4MR2+2M8 La barca, La Habana",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": " ",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "1200-0000",
+        "tuesday": "1200-0000",
+        "wednesday": "1200-0000",
+        "thursday": "1200-0000",
+        "friday": "1200-0000",
+        "saturday": "1200-0000",
+        "sunday": "1200-0000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Cesta de Panes de la Casa", "price": 300.00},
+                {"name": "Ensalada Fria de Pollo", "price": 450.00},
+                {"name": "Ensaladilla de Atun", "price": 500.00},
+                {"name": "Brosquettas", "price": 800.00},
+                {"name": "Fritura de Malanga", "price": 600.00},
+                {"name": "Croqueticas de la Casa", "price": 750.00},
+                {"name": "Fajitas de Pechuga", "price": 450.00},
+                {"name": "Surtido La Barca", "price": 3500.00},
+                {"name": "Tostones Rellenos de Jamon y Queso", "price": 450.00},
+                {"name": "Tostones Rellenos de Atun", "price": 500.00},
+                {"name": "Tabla de Jamon Serrano", "price": 2000.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Entrecot de Res", "price": 2000.00},
+                {"name": "Filete Miñon", "price": 2500.00},
+                {"name": "Filete Chateaubriand", "price": 3500.00},
+                {"name": "Brocheta Campesina", "price": 1500.00},
+                {"name": "Brocheta de Solomillo y Bacon", "price": 1500.00},
+                {"name": "Lonjas de Cerdo", "price": 1800.00},
+                {"name": "Solomillo de Cerdo", "price": 2500.00},
+                {"name": "Pollo Asado", "price": 1000.00},
+                {"name": "Timbal de Ropa Vieja", "price": 1500.00},
+                {"name": "Masas de Cerdo Cubanas", "price": 2000.00},
+                {"name": "Filete de Pescado Grille", "price": 2000.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz Blanco", "price": 500.00},
+                {"name": "Moros y Cristianos", "price": 600.00},
+                {"name": "Arroz Pilaf", "price": 600.00},
+                {"name": "Ajiaco a la Criolla", "price": 500.00},
+                {"name": "Frijoles Negros Dormidos", "price": 600.00},
+                {"name": "Potaje de Garbanzos", "price": 1200.00},
+                {"name": "Ensalada de Estacion", "price": 600.00},
+                {"name": "Vianda Frita", "price": 500.00},
+                {"name": "Vianda Hervida", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Copa de Helado", "price": 500.00},
+                {"name": "Arroz con Leche de la Abuela", "price": 600.00},
+                {"name": "Flan Caramelizado", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Espresso", "price": 95.00},
+                {"name": "Capuchino", "price": 140.00},
+                {"name": "Cortadito", "price": 100.00},
+                {"name": "Bombon", "price": 120.00},
+                {"name": "Americano", "price": 95.00},
+                {"name": "Canelado", "price": 100.00},
+                {"name": "Rocio de Gallo", "price": 130.00},
+                {"name": "Irlandes", "price": 190.00},
+                {"name": "Mama Ines", "price": 150.00},
+                {"name": "Al Licor", "price": 100.00},
+                {"name": "Mazagran", "price": 160.00},
+                {"name": "Carajillo", "price": 150.00},
+                {"name": "Con Vodka", "price": 200.00},
+                {"name": "Mexicano", "price": 150.00},
+                {"name": "Cohiba Habanero", "price": 125.00}
+            ]
+        },
+        {
+            "categorie": "berverages",
+            "items": [
+                {"name": "Cerveza Nacional", "price": 200},
+                {"name": "Cerveza Importada", "price": 250},
+                {"name": "Refresco Nacional", "price": 90},
+                {"name": "Refresco Importado", "price": 100},
+                {"name": "Malta Importada", "price": 170},
+                {"name": "Jugo Importado", "price": 100},
+                {"name": "Jugo Natural", "price": 200},
+                {"name": "Agua Natural", "price": 150},
+                {"name": "Copa de Vino de la Casa", "price": 450}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "Vermouth Yzaguirre Rosado", "price": 400.00},
+                {"name": "Vermouth Rosso Totino", "price": 150.00},
+                {"name": "Vermouth Blanco Cinsano", "price": 180.00},
+                {"name": "Vermouth Ross Cinsano", "price": 180.00},
+                {"name": "Vermouth Dry Cinsano", "price": 180.00},
+                {"name": "Vermouth de Jerez La Copa", "price": 250.00},
+                {"name": "Vermouth Yzaguirre Blanco", "price": 150.00},
+                {"name": "Vermouth Yzaguirre Tinto", "price": 150.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "Ron Havana Club Añejo Blanco", "price": 190.00},
+                {"name": "Ron Havana Club Pacto Navio", "price": 175.00},
+                {"name": "Ron Havana Cuban Spice", "price": 235.00},
+                {"name": "Ron Havana Club Edicicion Prof A", "price": 200.00},
+                {"name": "Ron Havana Club Edicicion Prof C", "price": 135.00},
+                {"name": "Ron Havana Club Union", "price": 3500.00},
+                {"name": "Ron Havana Club Smoki", "price": 280.00},
+                {"name": "Ron Isla del Tesoro", "price": 3000.00},
+                {"name": "Ron Havana Club Añejo Reserva", "price": 220.00},
+                {"name": "Ron Havana Club Profundo", "price": 200.00},
+                {"name": "Ron Havana Club Ritual", "price": 180.00},
+                {"name": "Ron Havana Club Añejo 3 Años", "price": 150.00},
+                {"name": "Ron Havana Club Añejo 7 Años", "price": 260.00},
+                {"name": "Ron Havana Club Añejo Especial Oro", "price": 150.00},
+                {"name": "Ron Havana Club Gran Reserva 15 Años", "price": 900.00},
+                {"name": "Ron Havana Club Seleccion de Maestro", "price": 395.00},
+                {"name": "Ron Havana Club Tributo", "price": 2500.00},
+                {"name": "Ron Varadero 3 Años", "price": 120.00},
+                {"name": "Ron Varadero 5 Años", "price": 130.00},
+                {"name": "Ron Varadero 7 Años", "price": 180.00},
+                {"name": "Ron Santero 15 Años", "price": 500.00},
+                {"name": "Ron Vigia Tears Dorado", "price": 180.00},
+                {"name": "Ron Vigia Black Tears Super Dry", "price": 180.00},
+                {"name": "Ron Vigia Black Tears Aguardiente", "price": 200.00},
+                {"name": "Legendario Añejo Blanco", "price": 250.00},
+                {"name": "Legendario Rouse", "price": 220.00}
+            ]
+        }
+    ]
+}

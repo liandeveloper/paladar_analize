@@ -1,0 +1,105 @@
+{
+    "establishment": ["cafeteria"],
+    "name": "crispy chicken",
+    "address": {
+        "city": "la habana",
+        "town": "vibora",
+        "street": "avenida de acosta y juan delgado, vibora, diez de octubre",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "@crispy.chiken.monaco",
+        "whatsapp": "63182745",
+        "web": "elyarromenu.com/b/crispy-chiken",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1100-2400",
+        "tuesday": "1100-2400",
+        "wednesday": "1100-2400",
+        "thursday": "1100-2400",
+        "friday": "1100-2400",
+        "saturday": "1100-2400",
+        "sunday": "1100-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["comida rapida"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "mini hot dog", "price": 300.00},
+                {"name": "flamenquin", "price": 1000.00},
+                {"name": "san jacobo", "price": 1000.00},
+                {"name": "tostones rellenos", "price": 800.00},
+                {"name": "entremés de jamón y queso", "price": 2000.00},
+                {"name": "picadera de la casa", "price": 3000.00},
+                {"name": "chips de boniato", "price": 700.00},
+                {"name": "croquetas", "price": 1000.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pollo frito", "price": 1300.00},
+                {"name": "pollo chiflado", "price": 1600.00},
+                {"name": "pollo chiflado (sin hueso)", "price": 1800.00},
+                {"name": "pollo relleno (jamón y queso)", "price": 2000.00},
+                {"name": "nuggets de pollo", "price": 1000.00},
+                {"name": "sandwich de pollo", "price": 900.00},
+                {"name": "mini hot dogs", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "batido de helado", "price": 1000.00},
+                {"name": "malteada", "price": 900.00},
+                {"name": "jugo natural", "price": 400.00},
+                {"name": "vaca negra", "price": 800.00},
+                {"name": "cubetazo de cervezas", "price": 2400.00},
+                {"name": "cubetazo de cervezas cristal", "price": 3100.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

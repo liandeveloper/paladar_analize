@@ -1,0 +1,226 @@
+{
+  "establishment": ["bar"],
+  "name": "altahabana_club",
+  "address": {
+      "city": "boyeros",
+      "town": "altahabana",
+      "street": "Calle D #9712 esq 10, Alta Habana",
+      "coordinates": {
+          "latitude": 23.06484053199026,
+          "longitude": -82.39721539147665
+      }
+  },
+  "contacto": {
+      "facebook": "https://www.facebook.com/profile.php?id=100064025082729",
+      "instagram": null,
+      "whatsapp": null,
+      "web": null,
+      "telephone": "+5355150025"
+  },
+  "schedule": {
+      "monday": "1400-0200",
+      "tuesday": "1400-0200",
+      "wednesday": "1400-0200",
+      "thursday": "1400-0200",
+      "friday": "1400-0200",
+      "saturday": "1400-0200",
+      "sunday": "1400-0200"
+  },
+  "services": {
+      "delivery": false,
+      "to_take": false
+  },
+  "payment": {
+      "cash": true,
+      "transfer": false,
+      "credit_card": false
+  },
+  "specialties": ["internacional", "cocteleria"],
+  "menu": [
+      {
+          "categorie": "starter",
+          "items": [
+              {"name": "frituras de malanga", "price": 400},
+              {"name": "papas fritas", "price": 550},
+              {"name": "croquetas de pollo", "price": 550},
+              {"name": "bolitas de queso", "price": 650},
+              {"name": "alitas de pollo", "price": 750},
+              {"name": "entremés de (jamón, queso, aceituna y chorizo)", "price": 950},
+              {"name": "fajitas de pollo", "price": 950},
+              {"name": "eperlan de pescado", "price": 1150},
+              {"name": "cóctel de camarón", "price": 1450},
+              {"name": "tabla chorizos parrillero", "price": 1800},
+              {"name": "picadera altahabana (jamón vicky y serrano, queso, aceituna, chorizo, croquetas, bolitas de queso, frituras de malanga)", "price": 3500}
+          ]
+      },
+      {
+          "categorie": "main course",
+          "items": [
+              {"name": "pollo asado", "price": 1300},
+              {"name": "pollo frito pío pío", "price": 1350},
+              {"name": "pollo grille", "price": 1400},
+              {"name": "pollo a la gordon blue", "price": 1750},
+              {"name": "masas de cerdo frita", "price": 1350},
+              {"name": "bistec de cerdo", "price": 1400},
+              {"name": "bistec uruguayo", "price": 1750},
+              {"name": "vaca frita", "price": 1300},
+              {"name": "ropa vieja", "price": 1350},
+              {"name": "bistec de res", "price": 1600},
+              {"name": "filete de pescado grillet", "price": 1550},
+              {"name": "filete de pescado empanado", "price": 1600},
+              {"name": "filete canciller", "price": 1800},
+              {"name": "camarón enchilado", "price": 1650},
+              {"name": "camarón ajillo", "price": 1750},
+              {"name": "camarón empanado", "price": 1800},
+              {"name": "pizza napolitana", "price": 950},
+              {"name": "pizza pimiento", "price": 1000},
+              {"name": "pizza cebolla", "price": 1000},
+              {"name": "pizza jamón", "price": 1150},
+              {"name": "pizza bacón", "price": 1150},
+              {"name": "pizza chorizo", "price": 1150},
+              {"name": "pizza hawaiana", "price": 1250},
+              {"name": "pizza de atún", "price": 1200},
+              {"name": "pizza camarón", "price": 1300},
+              {"name": "pizza de pepperoni", "price": 1500},
+              {"name": "pizza altahabana (bacón, jamón, chorizo, queso blanco, gouda, jamón pierna)", "price": 1500},
+              { "name": "media noche", "price": 700.00},
+              { "name": "sandwich de jamón y queso", "price": 800.00},
+              { "name": "sandwich altahabana (jamón, queso blanco y gouda, chorizo, jamón pierna)", "price": 1350.00},
+              { "name": "hamburguesa clásica", "price": 900.00},
+              { "name": "hamburguesa c/ queso", "price": 980.00},
+              { "name": "hamburguesa c/ jamón", "price": 1080.00},
+              { "name": "hamburguesa c/ bacón", "price": 1080.00},
+              { "name": "hamburguesa altahabana (chorizo, jamón vicky, queso, jamón pierna)", "price": 1500.00},
+              { "name": "espaguetis napolitano", "price": 900.00},
+              { "name": "espaguetis jamón", "price": 950.00},
+              { "name": "espaguetis chorizo", "price": 1150.00},
+              { "name": "espaguetis de bacón", "price": 1200.00},
+              { "name": "espaguetis boloñesa", "price": 1250.00}
+          ]
+      },
+      {
+          "categorie": "sides",
+          "items": [
+              {"name": "arroz blanco", "price": 250},
+              {"name": "arroz moro", "price": 350},
+              {"name": "vianda frita", "price": 400},
+              {"name": "ensalada de vegetales", "price": 500}
+          ]
+      },
+      {
+          "categorie": "desserts",
+          "items": [
+              {"name": "copa de helado", "price": 500},
+              {"name": "suero de helado", "price": 750}
+          ]
+      },
+      {
+          "categorie": "coffee",
+          "items": [
+              {"name": "café americano", "price": 150},
+              {"name": "café expreso", "price": 250},
+              {"name": "café cortado", "price": 300},
+              {"name": "café capuccino", "price": 400},
+              {"name": "café con leche", "price": 450},
+              {"name": "café bombón", "price": 550},
+              {"name": "café frappuccino", "price": 600}
+          ]
+      },
+      {
+          "categorie": "beverages",
+          "items": [
+            { "name": "limonada natural", "price": 500.00},
+            { "name": "limonada frappé", "price": 520.00},
+            { "name": "limonada frescura", "price": 540.00},
+            { "name": "café americano", "price": 150.00},
+            { "name": "café expreso", "price": 250.00},
+            { "name": "café cortado", "price": 300.00},
+            { "name": "café capuccino", "price": 400.00},
+            { "name": "café con leche", "price": 450.00},
+            { "name": "café bombón", "price": 550.00},
+            { "name": "café frappuccino", "price": 600.00},
+            { "name": "agua natural (500ml)", "price": 200.00},
+            { "name": "agua tonica", "price": 250.00},
+            { "name": "jugos de caja", "price": 300.00},
+            { "name": "malta", "price": 380.00},
+            { "name": "malteada", "price": 500.00},
+            { "name": "refrescos nacionales", "price": 300.00},
+            { "name": "refrescos importados", "price": 350.00},
+            { "name": "refresco nacional (1.5 litros)", "price": 550.00},
+            { "name": "energizantes", "price": 350.00},
+            { "name": "red bull", "price": 550.00}
+          ]
+      },
+      {
+          "categorie": "beers",
+          "items": [
+            { "name": "cerveza nacional (lata)", "price": 450.00},
+            { "name": "cerveza nacional (botella)", "price": 500.00},
+            { "name": "cerveza importada", "price": 400.00},
+            { "name": "cerveza corona", "price": 600.00},
+            { "name": "cerveza heineken", "price": 550.00}
+          ]
+      },
+      {
+          "categorie": "cocktails",
+          "items": [
+            { "name": "mojito", "price": 550.00},
+            { "name": "mojito frappe", "price": 580.00},
+            { "name": "daiquiri", "price": 500.00},
+            { "name": "daiquiri saborizado", "price": 520.00},
+            { "name": "canchánchara", "price": 550.00},
+            { "name": "piña colada", "price": 600.00},
+            { "name": "cubata 7 años", "price": 650.00},
+            { "name": "screw driver", "price": 480.00},
+            { "name": "blue lagoon", "price": 500.00},
+            { "name": "caipiroska", "price": 550.00},
+            { "name": "caipiriña", "price": 600.00},
+            { "name": "vodka tonic", "price": 600.00},
+            { "name": "tinto de verano", "price": 460.00},
+            { "name": "sangría", "price": 500.00},
+            { "name": "gin tonic", "price": 550.00},
+            { "name": "margarita", "price": 750.00},
+            { "name": "servicio de chelada", "price": 200.00},
+            { "name": "servicio de michelada", "price": 280.00}
+          ]
+      },
+      {
+          "categorie": "vines",
+          "items": [
+            { "name": "vino (tinto, blanco o rosado)", "price": 850.00}
+          ]
+      },
+      {
+          "categorie": "ron",
+          "items": [
+            { "name": "vodka de la casa", "price": 250.00},
+            { "name": "vodka absolut", "price": 1000.00},
+            { "name": "havana club añejo 3 años", "price": 420.00},
+            { "name": "havana club añejo 7 años", "price": 700.00},
+            { "name": "havana club añejo especial", "price": 530.00},
+            { "name": "havana club reserva", "price": 560.00},
+            { "name": "havana club ritual", "price": 600.00},
+            { "name": "santiago 8 años", "price": 850.00},
+            { "name": "santiago 11 años", "price": 1000.00},
+            { "name": "santiago 12 años", "price": 1200.00},
+            { "name": "selección de maestro", "price": 1300.00},
+            { "name": "pacto navío", "price": 1300.00},
+            { "name": "baileys", "price": 1300.00},
+            { "name": "buchanan's 12", "price": 1600.00},
+            { "name": "whisky glenlivet", "price": 1750.00},
+            { "name": "ballantine", "price": 850.00},
+            { "name": "ballantine 12", "price": 1050.00},
+            { "name": "johnnie walker red label", "price": 1000.00},
+            { "name": "johnnie walker black label", "price": 1700.00},
+            { "name": "olmeca blanco", "price": 990.00},
+            { "name": "josé cuervo especial", "price": 1200.00},
+            { "name": "josé cuervo reposado", "price": 1300.00},
+            { "name": "josé cuervo tradicional driver", "price": 1350.00},
+            { "name": "tequila patron driver", "price": 2000.00},
+            { "name": "tequila 1800", "price": 2500.00},
+            { "name": "don julio 70", "price": 4000.00},
+            { "name": "licor 43", "price": 650.00}
+          ]
+      }
+  ]
+}

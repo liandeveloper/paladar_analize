@@ -1,0 +1,171 @@
+{
+  "establishment": ["restaurante", "bar"],
+  "name": "dominica like",
+  "address": {
+    "city": "santiago de las vegas",
+    "town": "boyeros",
+    "street": "Calle 11 entre 6 y 8. Santiago de las Vegas, Rancho Boyeros",
+    "coordinates": {
+      "latitude": 22.97060136616686,
+      "longitude": -82.38913740497198
+    }
+  },
+  "contacto": {
+    "facebook": null,
+    "instagram": "https://www.instagram.com/dominica_like_oficial/",
+    "whatsapp": "https://chat.whatsapp.com/DSGUnhzatBwB9Wb6iLmCiN",
+    "web": "https://linktr.ee/DominicaLikeRestaurante",
+    "telephone": null
+  },
+  "schedule": {
+    "monday": "1200-2400",
+    "tuesday": "1200-2400",
+    "wednesday": "1200-2400",
+    "thursday": "1200-2400",
+    "friday": "1200-2400",
+    "saturday": "1200-2400",
+    "sunday": "1200-2400"
+  },
+  "services": {
+    "delivery": true,
+    "to_take": null
+  },
+  "payment": {
+    "cash": true,
+    "transfer": true,
+    "credit_card": null
+  },
+  "specialties": ["internacional", "italiana"],
+  "menu": [
+    {
+      "categorie": "starter",
+      "items": [
+        {"name": "coctel de camarones", "price": 1100.00},
+        {"name": "papas fritas", "price": 450.00},
+        {"name": "tostones rellenos (jamón y queso)", "price": 550.00},
+        {"name": "croquetas de la casa (pollo o pescado)", "price": 500.00},
+        {"name": "frituras de malanga", "price": 450.00},
+        {"name": "ensalada fria", "price": 650.00},
+        {"name": "crema de queso", "price": 600.00},
+        {"name": "crema virginia", "price": 600.00},
+        {"name": "crema aurora", "price": 500.00},
+        {"name": "crema reina (pollo)", "price": 500.00},
+        {"name": "entremes de jamón, queso y aceitunas", "price": 800.00}
+      ]
+    },
+    {
+      "categorie": "main course",
+      "items": [
+        {"name": "ternera al vino", "price": 1900.00},
+        {"name": "bastones de pechuga de pollo empanados", "price": 1500.00},
+        {"name": "lomo ahumado con salsa de frutas", "price": 1200.00},
+        {"name": "enchilado de cangrejo", "price": 1200.00},
+        {"name": "bistec de cerdo grille encebollado", "price": 1400.00},
+        {"name": "bistec uruguayo", "price": 1800.00},
+        {"name": "filete de pescado grille", "price": 1600.00},
+        {"name": "filete de pescado canciller", "price": 1800.00},
+        {"name": "ropa vieja", "price": 1600.00},
+        {"name": "vaca frita", "price": 1600.00},
+        {"name": "cordon blue de pechuga de pollo", "price": 1700.00},
+        {"name": "pechuga a la piña", "price": 1400.00},
+        {"name": "bistec de pechuga grille", "price": 1400.00},
+        {"name": "pizza napolitana", "price": 1000.00},
+        {"name": "pizza hawaiana", "price": 1300.00},
+        {"name": "pizza dominica", "price": 1650.00},
+        {"name": "lasaña", "price": 1100.00},
+        {"name": "espaguetis napolitana", "price": 950.00},
+        {"name": "espaguetis a la crema con bacon", "price": 1100.00}
+      ]
+    },
+    {
+      "categorie": "sides",
+      "items": [
+        {"name": "arroz moro", "price": 300.00},
+        {"name": "arroz blanco", "price": 200.00},
+        {"name": "ensalada de vegetales mixto de la estación", "price": 300.00},
+        {"name": "platanito maduro frito", "price": 250.00},
+        {"name": "tostones al ajillo", "price": 250.00}
+      ]
+    },
+    {
+      "categorie": "desserts",
+      "items": [
+        {"name": "copa de helado", "price": 400.00},
+        {"name": "tarta de chocolate con helado", "price": 400.00}
+      ]
+    },
+    {
+      "categorie": "coffee",
+      "items": [
+        {"name": "café expreso", "price": 120.00},
+        {"name": "café cortado", "price": 150.00},
+        {"name": "café capuchino", "price": 200.00},
+        {"name": "café frapuchino", "price": 450.00},
+        {"name": "café bombón", "price": 400.00}
+      ]
+    },
+    {
+      "categorie": "beverages",
+      "items": [
+        {"name": "jugos naturales de frutas", "price": 180.00},
+        {"name": "limonada natural", "price": 400.00},
+        {"name": "limonada frape", "price": 400.00},
+        {"name": "limonada frescura", "price": 450.00},
+        {"name": "batidos de helado", "price": 600.00},
+        {"name": "servicio de malteada", "price": 200.00},
+        {"name": "refresco cola", "price": 250.00},
+        {"name": "refresco naranja", "price": 250.00},
+        {"name": "refresco limon", "price": 250.00},
+        {"name": "refresco 7 up", "price": 280.00},
+        {"name": "malta bucañero", "price": 350.00},
+        {"name": "energizante", "price": 280.00},
+        {"name": "agua natural importada", "price": 200.00},
+        {"name": "agua gaseada carci crespq", "price": 300.00}
+      ]
+    },
+    {
+      "categorie": "beers",
+      "items": [
+        {"name": "cerveza heineken", "price": 450.00},
+        {"name": "cerveza nacional", "price": 350.00},
+        {"name": "cerveza importada", "price": 280.00}
+      ]
+    },
+    {
+      "categorie": "cocktails",
+      "items": [
+        {"name": "mojito", "price": 600.00},
+        {"name": "cubanito", "price": 800.00},
+        {"name": "cuba libre", "price": 600.00},
+        {"name": "daiquiri", "price": 700.00},
+        {"name": "daiquiri de frutas", "price": 750.00},
+        {"name": "margarita", "price": 900.00},
+        {"name": "margarita blue", "price": 950.00},
+        {"name": "piña colada", "price": 850.00},
+        {"name": "bloody mary", "price": 750.00}
+      ]
+    },
+    {
+      "categorie": "vines",
+      "items": [
+        {"name": "copa de vino tinto", "price": 500.00},
+        {"name": "copa de vino blanco", "price": 500.00}
+      ]
+    },
+    {
+      "categorie": "ron",
+      "items": [
+        {"name": "habana club profundo", "price": 400.00},
+        {"name": "habana club cuban spiced", "price": 450.00},
+        {"name": "habana club smoky", "price": 500.00},
+        {"name": "habana club 7 años", "price": 400.00},
+        {"name": "habana club seleccion de maestros", "price": 950.00},
+        {"name": "santiago de cuba 8 años", "price": 400.00},
+        {"name": "santiago de cuba 11 años", "price": 700.00},
+        {"name": "santiago de cuba 12 años", "price": 800.00},
+        {"name": "don julio reposado", "price": 1500.00},
+        {"name": "jack daniels", "price": 1500.00}
+      ]
+    }
+  ]
+}

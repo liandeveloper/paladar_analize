@@ -1,0 +1,198 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "El Kilometro Zero",
+    "address": {
+        "city": "La Habana",
+        "town": "La Habana Vieja",
+        "street": "Monserrate#437 Esq Teniente Rey, La Habana 10900 Cuba",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Restaurant_Review-g147271-d19481337-Reviews-Kilometro_Zero-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwiQorSl1JiKAxVmSDABHYMDMloQFnoECBsQAQ&usg=AOvVaw0HkAEcOKDNVqPvJAKng7Ii",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0800-0200",
+        "tuesday": "0800-0200",
+        "wednesday": "0800-0200",
+        "thursday": "0800-0200",
+        "friday": "0800-0200",
+        "saturday": "0800-0200",
+        "sunday": "0800-0200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Criolla", "Ropa Vieja"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Cesta de Pan", "price": 850},
+                {"name": "Croquetas de la Casa", "price": 1140},
+                {"name": "Tamal Cubano", "price": 2080},
+                {"name": "Tacos de la Casa", "price": 1795},
+                {"name": "Quesadilla de Vaca Frita", "price": 1760},
+                {"name": "Fajitas de Pollo al Estilo KM ZERO", "price": 2170},
+                {"name": "Carpaccio de Res", "price": 3000},
+                {"name": "Carpaccio de Pescado", "price": 2300},
+                {"name": "Eperlan", "price": 2250},
+                {"name": "Ceviche", "price": 2225}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Pollo Moreno", "price": 2865},
+                {"name": "Vaca Frita", "price": 2940},
+                {"name": "Ropa Vieja", "price": 2970},
+                {"name": "Lonjas de Cerdo", "price": 3040},
+                {"name": "Masas de Cerdo", "price": 3075},
+                {"name": "Pesca del Dia", "price": 4480},
+                {"name": "Pescado en Costra", "price": 4995},
+                {"name": "Camarones al Gusto", "price": 5250}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz", "price": 580},
+                {"name": "Frijoles", "price": 620},
+                {"name": "Vianda Frita", "price": 640},
+                {"name": "Papas Fritas", "price": 1280}
+            ]
+        },
+        {
+            "categorie": "salads",
+            "items": [
+                {"name": "Ensalada Organica", "price": 995},
+                {"name": "Ensalada Coronada con Atun", "price": 1760}
+            ]
+        },
+        {
+            "categorie": "to share",
+            "items": [
+                {"name": "Pica Pica Boom", "price": 3200}
+            ]
+        },
+        {
+            "categorie": "specials",
+            "items": [
+                {"name": "Pescado Entero al Josper", "price": 8370},
+                {"name": "Caldereta de Mariscos", "price": 9800},
+                {"name": "Langosta KM ZERO", "price": 6650},
+                {"name": "Ribeye al Josper", "price": 6000},
+                {"name": "Arroz a la Cubana", "price": 2880}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Tarta de Limon", "price": 1960},
+                {"name": "Tarta de Chocolate", "price": 1650},
+                {"name": "Postre Casero", "price": 960}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Espresso", "price": 480},
+                {"name": "Americano", "price": 515},
+                {"name": "Cortado", "price": 550},
+                {"name": "Macchiato", "price": 550},
+                {"name": "Cafe con Leche", "price": 620},
+                {"name": "Cappuccino", "price": 655},
+                {"name": "Cafe Bombon", "price": 725},
+                {"name": "Frappuccino", "price": 1120},
+                {"name": "Havana Quemado", "price": 1760}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Agua Natural", "price": 495},
+                {"name": "Agua con Gas Mondariz", "price": 1300},
+                {"name": "Agua Tonica Importada", "price": 960},
+                {"name": "Refrescos Importados", "price": 675},
+                {"name": "Malta Bucanero", "price": 750},
+                {"name": "Jugos Naturales", "price": 790},
+                {"name": "Limonada Frescura", "price": 960},
+                {"name": "Energizante", "price": 900}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cristal de Botella", "price": 840},
+                {"name": "Bucanero de Botella", "price": 840},
+                {"name": "Servicio Chelada", "price": 310},
+                {"name": "Servicio Michelada", "price": 465}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Idea 43", "price": 2325},
+                {"name": "Pacto Zero", "price": 2760},
+                {"name": "Sex on KM", "price": 2015},
+                {"name": "Aperol Gin", "price": 2015},
+                {"name": "Mojito Capitolio", "price": 1705},
+                {"name": "Canchanchara KMZ", "price": 1860},
+                {"name": "Santiago Dark", "price": 1860},
+                {"name": "El Tropical", "price": 1785},
+                {"name": "Cuban Flavor", "price": 1860},
+                {"name": "Piña Colada Tentacion", "price": 1950},
+                {"name": "Gin Tonic Afrodisiaco", "price": 1950},
+                {"name": "Mezcalita Chica Mala", "price": 2995},
+                {"name": "Daiquiri", "price": 1085},
+                {"name": "Mojito", "price": 1085},
+                {"name": "Cuba Libre", "price": 1250},
+                {"name": "Canchanchara", "price": 1085},
+                {"name": "Cuban Manhatan", "price": 1705},
+                {"name": "Los Calpis", "price": 1250},
+                {"name": "Moscow Mule", "price": 2015},
+                {"name": "Espresso Martini", "price": 1705},
+                {"name": "Bloody Mary XL", "price": 2945},
+                {"name": "Screwdriver", "price": 1250},
+                {"name": "Vodka Tonic", "price": 1860},
+                {"name": "Gin Tonic", "price": 1860},
+                {"name": "Martini", "price": 1705},
+                {"name": "Negroni", "price": 1860},
+                {"name": "Margarita", "price": 1395},
+                {"name": "Long Island", "price": 1860},
+                {"name": "Amaretto Sour", "price": 1705},
+                {"name": "Whisky Sour", "price": 1860},
+                {"name": "Aperol Spritz", "price": 1860},
+                {"name": "Sangria", "price": 1550},
+                {"name": "Mimosa", "price": 1800}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "Tinto Verano", "price": 1800}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "Havana Special", "price": 1085},
+                {"name": "Cubanito", "price": 1250},
+                {"name": "Ron Fashioned", "price": 1705},
+                {"name": "Tequila Sunrise", "price": 1550}
+            ]
+        }
+    ]
+}

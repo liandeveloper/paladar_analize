@@ -1,0 +1,94 @@
+{
+    "establishment": ["restaurante"],
+    "name": "El Escabeche",
+    "address": {
+        "city": "La Habana",
+        "town": "La Habana Vieja",
+        "street": "4JQV+4J7, La Habana",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": "https://g.co/kgs/J7C8Q11",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "1200-1900",
+        "tuesday": "1200-1900",
+        "wednesday": "1200-1900",
+        "thursday": "1200-1900",
+        "friday": "1200-1900",
+        "saturday": "1200-1900",
+        "sunday": "1200-1900"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Escabeche", "price": 450.00},
+                {"name": "Enchilado de Pescado", "price": 350.00},
+                {"name": "Enchilado de Camaron", "price": 490.00},
+                {"name": "Pollo Grille", "price": 430.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Ensalada Mixta", "price": 40.00},
+                {"name": "Arroz Blanco", "price": 50.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Cerveza Importada Lata", "price": 240.00},
+                {"name": "Refresco Importada Lata", "price": 220.00},
+                {"name": "Jugo de Frutas", "price": 220.00},
+                {"name": "Agua Natural", "price": 130.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

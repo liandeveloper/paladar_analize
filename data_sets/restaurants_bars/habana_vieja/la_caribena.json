@@ -1,0 +1,181 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "La Caribeña",
+    "address": {
+        "city": "La Habana",
+        "town": "La Habana Vieja",
+        "street": "408 Obispo, La Habana",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": "",
+        "instagram": "",
+        "whatsapp": "",
+        "web": "https://g.co/kgs/zjdSd3S",
+        "telephone": ""
+    },
+    "schedule": {
+        "monday": "0900-2300",
+        "tuesday": "0900-2300",
+        "wednesday": "0900-2300",
+        "thursday": "0900-2300",
+        "friday": "0900-2300",
+        "saturday": "0900-2300",
+        "sunday": "0900-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Criolla", "Grillada de Mar y Tierra"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Crema de Queso", "price": 800.00},
+                {"name": "Crema Aurora", "price": 900.00},
+                {"name": "Crema Virginia", "price": 950.00},
+                {"name": "Brusquetas de Jamon y Queso", "price": 750.00},
+                {"name": "Chicharrita Boniato", "price": 500.00},
+                {"name": "Chicharrita de Platano", "price": 500.00},
+                {"name": "Tostones Rellenos de Jamon", "price": 850.00},
+                {"name": "Tostones Rellenos de Atun", "price": 900.00},
+                {"name": "Croquetas de la Casa", "price": 600.00},
+                {"name": "Frituras de Malanga", "price": 600.00},
+                {"name": "Eperlan", "price": 2100.00},
+                {"name": "Coctel de Camarones", "price": 1500.00},
+                {"name": "Entremes de Jamon, Queso y Chorizo", "price": 2100.00},
+                {"name": "Picadera Caribeña", "price": 2600.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Pollo Grillet", "price": 1950.00},
+                {"name": "Brochetas de Pollo", "price": 2100.00},
+                {"name": "Pollo Gratinado", "price": 2300.00},
+                {"name": "Golden Blue", "price": 2300.00},
+                {"name": "Fajitas de Pollo", "price": 2100.00},
+                {"name": "Lonjas de Cerdo", "price": 2300.00},
+                {"name": "Lomo Ahumado", "price": 2300.00},
+                {"name": "Chuletas de Cerdo", "price": 2400.00},
+                {"name": "Fajitas de Cerdo", "price": 2250.00},
+                {"name": "Brochetas de Cerdo", "price": 2350.00},
+                {"name": "Ropa Vieja de Res", "price": 2250.00},
+                {"name": "Vaca Frita", "price": 2200.00},
+                {"name": "Estraccetti de Ternera", "price": 2800.00},
+                {"name": "Filete de Pescado Grille", "price": 2650.00},
+                {"name": "Canciller", "price": 2850.00},
+                {"name": "Filete de Pescado Gratinado", "price": 2850.00},
+                {"name": "Camarones al Gusto", "price": 2700.00},
+                {"name": "Langosta al Gusto", "price": 2700.00},
+                {"name": "Cazuela de Mariscos", "price": 4500.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz Blanco", "price": 200.00},
+                {"name": "Arroz Moro", "price": 250.00},
+                {"name": "Arroz Pilaf", "price": 500.00},
+                {"name": "Ensalada de Estacion", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Pie de Limon", "price": 700.00},
+                {"name": "Tres Leches", "price": 900.00},
+                {"name": "Copa de Helado", "price": 550.00},
+                {"name": "Cheesecake", "price": 850.00},
+                {"name": "Torta de Chocolate", "price": 900.00},
+                {"name": "Brownie", "price": 800.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Cafe Espresso", "price": 200.00},
+                {"name": "Cafe Cortadito", "price": 280.00},
+                {"name": "Capuchino", "price": 500.00},
+                {"name": "Frapuchino", "price": 600.00},
+                {"name": "Americano", "price": 270.00},
+                {"name": "Carajillo", "price": 600.00},
+                {"name": "Te", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Jugos Naturales", "price": 300.00},
+                {"name": "Batido de Frutas Naturales", "price": 420.00},
+                {"name": "Batido de Helado", "price": 750.00},
+                {"name": "Limonada Natural", "price": 250.00},
+                {"name": "Malteada", "price": 600.00},
+                {"name": "Agua Natural 500ml", "price": 200.00},
+                {"name": "Agua Natural 1500ml", "price": 300.00},
+                {"name": "Agua Importada", "price": 250.00},
+                {"name": "Agua Tonica", "price": 450.00},
+                {"name": "Agua Tonica Importada", "price": 500.00},
+                {"name": "Malta", "price": 450.00},
+                {"name": "Refresco Nacional", "price": 280.00},
+                {"name": "Refresco Importado", "price": 400.00},
+                {"name": "Cerveza Nacional", "price": 500.00},
+                {"name": "Cerveza Importada", "price": 400.00},
+                {"name": "Cerveza Mexicana", "price": 500.00},
+                {"name": "Energizante", "price": 400.00},
+                {"name": "Red Bull", "price": 550.00},
+                {"name": "Kermato", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza Nacional", "price": 500.00},
+                {"name": "Cerveza Importada", "price": 400.00},
+                {"name": "Cerveza Mexicana", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Cuba Libre", "price": 700.00},
+                {"name": "Mojito", "price": 700.00},
+                {"name": "Mojito Caribeño", "price": 750.00},
+                {"name": "Mojito Frappe", "price": 750.00},
+                {"name": "Run Collins", "price": 800.00},
+                {"name": "Daiquiri", "price": 850.00},
+                {"name": "Caipirinha", "price": 750.00},
+                {"name": "Caipiroska", "price": 750.00},
+                {"name": "Canchanchara", "price": 850.00},
+                {"name": "Cubata", "price": 700.00},
+                {"name": "Piña Colada", "price": 1200.00},
+                {"name": "Daiquiri de Fruta", "price": 800.00},
+                {"name": "Caipirisima", "price": 750.00},
+                {"name": "Margarita", "price": 800.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "Tinto de Verano", "price": 1000.00},
+                {"name": "Sangria", "price": 1000.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "Ron Blanco", "price": 500.00},
+                {"name": "Ron Añejo", "price": 600.00}
+            ]
+        }
+    ]
+}

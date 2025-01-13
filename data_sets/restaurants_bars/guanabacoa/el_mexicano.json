@@ -1,0 +1,97 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "El Mexicano",
+    "address": {
+        "city": "la habana",
+        "town": "Guanabacoa",
+        "street": "Avenida Quinta",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": " ",
+        "telephone": "72635413"
+    },
+    "schedule": {
+        "monday": "1000-2200",
+        "tuesday": "1000-2200",
+        "wednesday": "1000-2200",
+        "thursday": "1000-2200",
+        "friday": "1000-2200",
+        "saturday": "1000-2200",
+        "sunday": "1000-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["pizzas", "pastas"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Sandwich de Jamón y Queso", "price": 350.00},
+                {"name": "Sandwich de Queso Jamón Especial", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Tigon", "price": 300.00},
+                {"name": "Malta 1 Hyper", "price": 270.00},
+                {"name": "Pepsi", "price": 270.00},
+                {"name": "Mirinda", "price": 280.00},
+                {"name": "Perla negra", "price": 270.00},
+                {"name": "Ironbeer", "price": 240.00},
+                {"name": "Orange", "price": 220.00},
+                {"name": "Cola Polo", "price": 220.00},
+                {"name": "Limon", "price": 220.00},
+                {"name": "Coca Cola", "price": 280.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza", "price": 200.00},
+                {"name": "Holandia", "price": 200.00},
+                {"name": "Cristal Lata", "price": 250.00},
+                {"name": "Cristal Botella", "price": 200.00},
+                {"name": "Shaka", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

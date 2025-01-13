@@ -1,0 +1,127 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "casa roma 1860",
+    "address": {
+        "city": "la habana",
+        "town": "la habana vieja",
+        "street": "4jrx+68f, callejon del chorro, la habana",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": "https://g.co/kgs/v3rjbaX",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0700-2400",
+        "tuesday": "0700-2400",
+        "wednesday": "0700-2400",
+        "thursday": "0700-2400",
+        "friday": "0700-2400",
+        "saturday": "0700-2400",
+        "sunday": "0700-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquettes", "price": 800.00},
+                {"name": "lobster cocktail", "price": 1500.00},
+                {"name": "shrimp cocktail", "price": 1500.00},
+                {"name": "old clothes stuffed tostones", "price": 1100.00},
+                {"name": "tuna stuffed tostones", "price": 1100.00},
+                {"name": "tostones stuffed ham and cheese", "price": 900.00},
+                {"name": "cesar salad", "price": 2200.00},
+                {"name": "malanga fries", "price": 800.00},
+                {"name": "side dish roma 1860", "price": 2500.00},
+                {"name": "parmesan eggplant", "price": 2400.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "grilled breast", "price": 2650.00},
+                {"name": "chicken fajitas", "price": 3300.00},
+                {"name": "shredded meat", "price": 2900.00},
+                {"name": "pork chop", "price": 2800.00},
+                {"name": "pork fajitas", "price": 3200.00},
+                {"name": "pork chop(chimichurri, hawaiian sauce)", "price": 3000.00},
+                {"name": "roasted pork(creole sauce)", "price": 3300.00},
+                {"name": "pork loin", "price": 3300.00},
+                {"name": "vegetable paella", "price": 2800.00},
+                {"name": "shrimp grill", "price": 3300.00},
+                {"name": "shrimp(tomato sauce, garlic, fruit sauce)", "price": 3500.00},
+                {"name": "fish fillet", "price": 3000.00},
+                {"name": "lobster grill", "price": 3200.00},
+                {"name": "fish fajitas", "price": 3300.00},
+                {"name": "lobster(tomato sauce, garlic, fruit sauce)", "price": 3300.00},
+                {"name": "tropical fish fillet", "price": 3300.00},
+                {"name": "caribbean brochette", "price": 3500.00},
+                {"name": "sea brochette", "price": 3500.00},
+                {"name": "octopus grill", "price": 3500.00},
+                {"name": "lobster rings", "price": 3500.00},
+                {"name": "imperial paella", "price": 3500.00},
+                {"name": "octopus(tomato sauce, garlic)", "price": 3500.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "ice cream 2 balls", "price": 600.00},
+                {"name": "ice cream 3 balls", "price": 750.00},
+                {"name": "cake", "price": 750.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "natural water", "price": 400.00},
+                {"name": "sparking water", "price": 450.00},
+                {"name": "coca cola", "price": 600.00},
+                {"name": "beer", "price": 700.00},
+                {"name": "glass of wine", "price": 950.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                null
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                null
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                null
+            ]
+        }
+    ]
+}

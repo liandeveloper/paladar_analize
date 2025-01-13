@@ -1,0 +1,177 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "Adastra",
+    "address": {
+        "city": "la habana",
+        "town": "la habana vieja",
+        "street": "255 Obispo, La Habana",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": "https://g.co/kgs/xKva91z",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "1200-0000",
+        "tuesday": "1200-0000",
+        "wednesday": "1200-0000",
+        "thursday": "1200-0000",
+        "friday": "1200-0000",
+        "saturday": "1200-0000",
+        "sunday": "1200-0000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Criolla", "Cordero al Vino Tinto"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Tapas de Bodega", "price": 7600.00},
+                {"name": "Pimiento Piquillo", "price": 3200.00},
+                {"name": "Carpaccio de Pulpo", "price": 3800.00},
+                {"name": "Ensalada Terranea", "price": 2300.00},
+                {"name": "Ceviche de Camaron", "price": 3400.00},
+                {"name": "Tartar de Atun", "price": 4000.00},
+                {"name": "Carpaccio de Res", "price": 4100.00},
+                {"name": "Croquetas del Chef", "price": 1400.00},
+                {"name": "Musaka", "price": 4200.00},
+                {"name": "Crema de Calabaza", "price": 1800.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Osobuco Trufado con Champignoses", "price": 7500.00},
+                {"name": "Cordero al Vino Tinto y Romero", "price": 5600.00},
+                {"name": "Cerdo Criollo con Tamal en Cazuela", "price": 5100.00},
+                {"name": "Filete Mignon", "price": 8200.00},
+                {"name": "Paleta de Cordero", "price": 9800.00},
+                {"name": "Langosta Isleña", "price": 4800.00},
+                {"name": "Pulpo con Albahaca y Ajo", "price": 6400.00},
+                {"name": "Pescado Adastra", "price": 7800.00},
+                {"name": "Mariscada de la Casa 2 PAX", "price": 10500.00},
+                {"name": "Pescado Grille", "price": 3800.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz Blanco", "price": 700.00},
+                {"name": "Arroz Moro", "price": 850.00},
+                {"name": "Frijoles Negros", "price": 750.00},
+                {"name": "Pure de Vianda", "price": 1100.00},
+                {"name": "Ensalada de Vegetales", "price": 1500.00},
+                {"name": "Vegetales Salteados", "price": 1500.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Cheesecake de Frutas", "price": 1800.00},
+                {"name": "Torrejas en Almibar", "price": 1400.00},
+                {"name": "Casquitos de Guayaba", "price": 1000.00},
+                {"name": "Flan de Calabaza", "price": 1200.00},
+                {"name": "Postres Cubanos", "price": 1000.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Espresso", "price": 450.00},
+                {"name": "Americano", "price": 450.00},
+                {"name": "Cortado", "price": 650.00},
+                {"name": "Cafe con Leche", "price": 850.00},
+                {"name": "Iris Coffee", "price": 1500.00},
+                {"name": "Te con Leche", "price": 450.00},
+                {"name": "Cappuccino", "price": 950.00},
+                {"name": "Frappuccino", "price": 1000.00},
+                {"name": "Cafe Bombon", "price": 1200.00},
+                {"name": "Carajillo", "price": 1050.00},
+                {"name": "Te", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Coca Cola", "price": 550.00},
+                {"name": "Refresco Limon", "price": 550.00},
+                {"name": "Agua Natural Nacional", "price": 350.00},
+                {"name": "Agua Gaseada Importada", "price": 660.00},
+                {"name": "Agua Tonica Nacional", "price": 450.00},
+                {"name": "Ginger Ale", "price": 650.00},
+                {"name": "Red Bull", "price": 600.00},
+                {"name": "Agua Tonica Importada", "price": 700.00},
+                {"name": "Cerveza Heineken", "price": 1000.00},
+                {"name": "Cerveza Corona", "price": 1000.00},
+                {"name": "Cerveza Stella", "price": 900.00},
+                {"name": "Cerveza Cristal", "price": 850.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza Heineken", "price": 1000.00},
+                {"name": "Cerveza Corona", "price": 1000.00},
+                {"name": "Cerveza Stella", "price": 900.00},
+                {"name": "Cerveza Cristal", "price": 850.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Mojito", "price": 1000.00},
+                {"name": "Cuba Libre", "price": 1000.00},
+                {"name": "Cubata", "price": 1250.00},
+                {"name": "Daiquiri de Sabores", "price": 1160.00},
+                {"name": "Piña Colada", "price": 1200.00},
+                {"name": "Caipiriña", "price": 1000.00},
+                {"name": "Caipi de Frutas", "price": 1600.00},
+                {"name": "Canchanchara", "price": 1100.00},
+                {"name": "Cubanito", "price": 1300.00},
+                {"name": "Old Fashion", "price": 1750.00},
+                {"name": "Moscow Mule", "price": 1600.00},
+                {"name": "Negroni", "price": 1300.00},
+                {"name": "Martine", "price": 1300.00},
+                {"name": "Aperol Sprit", "price": 1250.00},
+                {"name": "Margarita", "price": 1350.00},
+                {"name": "Sangria", "price": 1500.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "Havana Club Especial", "price": 900.00},
+                {"name": "Havana Club Ritual", "price": 700.00},
+                {"name": "Havana Club Reserva", "price": 950.00},
+                {"name": "Havana Club Smoky", "price": 800.00},
+                {"name": "Havana Club 7 Años", "price": 1000.00},
+                {"name": "Havana Club Seleccion Maestro", "price": 1900.00},
+                {"name": "Pacto Navio", "price": 1800.00},
+                {"name": "Flor de Caña", "price": 3000.00},
+                {"name": "Santiago Añejo", "price": 850.00},
+                {"name": "Santiago 8 Años", "price": 1150.00},
+                {"name": "Santiago 11 Años", "price": 2200.00},
+                {"name": "Santiago 12 Años", "price": 2350.00},
+                {"name": "Brugal 1888 Doble Añejo", "price": 4000.00}
+            ]
+        }
+    ]
+}

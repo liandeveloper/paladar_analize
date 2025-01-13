@@ -1,0 +1,113 @@
+{
+    "establishment": ["restaurante"],
+    "name": "heredia",
+    "address": {
+        "city": "la habana",
+        "town": " ",
+        "street": "calle heredia % avenida acosta y o'farril, diez de octubre",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": "76400222"
+    },
+    "schedule": {
+        "monday": "1000-2200",
+        "tuesday": "1000-2200",
+        "wednesday": "1000-2200",
+        "thursday": "1000-2200",
+        "friday": "1000-2200",
+        "saturday": "1000-2200",
+        "sunday": "1000-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "nombre del plato", "price": 2500.00},
+                {"name": "nombre del plato", "price": 3000.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "pizza napolitana", "price": 950.00},
+                {"name": "pizza de jamon", "price": 980.00},
+                {"name": "pizza de chorizo", "price": 980.00},
+                {"name": "pizza boloñesa", "price": 980.00},
+                {"name": "pizza de cebolla", "price": 980.00},
+                {"name": "pizza de pimiento", "price": 980.00},
+                {"name": "pizza hawaiana", "price": 1000.00},
+                {"name": "pizza con aceituna", "price": 1000.00},
+                {"name": "pizza con atun", "price": 1000.00},
+                {"name": "espaguetis napolitano", "price": 600.00},
+                {"name": "espaguetis de jamon", "price": 650.00},
+                {"name": "espaguetis con chorizo", "price": 650.00},
+                {"name": "espaguetis boloñesa", "price": 670.00},
+                {"name": "espaguetis con atun", "price": 800.00},
+                {"name": "lasaña de jamon", "price": 750.00},
+                {"name": "lasaña de chorizo", "price": 850.00},
+                {"name": "lasaña boloñesa", "price": 950.00},
+                {"name": "emparedado de atun con cebolla", "price": 400.00},
+                {"name": "hamburguesa", "price": 350.00},
+                {"name": "emapredado de heredia", "price": 350.00},
+                {"name": "emparedado cubano", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "limonada", "price": 100.00},
+                {"name": "jugo de mango", "price": 120.00},
+                {"name": "jugo de tamarindo", "price": 120.00},
+                {"name": "jugo de guayaba", "price": 120.00},
+                {"name": "coctel de frutas", "price": 150.00},
+                {"name": "batido de helado", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

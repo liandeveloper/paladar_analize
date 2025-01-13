@@ -35,7 +35,7 @@
         "transfer": false,
         "credit_card": false
     },
-    "specialties": ["hamburgusera"],
+    "specialties": ["comida rápida"],
     "menu": [
         {
             "categorie": "starter",

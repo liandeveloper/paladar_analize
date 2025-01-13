@@ -1,0 +1,105 @@
+{
+    "establishment": ["restaurante"],
+    "name": "d'mitu",
+    "address": {
+        "city": "la víbora, diez de octubre",
+        "town": " ",
+        "street": "calle 1ra #64 altos entre gertrudis y lagueruela",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": "53578505",
+        "web": "https://pizzeria-dmitu.ola.click",
+        "telephone": "76988258"
+    },
+    "schedule": {
+        "monday": null,
+        "tuesday": "1000-2200",
+        "wednesday": "1000-2200",
+        "thursday": "1000-2200",
+        "friday": "1000-2200",
+        "saturday": "1000-2200",
+        "sunday": "1000-2200"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": ["italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pizza hawaiana", "price": 520.00},
+                {"name": "pizza chorizo", "price": 500.00},
+                {"name": "pizza de jamon", "price": 490.00},
+                {"name": "pizza queso", "price": 380.00},
+                {"name": "super pizza mixta", "price": 900.00},
+                {"name": "super pizza hawaiana", "price": 800.00},
+                {"name": "super pizza de chorizo", "price": 780.00},
+                {"name": "super pizza de jamon", "price": 750.00},
+                {"name": "super pizza de queso", "price": 600.00},
+                {"name": "canelones", "price": 450.00},
+                {"name": "lasaña", "price": 500.00},
+                {"name": "raviolis", "price": 650.00},
+                {"name": "farfalle", "price": 500.00},
+                {"name": "espaguetis", "price": 500.00},
+                {"name": "pizza familiar mixta con bordes jamon y queso", "price": 1200.00},
+                {"name": "pizza familiar mixta sin bordes jamon y queso", "price": 1000.00},
+                {"name": "pastelon", "price": 850.00},
+                {"name": "fugazzeta d'mitu", "price": 980.00},
+                {"name": "pizza sol", "price": 750.00},
+                {"name": "pizza d'mitu", "price": 380.00},
+                {"name": "takazo", "price": 600.00},
+                {"name": "calzone d'mitu", "price": 480.00},
+                {"name": "super takaso", "price": 950.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

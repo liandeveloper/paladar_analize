@@ -1,0 +1,132 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "El Balcon de los Hermanos",
+    "address": {
+        "city": "La Habana",
+        "town": "La Habana Vieja",
+        "street": "4JQV+7V2, Obispo",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": "https://g.co/kgs/A1m9ipk",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "0900-2200",
+        "tuesday": "0900-2200",
+        "wednesday": "0900-2200",
+        "thursday": "0900-2200",
+        "friday": "0900-2200",
+        "saturday": "0900-2200",
+        "sunday": "0900-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Criolla", "Ropa Vieja"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Coctel de Pescado", "price": 500.00},
+                {"name": "Coctel de Camarones", "price": 500.00},
+                {"name": "Croquetas", "price": 500.00},
+                {"name": "Tostones Rellenos", "price": 500.00},
+                {"name": "Tamal en Hojas", "price": 500.00},
+                {"name": "Patata Fritas", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Ropa Vieja", "price": 2450.00},
+                {"name": "Pollo Grille", "price": 2400.00},
+                {"name": "Cerdo Grille", "price": 2400.00},
+                {"name": "Pescado Grille", "price": 2400.00},
+                {"name": "Camarones Grille", "price": 2400.00},
+                {"name": "Cordero", "price": 2450.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz Moro", "price": 2000.00},
+                {"name": "Ensalada Mixta", "price": 500.00},
+                {"name": "Viandas", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Helados", "price": 300.00},
+                {"name": "Dulces", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Cafe Cortado", "price": 250.00},
+                {"name": "Cafe Carajillo", "price": 250.00},
+                {"name": "Cafe Expresso", "price": 200.00},
+                {"name": "Te Variado", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Refrescos Nacionales", "price": 300.00},
+                {"name": "Refrescos Importados", "price": 300.00},
+                {"name": "Jugos Naturales", "price": 300.00},
+                {"name": "Agua Natural 1.5lt", "price": 300.00},
+                {"name": "Agua Natural 500ml", "price": 200.00},
+                {"name": "Agua Gaseada", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Mojito", "price": 500.00},
+                {"name": "Cubanito", "price": 500.00},
+                {"name": "Piña Colada", "price": 600.00},
+                {"name": "Cuba Libre", "price": 500.00},
+                {"name": "Cubatas", "price": 600.00},
+                {"name": "Daiquiri", "price": 500.00},
+                {"name": "Sangria", "price": 600.00},
+                {"name": "Michelada", "price": 700.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [
+                {"name": "Copa de Vino", "price": 500.00},
+                {"name": "Botella de Vino", "price": 2500.00}
+            ]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "Cuban Ron Habana Club 3 Años", "price": 250.00},
+                {"name": "Cuban Ron Habana Club Reserva", "price": 500.00},
+                {"name": "Cuban Ron Habana Club 7 Años", "price": 500.00}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "el triangulo",
+    "address": {
+        "city": "la habana",
+        "town": "arroyo naranjo",
+        "street": "esquina calzada de 10 de octubre y calzada de porvenir, la palma",
+        "coordinates": {
+            "latitude": 23.17144950277268,
+            "longitude": -82.25353969182689
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0800-0000",
+        "tuesday": "0800-0000",
+        "wednesday": "0800-0000",
+        "thursday": "0800-0000",
+        "friday": "0800-0000",
+        "saturday": "0800-0000",
+        "sunday": "0800-0000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["comida cubana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "fajitas de pollo", "price": 350.00},
+                {"name": "croquetas", "price": 150.00},
+                {"name": "bolitas de queso", "price": 150.00},
+                {"name": "tostones", "price": 150.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [{"name": "pollo frito", "price": 1000.00}]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "water", "price": 120.00},
+                {"name": "soft drinks", "price": 220.00},
+                {"name": "jugo de caja", "price": 180.00},
+                {"name": "red bull", "price": 230.00},
+                {"name": "malta", "price": 220.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "cerveza cristal", "price": 250.00},
+                {"name": "cerveza bucanero", "price": 250.00},
+                {"name": "cerveza escorial", "price": 200.00},
+                {"name": "cerveza holanda", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

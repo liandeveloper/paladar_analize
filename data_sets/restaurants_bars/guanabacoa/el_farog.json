@@ -1,0 +1,94 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "El Faro",
+    "address": {
+        "city": "La Habana",
+        "town": "Guanabacoa",
+        "street": "Maximo Gomez",
+        "coordinates": {
+            "latitude": "23.1333",
+            "longitude": "-82.2400"
+        }
+    },
+    "contacto": {
+        "facebook": "",
+        "instagram": "",
+        "whatsapp": "WhatsApp",
+        "web": "",
+        "telephone": ""
+    },
+    "schedule": {
+        "monday": "0900-2300",
+        "tuesday": "0900-2300",
+        "wednesday": "0900-2300",
+        "thursday": "0900-2300",
+        "friday": "0900-2300",
+        "saturday": "0900-2300",
+        "sunday": "0900-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Pizzas", "Criolla", "Hamburguesas"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Enchilado de Cangrejo", "price": 750.00},
+                {"name": "Croqueta de la Casa", "price": 180.00},
+                {"name": "Ensalada Fría de Jamón", "price": 700.00},
+                {"name": "Ensalada Fría de Atún", "price": 1200.00},
+                {"name": "Picadera Tropical", "price": 850.00},
+                {"name": "Plato a lo Cubano", "price": 800.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Pan con Hamburguesa", "price": 500.00},
+                {"name": "Hamburguesa Faro", "price": 900.00},
+                {"name": "Costillas de Cerdo", "price": 1200.00},
+                {"name": "Ruedas de Pescado Grille", "price": 1400.00},
+                {"name": "Pollo Grille", "price": 950.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [null]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

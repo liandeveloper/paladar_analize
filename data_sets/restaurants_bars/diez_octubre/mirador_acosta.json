@@ -1,0 +1,170 @@
+{
+    "establishment": ["restaurante"],
+    "name": "Mirador de Acosta",
+    "address": {
+      "city": "La Habana",
+      "town": "Víbora",
+      "street": "Calle Acosta esq. Vista Alegre",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    },
+    "contacto": {
+      "facebook": "https://www.facebook.com/MIRADORACOSTA/",
+      "instagram": "@mirador_de_acosta",
+      "whatsapp": "",
+      "web": "",
+      "telephone": "76984009"
+    },
+    "schedule": {
+      "monday": "1000-2330",
+      "tuesday": "1000-2330",
+      "wednesday": "1000-2330",
+      "thursday": "1000-2330",
+      "friday": "1000-2330",
+      "saturday": "1000-2330",
+      "sunday": "1000-2330"
+    },
+    "services": {
+      "delivery": true,
+      "to_take": true
+    },
+    "payment": {
+      "cash": true,
+      "transfer": true,
+      "credit_card": false
+    },
+    "specialties": ["cubana", "italiana"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+            {"name": "Crema de queso", "price": 600.00},
+            {"name": "Croquetas de la casa", "price": 630.00},
+            {"name": "Frituras de Malanga", "price": 690.00},
+            {"name": "Picadillo Mirador", "price": 1650.00},
+            {"name": "Coctel de Camarones", "price": 1400.00},
+            {"name": "Coctel de Langosta", "price": 1650.00},
+            {"name": "Eperlan de Pescado", "price": 1100.00},
+            {"name": "Galianosa Frita", "price": 1200.00},
+            {"name": "Tamal en cazuela", "price": 1320.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+            {"name": "Pollo Frito", "price": 1200.00},
+            {"name": "Bistec de Pollo", "price": 1550.00},
+            {"name": "Pollo Golden Blue", "price": 2500.00},
+            {"name": "Bistec de Cerdo Grille", "price": 1400.00},
+            {"name": "Lomo Ahumado de Cerdo", "price": 1700.00},
+            {"name": "Chuleta de Cerdo", "price": 1540.00},
+            {"name": "Fricasé de Cerdo", "price": 1950.00},
+            {"name": "Bistec Uruguayo", "price": 2000.00},
+            {"name": "Vaca Frita", "price": 1900.00},
+            {"name": "Ropa Vieja de Res", "price": 2000.00},
+            {"name": "Bistec de Res", "price": 2420.00},
+            {"name": "Arroz Frito", "price": 1650.00},
+            {"name": "Filete de Pescado Grillé", "price": 1760.00},
+            {"name": "Filete de Pescado Jonville", "price": 2090.00},
+            {"name": "Rueda de Pescado", "price": 2090.00},
+            {"name": "Pescado Canario", "price": 3000.00},
+            {"name": "Camarón al Gusto", "price": 2200.00},
+            {"name": "Langosta en sus variedades", "price": 2600.00},
+            {"name": "Langosta Thermidor", "price": 2750.00},
+            {"name": "Grillada Mirador", "price": 3600.00},
+            {"name": "Lasana", "price": 1280.00},
+            {"name": "Spaghetti Napolitano", "price": 1100.00},
+            {"name": "Spaghetti de Jamón", "price": 1240.00},
+            {"name": "Amatriciana", "price": 1320.00},
+            {"name": "Frutti di Mare", "price": 2400.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+            {"name": "Arroz Blanco", "price": 250.00},
+            {"name": "Arroz Moro", "price": 300.00},
+            {"name": "Arroz Pilaf", "price": 400.00},
+            {"name": "Vianda Hervida", "price": 300.00},
+            {"name": "Ensalada Mixta", "price": 300.00},
+            {"name": "Vianda Frita", "price": 320.00},
+            {"name": "Tostones tradicionales", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+            {"name": "Postre del Dia", "price": 650.00},
+            {"name": "Café Expresso", "price": 250.00},
+            {"name": "Café Cortadito", "price": 300.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+            {"name": "Energizante", "price": 200.00},
+            {"name": "Kermato", "price": 430.00},
+            {"name": "Agua", "price": 120.00},
+            {"name": "Refresco Enlatado", "price": 250.00},
+            {"name": "Jugo de Lata", "price": 500.00},
+            {"name": "Malta Nacional", "price": 250.00},
+            {"name": "Malta Importada", "price": 290.00},
+            {"name": "Jugo Natural", "price": 200.00},
+            {"name": "Batido de Frutas", "price": 250.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+            {"name": "Cerveza Importada", "price": 300.00},
+            {"name": "Cerveza Nacional", "price": 320.00},
+            {"name": "Cerveza Corona y Heineken", "price": 420.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+            {"name": "Cuba Libre", "price": 600.00},
+            {"name": "Daiquiri", "price": 600.00},
+            {"name": "Daiquiri Rebelde", "price": 600.00},
+            {"name": "Mojito", "price": 650.00},
+            {"name": "Piña Colada", "price": 650.00},
+            {"name": "Piña Colada sin Alcohol", "price": 550.00},
+            {"name": "Caipiriña", "price": 660.00},
+            {"name": "Caipirisima", "price": 660.00},
+            {"name": "Caipiroska", "price": 660.00},
+            {"name": "Screwdriver", "price": 630.00},
+            {"name": "Bloody Mary", "price": 770.00},
+            {"name": "Cubata", "price": 660.00},
+            {"name": "Sangria", "price": 750.00},
+            {"name": "Tinto Verano", "price": 560.00},
+            {"name": "Limonada Clarete", "price": 460.00},
+            {"name": "Chelada", "price": 600.00},
+            {"name": "Michelada", "price": 750.00},
+            {"name": "Chelada c/ Corona", "price": 600.00},
+            {"name": "Michelada c/ Corona", "price": 800.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+            {"name": "Ron H.C. 3 años", "price": 360.00},
+            {"name": "Ron H.C. 7 años", "price": 600.00},
+            {"name": "Ron H.C. Especial", "price": 520.00},
+            {"name": "Ron H.C. Reserva", "price": 530.00},
+            {"name": "Selección de Maestros", "price": 1140.00},
+            {"name": "Ron Santiago 8 años", "price": 550.00}
+            ]
+        }
+    ]
+}  

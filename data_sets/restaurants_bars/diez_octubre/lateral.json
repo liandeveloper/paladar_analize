@@ -1,0 +1,239 @@
+{
+    "establishment": ["restaurante"],
+    "name": "Lateral",
+    "address": {
+        "city": "La Habana",
+        "town": "Víbora",
+        "street": "Ave. Acosta #467, esq. Goicuría",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/307308194105213",
+        "instagram": "@lateral.at",
+        "whatsapp": "59525677",
+        "web": "",
+        "telephone": ""
+    },
+    "schedule": {
+        "monday": "10:00-23:00",
+        "tuesday": "10:00-23:00",
+        "wednesday": "10:00-23:00",
+        "thursday": "10:00-23:00",
+        "friday": "10:00-23:00",
+        "saturday": "10:00-23:00",
+        "sunday": "10:00-23:00"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["internacional"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "croquetas de la casa", "price": 600.00},
+                {"name": "bolitas de carne", "price": 600.00},
+                {"name": "croquetas de queso y arroz", "price": 600.00},
+                {"name": "empanadas sandwich cubano", "price": 650.00},
+                {"name": "empanadas de la casa", "price": 600.00},
+                {"name": "bolitas de queso gouda", "price": 1100.00},
+                {"name": "fajitas de pechuga de pollo", "price": 2200.00},
+                {"name": "fajitas de cerdo", "price": 2200.00},
+                {"name": "eperlan de pescado", "price": 2200.00},
+                {"name": "ceviche de pescado", "price": 1700.00},
+                {"name": "dados de pescado al curry", "price": 2400.00},
+                {"name": "surtido de mariscos", "price": 2600.00},
+                {"name": "pica pica lateral", "price": 2000.00},
+                {"name": "picada mixta", "price": 5300.00},
+                {"name": "tabla de salmon", "price": 3000.00},
+                {"name": "tabla de jamon serrano", "price": 2700.00},
+                {"name": "choriqueso", "price": 1050.00},
+                {"name": "pulpo en salsa verde", "price": 1400.00},
+                {"name": "coctel de langosta", "price": 2000.00},
+                {"name": "coctel de camarones", "price": 2150.00},
+                {"name": "tabla mixta lateral", "price": 3700.00},
+                {"name": "tartar de atun", "price": 5200.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "sandwich cubano", "price": 1200.00},
+                {"name": "hamburguesa lateral de res king size", "price": 1800.00},
+                {"name": "sandwich lateral", "price": 850.00},
+                {"name": "sandwich de pollo", "price": 1000.00},
+                {"name": "hamburguesa de cerdo", "price": 1000.00},
+                {"name": "paella marinera", "price": 5000.00},
+                {"name": "oferta mariscos sobre paella", "price": 7500.00},
+                {"name": "arroz campesino", "price": 3200.00},
+                {"name": "paella mixta 2pax", "price": 4500.00},
+                {"name": "arroz con pollo", "price": 2500.00},
+                {"name": "arroz frito", "price": 1900.00},
+                {"name": "pechuga de pollo grille", "price": 2500.00},
+                {"name": "pechuga de pollo rellena", "price": 2750.00},
+                {"name": "chop suey", "price": 2500.00},
+                {"name": "masas de cerdo", "price": 2450.00},
+                {"name": "lonjas de cerdo", "price": 2450.00},
+                {"name": "bistec de cerdo encebollado", "price": 2200.00},
+                {"name": "carne de cerdo estofada", "price": 2450.00},
+                {"name": "uruguayo", "price": 2500.00},
+                {"name": "solomillo 460gr", "price": 3900.00},
+                {"name": "lomo de cerdo 350gr", "price": 3500.00},
+                {"name": "ropa vieja de res", "price": 2100.00},
+                {"name": "vaca frita", "price": 2100.00},
+                {"name": "bistec de res", "price": 2300.00},
+                {"name": "lonjas de res", "price": 2700.00},
+                {"name": "picadillo a lo cubano", "price": 1500.00},
+                {"name": "corte de res rib eye", "price": 7000.00},
+                {"name": "tomahawk", "price": 16500.00},
+                {"name": "filete de pescado grille", "price": 2450.00},
+                {"name": "pescado con camarones", "price": 3300.00},
+                {"name": "pescado con langosta", "price": 3000.00},
+                {"name": "lomo de pescado", "price": 2400.00},
+                {"name": "canciller", "price": 3000.00},
+                {"name": "lomo de salmon", "price": 5800.00},
+                {"name": "fricase de cordero", "price": 4800.00},
+                {"name": "camarones al gusto", "price": 2800.00},
+                {"name": "cola de langosta al gusto", "price": 2700.00},
+                {"name": "caldereta de mariscos", "price": 4000.00},
+                {"name": "cena campesina", "price": 5400.00},
+                {"name": "filete mignon", "price": 7000.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "arroz moro", "price": 300.00},
+                {"name": "tostones", "price": 400.00},
+                {"name": "ensalada de aguacate", "price": 300.00},
+                {"name": "boniato frito", "price": 400.00},
+                {"name": "crema de boniato", "price": 650.00},
+                {"name": "alubias blancas", "price": 750.00},
+                {"name": "tamal cubano", "price": 500.00},
+                {"name": "yuca con mojo", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "crepes", "price": 400.00},
+                {"name": "tres leches", "price": 750.00},
+                {"name": "caja cake", "price": 150.00},
+                {"name": "semifrio", "price": 650.00},
+                {"name": "cheesecake", "price": 750.00},
+                {"name": "pote semifrio", "price": 800.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "cafe", "price": 400.00},
+                {"name": "cafe americano", "price": 380.00},
+                {"name": "cafe con coffee mate", "price": 500.00},
+                {"name": "carajillo", "price": 1000.00},
+                {"name": "cafe bombon", "price": 850.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "agua gaseada", "price": 660.00},
+                {"name": "limonada frappe", "price": 650.00},
+                {"name": "jugos", "price": 500.00},
+                {"name": "agua natural importada pequeña", "price": 300.00},
+                {"name": "limonada frutas", "price": 800.00},
+                {"name": "refresco pepsi", "price": 450.00},
+                {"name": "refresco importado", "price": 400.00},
+                {"name": "smoothie", "price": 1200.00},
+                {"name": "batido de helado", "price": 1500.00},
+                {"name": "limonada frappe con hierba buena", "price": 900.00},
+                {"name": "limonada blue", "price": 900.00},
+                {"name": "limonada rebelde", "price": 700.00},
+                {"name": "san francisco lateral", "price": 750.00},
+                {"name": "limonada natural", "price": 950.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "tonel cerveza dispensada 2lts", "price": 1900.00},
+                {"name": "tonel cerveza dispensada 3lts", "price": 2900.00},
+                {"name": "cerveza cristal", "price": 550.00},
+                {"name": "michelada presidente", "price": 900.00},
+                {"name": "vaso dispensada", "price": 250.00},
+                {"name": "jarra dispensada", "price": 500.00},
+                {"name": "cerveza presidente", "price": 500.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "negroni", "price": 1500.00},
+                {"name": "moscow mule", "price": 1500.00},
+                {"name": "mojito", "price": 900.00},
+                {"name": "cuba libre", "price": 850.00},
+                {"name": "daiquiri", "price": 850.00},
+                {"name": "cubanito", "price": 950.00},
+                {"name": "vodka tonic", "price": 1200.00},
+                {"name": "caipirinha", "price": 900.00},
+                {"name": "daiquiri frappe", "price": 700.00},
+                {"name": "caipirisima", "price": 900.00},
+                {"name": "michelada mule", "price": 1300.00},
+                {"name": "ron collins", "price": 800.00},
+                {"name": "cubata", "price": 1050.00},
+                {"name": "mojito frutas", "price": 1100.00},
+                {"name": "sangria", "price": 1500.00},
+                {"name": "daiquiri frutas", "price": 1000.00},
+                {"name": "mojito frappe", "price": 950.00},
+                {"name": "gin tonic importado", "price": 1900.00},
+                {"name": "calimocho", "price": 800.00},
+                {"name": "tinto de verano", "price": 1150.00},
+                {"name": "gin fizz", "price": 900.00},
+                {"name": "coctel lateral", "price": 900.00},
+                {"name": "mojito hc especial", "price": 1200.00},
+                {"name": "caipiriachi", "price": 1500.00},
+                {"name": "martini saborizado", "price": 850.00},
+                {"name": "daiquiri saborizado", "price": 750.00},
+                {"name": "caipiroska frutas", "price": 1200.00},
+                {"name": "old fashionet", "price": 900.00},
+                {"name": "canchanchara", "price": 900.00},
+                {"name": "michelada con cristal", "price": 900.00},
+                {"name": "long island ice tea", "price": 1800.00},
+                {"name": "blue star", "price": 850.00},
+                {"name": "cuban smoky", "price": 800.00},
+                {"name": "servicio de micheladas", "price": 450.00},
+                {"name": "moscow mule gray goose", "price": 1700.00},
+                {"name": "bloody mary gray goose", "price": 1700.00},
+                {"name": "caipiroska gray goose", "price": 1900.00},
+                {"name": "screw drivers gray goose", "price": 1900.00},
+                {"name": "caipiroska stolishnaya", "price": 1200.00},
+                {"name": "caipiroska ciroc", "price": 1900.00},
+                {"name": "red label", "price": 1000.00},
+                {"name": "black label", "price": 1500.00},
+                {"name": "doble black", "price": 1900.00},
+                {"name": "ballentine", "price": 900.00},
+                {"name": "margarita reposada", "price": 1200.00},
+                {"name": "ruavieja", "price": 850.00},
+                {"name": "jameson", "price": 900.00},
+                {"name": "ginebra", "price": 1000.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

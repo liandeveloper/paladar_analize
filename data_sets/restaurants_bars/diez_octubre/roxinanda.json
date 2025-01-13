@@ -1,0 +1,90 @@
+{
+    "establishment": ["restaurante", "cafetería", "bar"],
+    "name": "Roxinanda",
+    "address": {
+        "city": "La Habana",
+        "town": "Diez de Octubre",
+        "street": "Esquina de Santa Catalina y Calzada de 10 de Octubre",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": "",
+        "instagram": "",
+        "whatsapp": "",
+        "web": "",
+        "telephone": ""
+    },
+    "schedule": {
+        "monday": "00:00-24:00",
+        "tuesday": "00:00-24:00",
+        "wednesday": "00:00-24:00",
+        "thursday": "00:00-24:00",
+        "friday": "00:00-24:00",
+        "saturday": "00:00-24:00",
+        "sunday": "00:00-24:00"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "usd_cash": true,
+        "usd_transfer": true,
+        "mlc": true
+    },
+    "specialties": [],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [null]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Hamburguesa cerdo", "price": 640.0},
+                {"name": "Hamburguesa pollo", "price": 650.0},
+                {"name": "Hamburguesa res", "price": 690.0},
+                {"name": "Sandwich", "price": 350.0},
+                {"name": "Sandwich especial", "price": 450.0}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Refresco", "price": 270.0},
+                {"name": "Pepsi", "price": 320.0},
+                {"name": "Jugo lata", "price": 280.0},
+                {"name": "Kermato", "price": 480.0},
+                {"name": "Tigon", "price": null},
+                {"name": "Cristal", "price": 3000.0},
+                {"name": "Hollandia", "price": 300.0},
+                {"name": "Stella", "price": 400.0}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

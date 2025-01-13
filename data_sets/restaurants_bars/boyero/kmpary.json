@@ -1,0 +1,197 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "kmpary",
+    "address": {
+      "city": "la habana",
+      "town": "boyero",
+      "street": "Avenida independencia #28511 / 285 A y 289, Rancho Boyeros",
+      "coordinates": {
+        "latitude": 23.00673921478923,
+        "longitude": -82.39374013380673
+      }
+    },
+    "contacto": {
+      "facebook": "https://www.facebook.com/profile.php?id=100039889495120",
+      "instagram": "https://www.instagram.com/kmpary_bar_restaurant/",
+      "whatsapp": null,
+      "web": null,
+      "telephone": "+5352766526"
+    },
+    "schedule": {
+      "monday": "2200-0500",
+      "tuesday": "2200-0500",
+      "wednesday": "2200-0500",
+      "thursday": "2200-0500",
+      "friday": "2200-0500",
+      "saturday": "2200-0500",
+      "sunday": "2200-0500"
+    },
+    "services": {
+      "delivery": false,
+      "to_take": true
+    },
+    "payment": {
+      "cash": true,
+      "transfer": true,
+      "credit_card": true
+    },
+    "specialties": ["comida rapida", "internacional"],
+    "menu": [
+        {
+          "categorie": "starter",
+          "items": [
+            {"name": "croquetas", "price": 700.00},
+            {"name": "frituras de malanga", "price": 500.00},
+            {"name": "fajitas de pollo", "price": 1020.00},
+            {"name": "fajitas de cerdo", "price": 1400.00},
+            {"name": "eperlan de pescado", "price": 1150.00},
+            {"name": "brusquetas", "price": 450.00},
+            {"name": "brusquetas de atún", "price": 800.00},
+            {"name": "ensalada fria de jamón", "price": 690.00},
+            {"name": "ensalada fria de atún", "price": 780.00},
+            {"name": "aros de cebolla rebozado", "price": 550.00},
+            {"name": "coctel de camarones", "price": 1600.00},
+            {"name": "camarón rebozado", "price": 2050.00},
+            {"name": "papas fritas", "price": 700.00},
+            {"name": "picadera km", "price": 2800.00},
+            {"name": "bolitas de queso", "price": 850.00},
+            {"name": "entremes surtido", "price": 1150.00},
+            {"name": "maripositas chinas", "price": 470.00},
+            {"name": "tostones natural", "price": 550.00},
+            {"name": "tostones r/ jamón", "price": 670.00},
+            {"name": "tostones r/ res", "price": 780.00},
+            {"name": "tostones r/ atún", "price": 920.00},
+            {"name": "ceviche de peruano", "price": 1200.00},
+            {"name": "ceviche km (camarón y pescado)", "price": 1700.00},
+            {"name": "finos cortes de jamón serrano", "price": 1700.00},
+            {"name": "carpacio de pulpo", "price": 3000.00}
+          ]
+        },
+        {
+          "categorie": "main course",
+          "items": [
+            {"name": "tamal de res km", "price": 1800.00},
+            {"name": "bruschetta de cerdo", "price": 2500.00},
+            {"name": "cazuela de marisco", "price": 4000.00},
+            {"name": "mar y tierra", "price": 5700.00},
+            {"name": "solomillo de cerdo", "price": 2300.00},
+            {"name": "lonjas de cerdo asada", "price": 2000.00},
+            {"name": "corte wagyu con queso azul", "price": 3050.00},
+            {"name": "corte wagyu a la pimienta", "price": 2800.00},
+            {"name": "corte wagyu al grill", "price": 2800.00},
+            {"name": "corte wagyu al vino", "price": 2800.00},
+            {"name": "entrecot", "price": 3900.00},
+            {"name": "churrasco de res", "price": 3850.00},
+            {"name": "chatteubriano", "price": 3500.00},
+            {"name": "sirloin", "price": 3000.00},
+            {"name": "garbanzo frito", "price": 1550.00},
+            {"name": "tamal en cazuela", "price": 1150.00},
+            {"name": "tamal con carne", "price": 1500.00},
+            {"name": "tacos de cerdo", "price": 1300.00},
+            {"name": "tacos de res", "price": 1400.00},
+            {"name": "tacos de camarones", "price": 1800.00},
+            {"name": "arroz frito", "price": 1300.00},
+            {"name": "arroz frito especial", "price": 2050.00},
+            {"name": "bistec de cerdo encebollado", "price": 1800.00},
+            {"name": "camarón enchilado", "price": 2300.00},
+            {"name": "camarón al ajillo", "price": 2300.00},
+            {"name": "gordon blue", "price": 2200.00},
+            {"name": "filete de pescado canciller", "price": 2200.00},
+            {"name": "uruguayo", "price": 2300.00},
+            {"name": "bistec de filete de cerdo", "price": 2300.00},
+            {"name": "solomillo de cerdo", "price": 2300.00},
+            {"name": "fricasé de cerdo", "price": 1850.00},
+            {"name": "chuleta de cerdo", "price": 2500.00},
+            {"name": "papilot de pescado", "price": 1820.00},
+            {"name": "rollo de filete de cerdo relleno", "price": 2800.00},
+            {"name": "vaca frita de res", "price": 1950.00},
+            {"name": "masa de cerdo frita", "price": 1980.00},
+            {"name": "ropa vieja de res", "price": 1700.00},
+            {"name": "filete de pescado grille", "price": 1390.00},
+            {"name": "bistec de riñonada encebollado", "price": 1800.00},
+            {"name": "pechuga grille encebollada", "price": 1400.00},
+            {"name": "pechuga al curri", "price": 1260.00},
+            {"name": "pechuga a la crema c/ chocolate", "price": 1280.00},
+            {"name": "filete de cerdo salteado", "price": 1600.00},
+            {"name": "filete de cerdo a la doch", "price": 1800.00},
+            {"name": "rollo de pechuga rellena", "price": 1850.00},
+            {"name": "filete de pescado", "price": 1390.00},
+            {"name": "filete de pescado napado", "price": 1700.00},
+            {"name": "grillada mixta", "price": 5700.00},
+            {"name": "filete jonville", "price": 2300.00},
+            {"name": "lomo de cerdo ahumado", "price": 1800.00},
+            {"name": "rueda pescado - plancha", "price": 1760.00},
+            {"name": "rueda pescado - ajillo", "price": 1870.00},
+            {"name": "rueda pescado - en salsa criolla", "price": 1870.00},
+            {"name": "langosta batabano", "price": 2800.00},
+            {"name": "langosta grille", "price": 2300.00},
+            {"name": "langosta termidor", "price": 2800.00},
+            {"name": "langosta jonville", "price": 3400.00},
+            {"name": "langosta enchilada", "price": 2400.00}
+          ]
+        },
+        {
+          "categorie": "sides",
+          "items": [
+            {"name": "arroz blanco", "price": 170.00},
+            {"name": "arroz moro", "price": 340.00},
+            {"name": "arroz pilaf", "price": 380.00}
+          ]
+        },
+        {
+          "categorie": "desserts",
+          "items": [
+            {"name": "leche condensada malteada", "price": 255.00},
+            {"name": "pote de helado 400 ml", "price": 560.00},
+            {"name": "pote de helado 1l", "price": 930.00}
+          ]
+        },
+        {
+          "categorie": "coffee",
+          "items": [
+            {"name": "café expreso", "price": 100.00},
+            {"name": "café cortado", "price": 130.00},
+            {"name": "café con leche", "price": 280.00}
+          ]
+        },
+        {
+          "categorie": "beverages",
+          "items": [
+            {"name": "refresco nacional", "price": 305.00},
+            {"name": "refresco importado", "price": 370.00},
+            {"name": "red bull", "price": 700.00},
+            {"name": "agua natural", "price": 250.00},
+            {"name": "agua tonica", "price": 230.00},
+            {"name": "malta bucanero", "price": 370.00},
+            {"name": "malta importada", "price": 370.00},
+            {"name": "malteada", "price": 280.00},
+            {"name": "kermato", "price": 560.00},
+            {"name": "limonada", "price": 560.00},
+            {"name": "jugo de frutas", "price": 155.00},
+            {"name": "batido de helado", "price": 830.00},
+            {"name": "jugo de caja", "price": 280.00}
+          ]
+        },
+        {
+          "categorie": "beers",
+          "items": [
+            {"name": "cerveza cristal", "price": 420.00},
+            {"name": "cerveza blue", "price": 300.00},
+            {"name": "cerveza sol", "price": 700.00},
+            {"name": "cerveza corona", "price": 700.00}
+          ]
+        },
+        {
+          "categorie": "cocktails",
+          "items": [null]
+        },
+        {
+          "categorie": "vines",
+          "items": [null]
+        },
+        {
+          "categorie": "ron",
+          "items": [null]
+        }
+    ]
+}

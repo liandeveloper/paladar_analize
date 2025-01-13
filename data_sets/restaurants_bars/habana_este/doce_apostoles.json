@@ -1,5 +1,5 @@
 {
-    "establishment": ["bar", "restaurante"],
+    "establishment": ["restaurante", "bar"],
     "name": "los doce apostoles",
     "address": {
         "city": "la habana",

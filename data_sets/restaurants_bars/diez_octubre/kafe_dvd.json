@@ -1,0 +1,119 @@
+{
+    "establishment": ["cafetería"],
+    "name": "kafe dvd",
+    "address": {
+        "city": "la habana",
+        "town": " ",
+        "street": "san francisco entre 10 de octubre y delicias, diez de octubre",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/kfedvd/?locale=zh_HK",
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0000-2400",
+        "tuesday": "0000-2400",
+        "wednesday": "0000-2400",
+        "thursday": "0000-2400",
+        "friday": "0000-2400",
+        "saturday": "0000-2400",
+        "sunday": "0000-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "alitas de pollo", "price": 1300.00},
+                {"name": "tacos", "price": 600.00},
+                {"name": "croquetas", "price": 400.00},
+                {"name": "fajitas de pollo", "price": 900.00},
+                {"name": "tostones al ajillo", "price": 350.00},
+                {"name": "tostones", "price": 300.00},
+                {"name": "chicharritas", "price": 150.00},
+                {"name": "fritura de malanga", "price": 400.00},
+                {"name": "chorizo", "price": 100.00},
+                {"name": "jamon", "price": 100.00},
+                {"name": "queso", "price": 200.00},
+                {"name": "cebolla", "price": 100.00},
+                {"name": "pimiento", "price": 100.00},
+                {"name": "aceituna", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "pan con perro", "price": 300.00},
+                {"name": "pan con tortilla", "price": 250.00},
+                {"name": "pan hamburguesa", "price": 400.00},
+                {"name": "pan hamburguesa mariquitas", "price": 500.00},
+                {"name": "fricase de cerdo", "price": 1300.00},
+                {"name": "masa de cerdo", "price": 1200.00},
+                {"name": "chuleta de cerdo", "price": 1500.00},
+                {"name": "bistec de cerdo", "price": 1000.00},
+                {"name": "bistec de pollo", "price": 950.00},
+                {"name": "higado con su salsa", "price": 770.00},
+                {"name": "higado a la italiana", "price": 730.00},
+                {"name": "higado encebollado", "price": 650.00},
+                {"name": "arroz frito", "price": 700.00},
+                {"name": "pastas napolitana", "price": 700.00},
+                {"name": "pizza grande", "price": 300.00},
+                {"name": "pizza chiquita", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [null]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "cerveza", "price": 200.00},
+                {"name": "enrgizante", "price": 300.00},
+                {"name": "jugo lata", "price": 300.00},
+                {"name": "refresco pepsi", "price": 250.00},
+                {"name": "refresco", "price": 220.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

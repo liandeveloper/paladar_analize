@@ -1,0 +1,103 @@
+{
+    "establishment": ["café-restaurante"],
+    "name": "joe's burger",
+    "address": {
+        "city": "la habana",
+        "town": " ",
+        "street": "esquina mayia rodriguez y aranguren, diez de octubre",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": null,
+        "instagram": "@joes_burguer00",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "76400715"
+    },
+    "schedule": {
+        "monday": "0800-2200",
+        "tuesday": "0800-2200",
+        "wednesday": "0800-2200",
+        "thursday": "0800-2200",
+        "friday": "0800-2300",
+        "saturday": "0800-2300",
+        "sunday": "0800-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["comida chatarra"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [[null]]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "hamburguesa de cerdo", "price": 500.00},
+                {"name": "hamburguesa de pollo", "price": 500.00},
+                {"name": "hamburguesa de res", "price": 700.00},
+                {"name": "hamburguesa doble", "price": 900.00},
+                {"name": "bocadito de jamón y queso", "price": 450.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "queso", "price": 120.00},
+                {"name": "lechuga", "price": 100.00},
+                {"name": "jamón", "price": 100.00},
+                {"name": "chorizo", "price": 80.00},
+                {"name": "bacon", "price": 150.00},
+                {"name": "huevo", "price": 150.00},
+                {"name": "cebolla", "price": 50.00},
+                {"name": "pepinillo", "price": 50.00},
+                {"name": "tomate", "price": 100.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [null]
+        },
+        {
+            "categorie": "coffee",
+            "items": [null]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "cerveza", "price": 350.00},
+                {"name": "limonada frappé", "price": 500.00},
+                {"name": "batido de helado", "price": 700.00},
+                {"name": "malteada", "price": 500.00},
+                {"name": "potes de helado", "price": 1000.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [null]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [null]
+        }
+    ]
+}

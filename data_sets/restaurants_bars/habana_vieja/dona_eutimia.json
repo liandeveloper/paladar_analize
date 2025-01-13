@@ -1,0 +1,168 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "Doña Eutimia",
+    "address": {
+        "city": "La Habana",
+        "town": "La Habana Vieja",
+        "street": "60-C, Callejon del Chorro",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contacto": {
+        "facebook": " ",
+        "instagram": " ",
+        "whatsapp": " ",
+        "web": "https://g.co/kgs/vhKKohR",
+        "telephone": " "
+    },
+    "schedule": {
+        "monday": "1200-2200",
+        "tuesday": "1200-2200",
+        "wednesday": "1200-2200",
+        "thursday": "1200-2200",
+        "friday": "1200-2200",
+        "saturday": "1200-2200",
+        "sunday": "1200-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Criolla", "Ropa Vieja"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Ensalada de Frutas", "price": 800.00},
+                {"name": "Ensalada de Vegetales", "price": 800.00},
+                {"name": "Ensalada del Chef", "price": 1200.00},
+                {"name": "Ensalada de Langosta", "price": 2500.00},
+                {"name": "Croquetas de Leticia", "price": 1000.00},
+                {"name": "Frituras de Malanga", "price": 900.00},
+                {"name": "Caldo del Dia", "price": 1000.00},
+                {"name": "Tostones Rellenos", "price": 1200.00},
+                {"name": "Empanada Doña Eutimia", "price": 1200.00},
+                {"name": "Garbanzos Fritos", "price": 1700.00},
+                {"name": "Racion de Pan", "price": 400.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Fajitas de Pollo", "price": 2600.00},
+                {"name": "Pollo Grille", "price": 2400.00},
+                {"name": "Suprema de Pollo Grille", "price": 2700.00},
+                {"name": "Masas de Cerdo Doña Eutimia", "price": 3000.00},
+                {"name": "Bistec de Cerdo", "price": 2400.00},
+                {"name": "Puntas de Cerdo", "price": 2300.00},
+                {"name": "Picadillo a la Habanera", "price": 2800.00},
+                {"name": "Ropa Vieja del Chorro", "price": 2800.00},
+                {"name": "Chilindron de Cordero", "price": 3900.00},
+                {"name": "Grillada Campesina", "price": 3900.00},
+                {"name": "Filete de Pescado Grille", "price": 4000.00},
+                {"name": "Mariscos al Estilo de la Casa", "price": 5000.00}
+            ]
+        },
+        {
+            "categorie": "desserts",
+            "items": [
+                {"name": "Dulces Criollos en Almibar con Queso", "price": 1000.00},
+                {"name": "Flan de la Casa", "price": 250.00},
+                {"name": "Helados Artesanales", "price": 250.00},
+                {"name": "Copa Lolita", "price": 1000.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                {"name": "Cafe", "price": 350.00},
+                {"name": "Cafe Cortado", "price": 380.00},
+                {"name": "Cafe con Leche", "price": 400.00},
+                {"name": "Cafe Capuccino", "price": 450.00},
+                {"name": "Frapuccino", "price": 850.00},
+                {"name": "Te", "price": 350.00}
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Aguas Nacionales", "price": 300.00},
+                {"name": "Aguas Importades", "price": 550.00},
+                {"name": "Refrescos Nacionales y Malta", "price": 400.00},
+                {"name": "Refrescos Importados y Maltas", "price": 450.00},
+                {"name": "Cervezas Nacionales", "price": 600.00},
+                {"name": "Cervezas Importadas", "price": 500.00},
+                {"name": "Cheladas, sobre el costo de la cerveza", "price": 200.00},
+                {"name": "Micheladas, sobre el costo de la cerveza", "price": 300.00},
+                {"name": "Jugos Naturales", "price": 500.00},
+                {"name": "Limonada", "price": 700.00},
+                {"name": "Limonada Frappe", "price": 750.00},
+                {"name": "Limonada Frescura", "price": 800.00},
+                {"name": "Copa de Vino", "price": 950.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [null]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Mojito Oriental", "price": 1600.00},
+                {"name": "Mojito Doña Eutimia", "price": 1400.00},
+                {"name": "Mojito Tradicional", "price": 1200.00},
+                {"name": "Mojito de Frutas", "price": 1400.00},
+                {"name": "Dark Mojito", "price": 1500.00},
+                {"name": "Daiquiri", "price": 1250.00},
+                {"name": "Daiquiri de Frutas", "price": 1400.00},
+                {"name": "Sangria", "price": 1500.00},
+                {"name": "Cuba Libre", "price": 1250.00},
+                {"name": "Cubata", "price": 1400.00},
+                {"name": "Piña Colada", "price": 1500.00},
+                {"name": "Ron Collins", "price": 1000.00},
+                {"name": "Habana Special", "price": 1250.00},
+                {"name": "Cubanito", "price": 1350.00},
+                {"name": "Presidente", "price": 1250.00},
+                {"name": "Canchanchara", "price": 1500.00},
+                {"name": "Caipiriña", "price": 1500.00},
+                {"name": "Caipiroska", "price": 1500.00},
+                {"name": "Caipirisima", "price": 1500.00},
+                {"name": "Dry Martini", "price": 1600.00},
+                {"name": "Dry Martini Saborizado", "price": 1800.00},
+                {"name": "Espresso Martini", "price": 1700.00},
+                {"name": "Margarita", "price": 1500.00},
+                {"name": "Margarita Saborizado", "price": 1700.00},
+                {"name": "Gin Tonic", "price": 1600.00},
+                {"name": "Gin Tonic Saborizado", "price": 1800.00},
+                {"name": "Old Fashioned", "price": 1600.00},
+                {"name": "Bloody Mary", "price": 1500.00},
+                {"name": "Negroni", "price": 1800.00},
+                {"name": "Aperol Spritz", "price": 1800.00},
+                {"name": "Orgasmo", "price": 2000.00}
+            ]
+        },
+        {
+            "categorie": "vine",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "Havana Club 3 Años", "price": 600.00},
+                {"name": "Havana Club Añejo Especial", "price": 800.00},
+                {"name": "Havana Club 7 Años", "price": 1100.00},
+                {"name": "Seleccion de Maestros", "price": 1600.00},
+                {"name": "Pacto de Navio", "price": 1700.00},
+                {"name": "Santiago Añejo 11 Años", "price": 1600.00},
+                {"name": "Santiago Añejo 12 Años", "price": 1700.00}
+            ]
+        }
+    ]
+}

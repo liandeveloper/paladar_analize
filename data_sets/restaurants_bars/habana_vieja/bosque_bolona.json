@@ -1,0 +1,113 @@
+{
+    "establishment": ["restaurante", "bar"],
+    "name": "Bosque Bolona",
+    "address": {
+        "city": "La Habana",
+        "town": "La Habana Vieja",
+        "street": "4JQW+62 La Habana",
+        "coordinates": {
+            "latitude": "23.1345",
+            "longitude": "-82.3549"
+        }
+    },
+    "contacto": {
+        "facebook": "https://www.facebook.com/bosquebolona",
+        "instagram": "https://www.instagram.com/bosquebolona",
+        "whatsapp": "+53 123456789",
+        "web": "http://www.bosquebolona.com",
+        "telephone": "+53 123 4567"
+    },
+    "schedule": {
+        "monday": "1200-2300",
+        "tuesday": "1200-2300",
+        "wednesday": "1200-2300",
+        "thursday": "1200-2300",
+        "friday": "1200-2300",
+        "saturday": "1200-2300",
+        "sunday": "1200-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["Criolla", "Ropa Vieja"],
+    "menu": [
+        {
+            "categorie": "starter",
+            "items": [
+                {"name": "Croquetas de Pollo", "price": 150.00}
+            ]
+        },
+        {
+            "categorie": "main course",
+            "items": [
+                {"name": "Camaron Enchilado", "price": 1740.00},
+                {"name": "Camaron Grille", "price": 1900.00},
+                {"name": "Brocheta de Camaron", "price": 1465.00},
+                {"name": "Langosta Entera", "price": 4500.00},
+                {"name": "Cerdo Estofado", "price": 875.00},
+                {"name": "Bistec de Cerdo Grille", "price": 850.00},
+                {"name": "Fajitas de Cerdo", "price": 990.00},
+                {"name": "Res Estofada", "price": 875.00},
+                {"name": "Lonjas de Res", "price": 945.00},
+                {"name": "Espaguetis Margarita", "price": 350.00},
+                {"name": "Agrego de Atun", "price": 100.00}
+            ]
+        },
+        {
+            "categorie": "sides",
+            "items": [
+                {"name": "Arroz Moro", "price": 135.00},
+                {"name": "Vianda Hervida", "price": 175.00},
+                {"name": "Vegetales Frescos", "price": 600.00}
+            ]
+        },
+        {
+            "categorie": "coffee",
+            "items": [
+                null
+            ]
+        },
+        {
+            "categorie": "beverages",
+            "items": [
+                {"name": "Jugo Nacional Lata", "price": 90.00},
+                {"name": "Vaso Jugo Importado", "price": 80.00},
+                {"name": "Malta Importada", "price": 135.00}
+            ]
+        },
+        {
+            "categorie": "beers",
+            "items": [
+                {"name": "Cerveza Importada", "price": 175.00}
+            ]
+        },
+        {
+            "categorie": "cocktails",
+            "items": [
+                {"name": "Licor Cubay de Menta", "price": 200.00},
+                {"name": "Licor Curacao Azul", "price": 200.00},
+                {"name": "Licor Cubay de Anis", "price": 200.00}
+            ]
+        },
+        {
+            "categorie": "vines",
+            "items": [null]
+        },
+        {
+            "categorie": "ron",
+            "items": [
+                {"name": "Chanceler", "price": 180.00},
+                {"name": "HC 3 Años", "price": 200.00},
+                {"name": "HC Reserva", "price": 380.00},
+                {"name": "HC Especial", "price": 250.00},
+                {"name": "HC Ritual", "price": 250.00}
+            ]
+        }
+    ]
+}
